@@ -1,10 +1,8 @@
-# Dissertatsiya rejasi (taxminiy)
+# Dissertatsiya rejasi
 
 **Mavzu:** Xorazm vohasi o'zbek shevalarining areal tadqiqi
 **Ixtisoslik:** 10.00.01 – O'zbek tili
 **Ilmiy daraja:** Filologiya fanlari doktori (DSc)
-
-> Eslatma: bu reja taxminiy variant bo'lib, ish jarayonida (dala materiallari, ilmiy rahbar tavsiyalari, ilmiy kengash muhokamasi asosida) o'zgartirilishi, kengaytirilishi yoki qayta guruhlanishi mumkin.
 
 ## KIRISH
 - Mavzuning dolzarbligi va zarurati
@@ -18,28 +16,29 @@
 - Ishning aprobatsiyasi va nashr etilganligi
 - Dissertatsiyaning tuzilishi va hajmi
 
-## I BOB. Areal tilshunoslikning nazariy-metodologik asoslari va Xorazm shevalarini o'rganish tarixi
-1.1. Areal tilshunoslik fanining jahon tilshunosligida shakllanishi va rivojlanish bosqichlari
-1.2. Turkiyshunoslik va o'zbek tilshunosligida areal-dialektologik tadqiqotlar
-1.3. Xorazm shevalarini o'rganish tarixi va uning bosqichlari
-1.4. Tadqiqotning nazariy-metodologik asoslari, manbalari va tadqiqot metodlari
+## I BOB. Xorazm viloyati o'zbek shevalarini areal tadqiq etishning nazariy-metodologik asoslari
+1.1. Areal lingvistika va lingvogeografiyaning zamonaviy tilshunoslikdagi o'rni
+1.2. O'zbek dialektologiyasida Xorazm shevalarining o'rganilish tarixi
+1.3. Xorazm dialektal zonasining tarixiy-etnik va lingvistik shakllanish omillari
+1.4. Xorazm shevalarini areal tadqiq etish metodlari va mezonlari
 
-## II BOB. Xorazm vohasi o'zbek shevalarining fonetik-fonologik areal xususiyatlari
-2.1. Unlilar tizimidagi areal farqlanishlar
-2.2. Undoshlar tizimidagi areal xususiyatlar va izoglossalar
-2.3. Urg'u, bo'g'in tuzilishi va boshqa fonetik sheva belgilari
-2.4. Fonetik izoglossalarning geografik tarqalishi va xaritalashtirilishi
+## II BOB. Xorazm viloyati o'zbek shevalarining fonetik va leksik areallari
+2.1. Xorazm shevalarida fonetik izoglossalar va ularning hududiy tarqalishi
+2.2. O'g'uz, qipchoq va oraliq fonetik belgilar munosabati
+2.3. Xorazm shevalarining leksik-etnografik qatlamlari
+2.4. Dialektal leksikaning areal tarqalishi va lingvomadaniy xususiyatlari
 
-## III BOB. Xorazm shevalarining leksik-semantik va so'z yasalish areal xususiyatlari
-3.1. Umumxalq tiliga xos va sheva xos leksika nisbati
-3.2. Etnografik, kasb-hunar va maishiy leksikaning areal tarqalishi
-3.3. So'z yasalishidagi hududiy-areal farqlar
-3.4. Qo'shni til va shevalar (qoraqalpoq, turkman) bilan leksik aloqadorlik masalalari
+## III BOB. Xorazm viloyati o'zbek shevalarining morfologik va sintaktik areallari
+3.1. Kelishik, egalik va ko'plik shakllarining areal xususiyatlari
+3.2. Fe'l shakllari va yordamchi birliklarning hududiy variantlari
+3.3. Xorazm shevalarida sintaktik qurilish va so'z tartibi
+3.4. Morfologik-sintaktik izoglossalarning dialektal zonalanishdagi o'rni
 
-## IV BOB. Xorazm shevalarining morfologik-sintaktik areal xususiyatlari
-4.1. Morfologik ko'rsatkichlardagi areal farqlanishlar
-4.2. Gap qurilishi va sintaktik konstruksiyalardagi sheva xususiyatlari
-4.3. Xorazm shevalari areal xaritasi: izoglossalar tizimi va sheva chegaralarining umumlashtirilgan tavsifi
+## IV BOB. Xorazm viloyati o'zbek shevalarining dialektal zonalanishi va lingvogeografik modeli
+4.1. Xorazm shevalarida o'g'uz, qipchoq va oraliq belgilarining kesishuv hududlari
+4.2. Turkman, qoraqalpoq va qozoq tillari bilan kontakt zonalari
+4.3. Dialektal yadro, periferik hudud va o'tish zonalarining belgilanishi
+4.4. Xorazm viloyati o'zbek shevalarining areal xaritasi va dialektal modeli
 
 ## XULOSA
 
