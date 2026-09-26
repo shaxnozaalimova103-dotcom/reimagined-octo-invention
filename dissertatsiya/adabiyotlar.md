@@ -26,6 +26,24 @@
 22. Шерматов А. Проблемы исторического развития и современного функционирования узбекских диалектов: Дис. ... д-ра филол. наук. – Т., 1978. – 339 б.
 23. Шоабдураҳмонов Ш. Ўзбек адабий тили ва халқ шевалари: Филол. фанлари д-ри ... дис. – Т., 1963. – 482 б.
 
+## 1.2-bandda tilga olingan, aniq bibliografik ma'lumoti hali to'ldirilmagan manbalar
+
+Quyidagi tadqiqotchilar/ishlar 1.2-band ("O'zbek dialektologiyasida Xorazm shevalarining o'rganilish tarixi") matnida keltirilgan. Yakuniy adabiyotlar ro'yxatiga kiritishdan oldin har biri uchun aniq nashr yili, nashriyot/himoya joyi va sahifa ma'lumotlarini to'ldirish kerak:
+
+- Y.D. Polivanov (qipchoq lahjasi bo'yicha dastlabki tadqiqot)
+- A.K. Borovkov, K.K. Yudaxin, V.V. Reshetov (umumiy asos)
+- G'.O. Yunusov, S. Ibrohimov, A. Aliyev, B. Egamov, H. G'ulomov, X. Doniyorov, I. Shamsiddinov (XX asr boshi o'zbek dialektologlari ro'yxati)
+- A. Ishayev — "Qoraqalpog'istondagi o'zbek shevalari" (monografiya)
+- E. O'rozov — "Janubiy Qoraqalpog'istondagi o'zbek shevalari"
+- O. Madrahimov (Xiva shevasi, o'g'uz lahjasi leksikasi)
+- Y. Jumanazarov — "O'zbek adabiy tili va Janubiy Xorazm dialekti"
+- O. Nurjonov — "Qoraqalpog'istondagi o'zbek shevalari etnografizmlarining antropotsentrik tavsifi"
+- Y. Ibragimov (nomzodlik va doktorlik dissertatsiyalari — aniq mavzu nomlari kerak)
+- R. Yo'ldoshev (Toshhovuz shevalari bo'yicha dissertatsiya — aniq mavzu nomi kerak)
+- M. Saparov (Xorazm o'g'uz shevalari — turkman tili qiyosiy tadqiqi, nomzodlik ishi)
+- A. Matniyazov (qadimgi Xorazm yozma yodgorliklari tili)
+- Sh.M. Alimova (Xorazm shevalarining 3 guruhli tasnifi va dialektal xaritasi keltirilgan ishning aniq nomi/yili)
+
 ## Qo'shimcha zarur manbalar (dissertatsiya uchun kengaytirish taklif etiladi)
 
 Quyidagi xalqaro manbalar 1.1-bandda umumnazariy fon sifatida keltirilgan, lekin ular hali mazkur ro'yxatga rasman kiritilmagan — aniq nashr ma'lumotlarini (nashriyot, bet) tekshirib, keyinroq qo'shish tavsiya etiladi:
