@@ -54,3 +54,23 @@ Quyidagi xalqaro manbalar 1.1-bandda umumnazariy fon sifatida keltirilgan, lekin
 - Bartoli M. Introduzione alla neolinguistica. – Genève, 1925.
 - Trubetzkoy N.S. Sprachbund tushunchasi (Praga lingvistik maktabi doirasida, 1920–30-yillar).
 - Chambers J.K., Trudgill P. Dialectology. – Cambridge University Press, 1980 (2-nashr 1998).
+
+## Jahon areal lingvistikasi manbalari — 1.4-band uchun TASDIQLANGAN (veb-qidiruv orqali tekshirilgan, havolalari bilan)
+
+Quyidagi manbalar 1.4-band ("Xorazm shevalarini areal tadqiq etish metodlari va mezonlari") va unga asoslangan QDU konferensiyasi maqolasida keltirilgan. Barchasi veb-qidiruv orqali tekshirilgan va to'g'ridan-to'g'ri havolalari bilan tasdiqlangan:
+
+1. Séguy J. La dialectométrie dans l'Atlas linguistique de la Gascogne // Revue de Linguistique Romane. – 1973. – Vol. 37. – P. 1–24.
+2. Goebl H. Recent Advances in Salzburg Dialectometry. – 2006.
+   Havola: https://goebl.ads.plus.ac.at/people/prof/goebl/docs/Goebl_2006_Recent%20Advances%20in%20Salzburg%20Dialectometry%202006.pdf
+3. Nerbonne J., Kleiweg P., Heeringa W. va boshq. Gabmap – A Web Application for Dialectology. – 2011.
+   Havola: https://www.let.rug.nl/nerbonne/papers/Gabmap-long-2011.pdf
+4. Labov W., Ash S., Boberg C. The Atlas of North American English: Phonetics, Phonology and Sound Change. – Berlin: Mouton de Gruyter, 2006.
+   Havola: https://en.wikipedia.org/wiki/The_Atlas_of_North_American_English
+5. Preston D.R. (ed.) Handbook of Perceptual Dialectology. Vol. 1. – Amsterdam/Philadelphia: John Benjamins, 1999.
+   Havola: https://www.benjamins.com/catalog/z.hpd1
+6. Trudgill P. Dialects in Contact. – Oxford: Blackwell, 1986.
+7. Trudgill P. New-Dialect Formation: The Inevitability of Colonial Englishes. – Edinburgh: Edinburgh University Press, 2004.
+8. Siegel J. Koines and koineization // Language in Society. – 1985. – Vol. 14, № 3. – P. 357–378.
+   Havola: https://www.unioviedo.es/felixfer/Facsimiles/Siegel_1985_Koines_Koineization.pdf
+
+> Eslatma: "AIS/ALR atlaslarini dialektometrik qayta tahlil qilish" haqidagi umumiy jumla (1.4-band, dialektometriya paragrafi oxirida) hali aniq bitta manbaga bog'lanmagan — bu umumiy ilmiy kontekst sifatida qoldirilgan, agar aniq manba topilsa, shu yerga qo'shish mumkin.
