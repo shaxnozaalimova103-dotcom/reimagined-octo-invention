@@ -74,3 +74,22 @@ Quyidagi manbalar 1.4-band ("Xorazm shevalarini areal tadqiq etish metodlari va 
    Havola: https://www.unioviedo.es/felixfer/Facsimiles/Siegel_1985_Koines_Koineization.pdf
 
 > Eslatma: "AIS/ALR atlaslarini dialektometrik qayta tahlil qilish" haqidagi umumiy jumla (1.4-band, dialektometriya paragrafi oxirida) hali aniq bitta manbaga bog'lanmagan — bu umumiy ilmiy kontekst sifatida qoldirilgan, agar aniq manba topilsa, shu yerga qo'shish mumkin.
+
+## I. Darveshovning avtoreferatidan (2018, Farg'ona DU) aniqlangan/tasdiqlangan manbalar
+
+Quyidagi manbalar I. Darveshovning "Janubi-g'arbiy Namangan shevalari fonetik-fonologik xususiyatlarining areal tadqiqi" (PhD avtoreferati, 2018) asaridagi ilmiy aппарат orqali tasdiqlangan — bu bizning mavzuga juda yaqin, bir xil ixtisoslik (10.00.01) va metodologiyadagi ish bo'lgani uchun ishonchli manba hisoblanadi:
+
+1. Абдуллаев Ф. Фонетика Хорезмских говоров. – Тошкент, 1967. **(F. Abdullayevning ikkinchi, alohida ishi — bizdagi 1-raqamli "Хоразм шевалари" (1961) dan farqli.)**
+2. Ишаев А. Манғит шевасининг баъзи бир хусусиятлари // Ўзбек диалектологиясидан материаллар. II. – Тошкент: Фан, 1961.
+3. Боровков А.К. К характеристике узбекских «умлаутных» или «уйгуризованных» говоров // Сб. «Белек» (С.Е. Малову). – Ташкент, 1946.
+4. Боровков А.К. Узбекские говоры Наманганской области. – Ташкент, 1963.
+5. Юдахин К.К. Некоторые особенности Карабулакского говора // Ўзбек тили ва адабиёти масалалари. – 1958. – №1. – Б. 31–35.
+6. Поливанов Е.Д. Материалы по грамматике узбекского языка. I. Введение. – Ташкент, 1935.
+7. Поливанов Е.Д. Узбекская диалектология и узбекский литературный язык. – Ташкент: Узгосиздат, 1933.
+8. Юнусов Ғ.О. Ўзбек лаҳжаларининг таснифида бир тажриба. – Тошкент: Ўқувўздавнашр, 1937.
+9. Шоабдураҳмонов Ш. Ўзбек адабий тили ва халқ шевалари. – Тошкент, 1962. (Diqqat: bizdagi 23-raqamli yozuv — uning 1963 yildagi doktorlik dissertatsiyasi; bu esa alohida, 1962 yildagi kitob/monografiya nashri bo'lishi mumkin — ikkalasini ham saqlash tavsiya etiladi.)
+10. Решетов В.В. [мақола] // Ўзбек тили ва адабиёти масалалари. – 1965. – №5. (Aniq sarlavhasi hali tekshirilmagan.)
+11. Наливкин В., Наливкина М. Русско-сартовский и сартовско-русский словарь общеупотребительных слов с кратким грамматики по наречиям Наманганского уезда. – Казань, 1884.
+12. Jarring G. The Uzbek Dialect of Qilich. – Leipzig, 1937.
+
+**MUHIM TUZATISH:** 1.2-bandda "Y. Ibragimov" (Orolbo'yi qipchoq shevalari tadqiqotchisi, nomzodlik va doktorlik dissertatsiyalari) deb yozilgan edi. Darveshov avtoreferatida esa **S. Ibrohimov** — "Ўзбек тилининг Андижон шеваси" (Тошкент: Фан, 1960) muallifi — tilga olinadi. Bular **ikki xil olim**: familiyalari o'xshash (Иброҳимов/Ибрагимов), lekin ismlari va tadqiqot mavzulari boshqa-boshqa. 1.2-bandni qayta ko'rib chiqishda bu ikkisini aralashtirib yubormaslik kerak — sizdan Y. Ibragimov haqidagi ma'lumotning manbasini tasdiqlashingizni so'rayman.
