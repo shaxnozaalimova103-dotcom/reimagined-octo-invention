@@ -93,3 +93,48 @@ Quyidagi manbalar I. Darveshovning "Janubi-g'arbiy Namangan shevalari fonetik-fo
 12. Jarring G. The Uzbek Dialect of Qilich. – Leipzig, 1937.
 
 **Eslatma (hal qilindi):** Dastlab 1.2-banddagi Y. Ibragimov (Orolbo'yi qipchoq shevalari) bilan Darveshov avtoreferatidagi S. Ibrohimov (Andijon shevasi, Тошкент: Фан, 1960) aralashtirilmaganini tekshirish kerak degan ehtiyot eslatmasi qoldirilgan edi. Muallif tomonidan tasdiqlandi: bular haqiqatan ham ikki xil, alohida olim — 1.2-banddagi ma'lumot to'g'ri, o'zgartirish kerak emas. S. Ibrohimov (Andijon shevasi, 1960) alohida manba sifatida yuqoridagi ro'yxatda saqlanadi.
+
+## Allaberdiyev A.A. "Buxoro o'g'uz shevalarining til xususiyatlari" (DSc avtoreferati, Qarshi–Navoiy DU, 2025) dan olingan manbalar
+
+Bu — bizning mavzuga eng yaqin **DSc darajasidagi** ish (o'g'uz shevalari, 10.00.01 ixtisosligi). Uning footnote apparati juda boy va aniq bo'lib, ko'plab manbalarimizni to'liq sahifa/nashriyot ma'lumotlari bilan tasdiqladi, bir nechtasini esa yangi aniqladi. Quyida uch guruhga ajratilgan:
+
+### A) Mavjud yozuvlarimizni TO'LIQ TASDIQLAGAN/aniqlashtirgan manbalar
+
+- Поливанов Е.Д. Узбекская диалектология и узбекский литературный язык. – Ташкент: Узгосиздат, 1933. – **45 с.** (bizdagi #7 bilan mos, sahifa soni aniqlandi)
+- Шоабдураҳмонов Ш. Ўзбек адабий тили ва ўзбек халқ шевалари. – Тошкент: ЎзФА, 1962. – **372 б.** (Darveshov orqali topilgan 1962 yildagi kitobni tasdiqlaydi)
+- Абдуллаев Ф. Хоразм шевалари. – Тошкент: ЎзФА нашриёти, 1961. – **348 б.** (bizdagi #1 bilan deyarli bir xil, 1 betlik farq — ehtimol nashr/qayta nashr farqi)
+- Абдуллаев Ф.А. Фонетика Хорезмских говоров. – Ташкент, 1967. (Darveshovdan topilgan ikkinchi ishni **mustaqil ravishda tasdiqladi** — demak bu ish haqiqatan ham mavjud)
+- Жўраев Б. Юқори Қашқадарё шевалари. – Тошкент: Фан, 1969. – 168 б. (bizdagi #12 bilan to'liq mos)
+- Джураев А. Теоретические основы ареального исследования узбекоязычного массива. – Ташкент: Фан, 1991. – **220 с.** (bizdagi #10 bilan deyarli mos, 2 betlik farq)
+- **Ишаев А. Қорақалпоғистондаги ўзбек шевалари. – Тошкент: Фан, 1977. – 176 б.** — AVVAL "aniq nashr ma'lumoti kerak" deb belgilangan edi, ENDI TO'LIQ TOPILDI!
+- Муродова Н. Ўзбек тили Навоий вилояти шеваларининг лингво-ареал талқини: Филол.фан.д-ри...дисс. – Тошкент, 2006. – 236 б. (bizdagi #16 bilan mos, to'liq sahifa soni aniqlandi)
+- Шерматов А. Узбекские народные говоры Кашкадарьинской области. – Ташкент: Фан, 1978. – 144 с. (bizdagi #22 bilan mos)
+
+### B) Yangi, avval bizda bo'lmagan aniq manbalar
+
+- **Абдуллаев Ф.А. Ўзбек тилининг ўғуз лаҳжаси. – Тошкент: Фан, 1978. – Б. 99.** — F. Abdullayevning **uchinchi** ishi! Bevosita bizning o'g'uz-qipchoq-oraliq mavzusiga tegishli, albatta ishlatilishi lozim.
+- Мадраҳимов О. Ўзбек тилининг ўғуз лаҳжаси лексикаси. – Тошкент: Фан, 1973. – 192 б. (1.2-bandda noaniq qoldirilgan O. Madrahimov manbasi endi to'liq)
+- Боровков А.К. Ўзбек шева-лаҳжаларини текширишга доир савол-жавоблар. – Тошкент, 1944. – 11 б.
+- Решетов В.В. Кураминские говоры Ташкентской области: Автореф. дисс...д-ра филол.наук. – Ташкент, 1951. – 20 с.
+- Дониёров Х. Қипчоқ диалектларининг лексикаси. – Тошкент: Фан, 1979. – 160 б.
+- Эгамов Б. Самарқанд области Ғаллаорол шеваси. – Самарқанд, 1970. – 136 б.
+- Ғуломов Ҳ. Чил сўзининг қўлланилиши ва маънолари // Ўзбек шевалари лексикаси. – Тошкент: Фан, 1966. – Б. 293–313.
+- Шамсиддинов И. Каракульский говор узбекского языка: Автореф.дисс...канд.филол. наук. – Ташкент, 1965. – 23 с.
+- Алиев А. Ўзбек диалектологиясидан материаллар (Наманган шевалари). – Тошкент: Фан, 1974. – 218 б.
+- Шерматов А. Қуйи Қашқадарё ўзбек шевалари. – Тошкент: Фан, 1972. – 168 б.
+- Ибрагимов Ю. Исследования узбекских говоров Приаралья. – Нукус: Билим, 1992. – 148 с.
+- Ибрагимов Ю. Лексика узбекских говоров Приаралья. – Нукус: Билим, 1996. – 156 с.
+- Қошғарий М. Девону луғотит турк. I–III жилд (таржимон С. Муталлибов). – Тошкент: ЎзФА, 1960–1963; Индекс. – Тошкент: Фан, 1967. (1.3-band — qadimgi turkiy qatlam — uchun qimmatli tarixiy manba)
+
+### V) TEKSHIRISH TALAB QILINADIGAN ziddiyatlar (sizga ko'rsatish uchun)
+
+Bir xil olimlarning ayrim ishlari turli manbalarda bir-biridan farqli sana/sahifa bilan uchradi — bular xato emas, balki ko'pincha **bir ishning turli nashrlari yoki turli jildlari** bo'lishi mumkin, lekin yakuniy ro'yxatga kiritishdan oldin tasdiqlash kerak:
+
+1. **Иброҳимов С. (Андижон шеваси):** Darveshovda — 1960 yil; Allaberdiyevda — **1967 yil, 260 б.** Qaysi yil to'g'ri?
+2. **Юнусов Ғ.О.:** Darveshovda — 1937 yil; Allaberdiyevda — **1935 йил, 64 б.** 
+3. **Юдахин К.К. (Карабулак шеваси):** Darveshovda — 1958, №1, Б.31-35; Allaberdiyevda — **1957, Т1, Б.31-57** (deyarli bir xil material, lekin yil/jild farqi bor — ehtimol xuddi shu maqolaning birinchi nashri 1957, ikkinchi bosilishi 1958).
+4. **Мирзаев М. (Бухоро гуруҳи):** bizdagi ro'yxatda — 1965 йил, 461 б. (dissertatsiya); Allaberdiyevda — **1969 йил, 156 б.** (bu, ehtimol, 1965 yildagi dissertatsiyaning 1969 yilda kitob holida qisqartirilib nashr etilgani bo'lishi mumkin — ikkalasini ham alohida saqlash tavsiya etiladi).
+5. **Муҳаммаджонов Қ.:** bizdagi ro'yxatda — 1988 й. (doktorlik avtoreferati, 44 с.); Allaberdiyevda — **1983 й., 168 б.** (ehtimol oldinroq nashr etilgan monografiya — ikkalasi alohida ishlar bo'lishi mumkin).
+6. **Ибрагимов Й./Ю. (Жанубий Оролбўйи):** bizdagi ro'yxatda — 2000 й., 274 б.; Allaberdiyevda — **2000 й., 370 б.** Bir xil yil, lekin sahifa soni farq qiladi — bosma xatosi bo'lishi mumkin.
+
+> Bu ziddiyatlarning aksariyati, ehtimol, "xato" emas — bir olim bir mavzuda bir necha marta (avtoreferat → to'liq dissertatsiya → kitob) nashr qildirgani uchun yuzaga kelgan. Lekin DSc dissertatsiyasida aniqlik juda muhim bo'lgani uchun, iloji bo'lsa, asl nusxalarni (yoki kutubxona katalogini) tekshirib chiqishni tavsiya etaman.
