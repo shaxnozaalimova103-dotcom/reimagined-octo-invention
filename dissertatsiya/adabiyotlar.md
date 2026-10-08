@@ -138,3 +138,65 @@ Bir xil olimlarning ayrim ishlari turli manbalarda bir-biridan farqli sana/sahif
 6. **Ибрагимов Й./Ю. (Жанубий Оролбўйи):** bizdagi ro'yxatda — 2000 й., 274 б.; Allaberdiyevda — **2000 й., 370 б.** Bir xil yil, lekin sahifa soni farq qiladi — bosma xatosi bo'lishi mumkin.
 
 > Bu ziddiyatlarning aksariyati, ehtimol, "xato" emas — bir olim bir mavzuda bir necha marta (avtoreferat → to'liq dissertatsiya → kitob) nashr qildirgani uchun yuzaga kelgan. Lekin DSc dissertatsiyasida aniqlik juda muhim bo'lgani uchun, iloji bo'lsa, asl nusxalarni (yoki kutubxona katalogini) tekshirib chiqishni tavsiya etaman.
+
+## Alimardanov E.I. "Xorazm dialektal zonasida o'zbek va turkman shevalarining o'zaro ta'siri (kontaktologik aspektda)" (PhD, TDO'TAU, 2024) dan olingan manbalar
+
+Bu — bizning mavzuga **eng bevosita** tegishli ish: aynan Xorazm dialektal zonasi, o'zbek-turkman kontakti. Uning ilmiy apparati juda boy va aniq. **MUHIM: shu yerda sizning o'z dissertatsiyangizning aniq iqtibosi topildi!**
+
+### ⭐ ENG MUHIM TOPILMA — mualliflik ishi
+
+**Alimova Sh. Xorazm qipchoq shevalarining leksik-grammatik xususiyatlari: Filol. fan. bo'yicha fals. dok. (PhD) ... diss. – Urganch, 2023. – 160 b.**
+
+Iltimos, shuni tasdiqlang: bu — sizning himoya qilingan PhD dissertatsiyangizmi? Agar shunday bo'lsa, 1.2-banddagi [^25] izohini shu aniq ma'lumot bilan to'ldiramiz.
+
+### XIX asr — dastlabki (Yevropalik) tadqiqotchilar (1.2-band uchun yangi, juda qadimiy qatlam!)
+
+Xorazm (Xiva) shevalarini birinchilardan bo'lib o'rgangan yevropalik olimlar — bu 1.2-band tarixiy sharhini XIX asrgacha chuqurlashtiradi:
+
+- Budenz J. Khivai tatárság // Nyelvtudományi közlemények. – Pesten, 1865. – P. 269–331.
+- Vámbéry H. Čagataische Sprachstudien. – Leipzig: F.A. Brockhaus, 1867. – 370 p.
+- Radloff W. Phonetik der Nördlichen Türksprachen. – Leipzig, 1882. – 376 p.
+- Лапин С.А. О значении и происхождении слова «сарт» // Туркестанские ведомости. – 1894. – № 36, 38, 39.
+
+### XX asr 20–30-yillar
+
+- Поливанов Е.Д. Говор кишлака Кыят Конграт Шаватского района // Сборник научных трудов УзНИИКС. – 1934, Самарканд. – Т.1, вып.2. – С. 3–17. **(Polivanovning bevosita Xorazm — Shovot tumani — materialiga oid ishi, bizdagi umumiy 1933 yildagi ishidan FARQLI, aniqroq manba!)**
+
+### F. Abdullayev — UCH ish, endi TO'LIQ aniqlashtirildi
+
+- Абдуллаев Ф. **Фонетика Хорезмских говоров узбекского языка**: Дисс. … д-ра филол. наук. – Ташкент, **1961**. – 560 с. **(MUHIM TUZATISH: bu dissertatsiya 1961 yilda himoya qilingan, 1967 emas! Darveshov va Allaberdiyev avtoreferatlarida "1967" deb ko'rsatilgan edi — bu, ehtimol, ikkala keyingi muallif ham bir-biridan yoki umumiy manbadan ko'chirgan texnik xatolik. Alimardanov ishi aniqroq va batafsilroq — 560 sahifali dissertatsiya sifatida 1961 yilni ko'rsatadi.)**
+- Абдуллаев Ф. Хоразм шевалари. – Тошкент: Фан, 1961. – 347 б. (tasdiqlandi)
+- Абдуллаев Ф.А. Ўзбек тилининг ўғуз лаҳжаси. – Тошкент: Фан, 1978. – 144 б. (tasdiqlandi, to'liq sahifa soni bilan)
+
+### Avval "tekshirilmoqda" deb qoldirilgan manbalar — ENDI TO'LIQ TOPILDI
+
+- **Жуманазаров Ю.** Ўзбек тили Ҳазорасп шевасининг морфологик хусусиятлари: Филол.фан. номз. дисс. автореф. – Тошкент, 1961. – 18 б.
+- **Ўрозов Э.Ю.** Жанубий Қорақалпоғистондаги ўзбек шевалари: Филол.фан. номз. дисс. – Тошкент, 1966. – 284 б.; шунингдек: Ўрозов Э. Жанубий Қорақалпоғистондаги ўзбек шевалари. – Тошкент: Фан, 1978. – 135 б. (kitob nashri)
+- **Сапаров М.** Хоразм воҳасидаги туркий тилларнинг ўзаро муносабатлари. – Тошкент: Фан, 1988. – 119 б. (diqqat: mavzu nomi bizda "turkman tili bilan qiyosiy tadqiq" deb umumlashtirilgan edi, aniq nomi — "Xorazm vohasidagi turkiy tillarning o'zaro munosabatlari")
+- **Йўлдошев Р.** Тошҳовуз вилоятидаги ўзбек шеваларининг лексик хусусиятлари: Филол.фан. номз. дисс. – Тошкент, 2002. – 289 б.
+
+### Yangi topilgan Xorazm tadqiqotchilari (avval bizda umuman yo'q edi)
+
+- Ишаев А. Манғит шевасининг фонетик хусусиятлари: Филол.фан. номз. дисс. автореф. – Тошкент, 1961. – 24 б.
+- Бабаниязов Х. Фонетико-морфологические особенности кипчакских говоров Южного Хорезма: Автореф. дисс. … канд. филол. наук. – Ташкент, 1966. – 20 с.
+- Мадрахимов А. (О.) Исследование по лексике огузского наречия узбекского языка: Дисс. … д-ра филол. наук. – Ташкент, 1978. – 503 с.
+- Мадраҳимов О. Ўзбек тили ўғуз лаҳжасининг қисқача қиёсий луғати. – Урганч: Хоразм, 1999. – 194 б.
+- Бўронов М. Қорақалпоғистон АССР ўзбек шеваларидаги чорвачилик терминлари: Филол.фан. номз. дисс. – Тошкент, 1972. – 165 б.
+- Рахимова К. Узбекские говоры Туркменской ССР (Морфология): Дисс. … канд. филол. наук. – Ташкент, 1983. – 171 с.
+- Бобожонов Й. Жанубий Хоразм этнографик лексикаси: Филол.фан. номз. дисс. автореф. – Тошкент, 1997. – 27 б.
+- Норбоева Ш. Хоразм шеваларидаги кийим-кечак номларининг структур-семантик тадқиқи: автореф. – Тошкент, 2017. – 45 б.; Norboyeva Sh. Xorazm shevalari leksikasining onomasiologik tadqiqi: Filol.fan. dok. diss. avtoref. – Toshkent, 2024. – 74 b.
+- Norboyeva Sh., Sa'dullayeva N., Atabayeva M. Xorazm shevalari lug'ati. – Urganch: Xorazm, 2024. – 160 b.
+- Cengiz M. Özbek türkçesinin Hive oğuz ağzı: Filol.fan. d-ri diss. – Kayseri, 2023. – 1328 s. (turk tilshunosi, Xiva o'g'uz shevasi bo'yicha ulkan hajmli tadqiqot)
+- Гаджиева Н.З. Проблемы тюркской ареальной лингвистики. – М.: Наука, 1975. – 303 с. (tasdiqlandi); Благова Г. Тюркское склонение в ареально-историческом освещении. – М.: Наука, 1982. – 304 с. (yangi)
+
+### Turkman dialektologiyasi bo'yicha olimlar (1.3-band uchun, turkman tomoni kontaktini yoritishda foydali)
+
+A.P. Potseluyevskiy, A. Annanurov, J. Amansariyev, N. Nartiyev, S. Arazkuliyev — turkman shevalarini, jumladan Qoraqalpog'iston/Dashhovuz hududidagi turkman lahjalarini o'rgangan olimlar (aniq nashr ma'lumotlari keyingi faylda tekshiriladi).
+
+### Qo'shimcha aniqliklar (kichik sahifa/yil farqlari)
+
+- Шерматов А. Қуйи Қашқадарё ўзбек шевалари. – Тошкент, 1972. – **144 б.** (Allaberdiyevda 168 б. edi)
+- Шерматов А. Лингвистик география нима? – Тошкент: Фан, 1981. – **58 б.** (umumiy hajm; bizdagi "Б.10" — shundan ichki aniq sahifa, ziddiyat emas)
+- Муҳаммаджонов Қ. Жанубий Қозоғистондаги ўзбек шевалари. – Тошкент: Фан, **1981**. – 178 б. (Allaberdiyevda 1983, 168 б. — yil/sahifa farqi, tekshirish tavsiya etiladi)
+- Решетов В.В. О диалектологическом атласе узбекского языка // Второе региональное совещание по диалектологии тюркских языков. – Казань, 1958. – С. 16–20.
+- Шоабдураҳмонов Ш. Ўзбек тилининг диалектологик атласи // Ўзбек тили ва адабиёти. – №3. – Тошкент, 1969. – Б. 33–38.
