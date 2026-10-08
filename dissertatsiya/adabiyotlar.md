@@ -143,11 +143,11 @@ Bir xil olimlarning ayrim ishlari turli manbalarda bir-biridan farqli sana/sahif
 
 Bu — bizning mavzuga **eng bevosita** tegishli ish: aynan Xorazm dialektal zonasi, o'zbek-turkman kontakti. Uning ilmiy apparati juda boy va aniq. **MUHIM: shu yerda sizning o'z dissertatsiyangizning aniq iqtibosi topildi!**
 
-### ⭐ ENG MUHIM TOPILMA — mualliflik ishi
+### ⭐ MUALLIFLIK ISHI — TASDIQLANDI
 
-**Alimova Sh. Xorazm qipchoq shevalarining leksik-grammatik xususiyatlari: Filol. fan. bo'yicha fals. dok. (PhD) ... diss. – Urganch, 2023. – 160 b.**
+**Alimova Sh.M. Xorazm qipchoq shevalarining leksik-grammatik xususiyatlari: Filol. fan. bo'yicha fals. dok. (PhD) ... diss. – Urganch, 2023. – 160 b.**
 
-Iltimos, shuni tasdiqlang: bu — sizning himoya qilingan PhD dissertatsiyangizmi? Agar shunday bo'lsa, 1.2-banddagi [^25] izohini shu aniq ma'lumot bilan to'ldiramiz.
+Muallif tomonidan tasdiqlandi — bu sizning himoya qilingan PhD dissertatsiyangiz. 1.2-banddagi [^25] izohi shu aniq ma'lumot bilan to'ldirildi.
 
 ### XIX asr — dastlabki (Yevropalik) tadqiqotchilar (1.2-band uchun yangi, juda qadimiy qatlam!)
 
