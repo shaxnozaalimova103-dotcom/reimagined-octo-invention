@@ -221,3 +221,23 @@ Yana bir bevosita areal tilshunoslikka bag'ishlangan PhD ish. Asosiy yangi topil
 - D.I. Edelman — areal tilshunoslikni "hozirgi tillarning yoyilish hodisasini qadimgi areallar asosida o'rganuvchi soha" sifatida talqin qilgan.
 
 **Muhim nazariy qo'shimcha:** Bartoli asos solgan "ekstensiv taksonomiya" (hududning tashqi, umumiy areal jarayonlarini o'rganish) va "intensiv taksonomiya" (hududning o'ziga xos, taksonomik tarkibiy qismlarini o'rganish) farqlanishi — bu Xorazm o'g'uz/qipchoq/oraliq shevalari tahlilida metodologik ahamiyatga ega bo'lishi mumkin.
+
+## Campbell L. "Linguistic Areas" (taqdimot) va Campbell L., Kaufman T., Smith-Stark T.C. "Meso-America as a Linguistic Area" (1986) dan — TEKSHIRILGAN, asl manbadan o'qilgan
+
+Bu ikkala material "til ittifoqi" (Sprachbund/linguistic area) nazariyasi bo'yicha jahon tilshunosligidagi eng obro'li, keng iqtibos qilinadigan manbalardan biri. Ikkinchisi — rasmiy nashr etilgan ilmiy maqola:
+
+**Asosiy manba:** Campbell L., Kaufman T., Smith-Stark T.C. Meso-America as a Linguistic Area // Language. – 1986. – Vol. 62, № 3. – P. 530–570.
+
+Ushbu maqola ichida keltirilgan (ikkinchi darajali, o'z vaqtida asl nusxalaridan tekshirish tavsiya etiladi) muhim iqtiboslar:
+
+- **Trubetzkoy N.S.** 1928-yilgi 16-tezis (Actes du Premier Congrès International de Linguistes, 1928: 17–18) — "Sprachbund" atamasining birlamchi manbasi, asl nemischa matni maqolada keltirilgan.
+- **Sherzer J.** Areal Linguistics in North America // Current Trends in Linguistics. – 1973. – Vol. 10. – P. 760. (Til ittifoqining eng ko'p iqtibos qilinadigan ta'rifi shu yerda.)
+- **Masica C.** Defining a Linguistic Area: South Asia. – Chicago, 1976. (1972-yildagi dastlabki versiyasi ham mavjud.)
+- **Katz H.** Studien zu den älteren indoiranischen Lehnwörtern in den uralischen Sprachen. – Göttingen, 1975. (Sprachbundning formal-matematik ta'rifi shu yerda, nemis tilida.)
+- **Emeneau M.B.** India as a Linguistic Area // Language. – 1956. – Vol. 32. – P. 3–16. ("Linguistic area" atamasini keng tanitgan asosiy maqola.)
+- **Velten H.V.** 1943 — "linguistic area" atamasini birinchi ishlatgan muallif (aniq maqola nomi tekshirilmoqda).
+- Thomason S.G. Language Contact: An Introduction. – Edinburgh: Edinburgh University Press, 2001.
+- Bartoli M. – 1925, 1928, 1929, 1933a, 1933b, 1939 (italyan neolingvistika maktabining bir nechta asari, Mesoamerica maqolasining 1-footnote'ida sanab o'tilgan).
+- Schuchardt H. — to'lqinlar nazariyasini (Wellen-hypothese) aslida I. Shmidtning 1872-yildagi "Wellentheorie"sidan OLDIN ilgari surgan bo'lishi mumkinligi haqida fikr (Spitzer 1928: 165, 431 orqali).
+
+**Nazariy ahamiyati:** Ushbu maqola "til ittifoqi"ni binar (bor/yo'q) tushuncha sifatida emas, balki "zaif"dan "kuchli"gacha bo'lgan **kontinuum** sifatida baholashni taklif qiladi — bu I bobning 1.1-qismida Xorazm oraliq shevalarining areal "kuchi"ni baholash uchun asosiy nazariy vosita sifatida qo'llanildi.
