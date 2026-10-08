@@ -200,3 +200,24 @@ A.P. Potseluyevskiy, A. Annanurov, J. Amansariyev, N. Nartiyev, S. Arazkuliyev �
 - Муҳаммаджонов Қ. Жанубий Қозоғистондаги ўзбек шевалари. – Тошкент: Фан, **1981**. – 178 б. (Allaberdiyevda 1983, 168 б. — yil/sahifa farqi, tekshirish tavsiya etiladi)
 - Решетов В.В. О диалектологическом атласе узбекского языка // Второе региональное совещание по диалектологии тюркских языков. – Казань, 1958. – С. 16–20.
 - Шоабдураҳмонов Ш. Ўзбек тилининг диалектологик атласи // Ўзбек тили ва адабиёти. – №3. – Тошкент, 1969. – Б. 33–38.
+
+## Po'latova S.M. "Vobkent tumani shevasining arealogik tadqiqi" (PhD, BuxDU, 2023) dan olingan manbalar
+
+Yana bir bevosita areal tilshunoslikka bag'ishlangan PhD ish. Asosiy yangi topilmalar:
+
+- **Bartoli M. Saggi di linguistica spaziale. – Torino, 1945. – 306 p.** — M. Bartolining neolingvistika/areal tilshunoslik asoschisi sifatidagi ASL (italyancha) asari — bizning 1.1-bandda umumiy tilga olingan Bartoli normalarining bevosita manbasi!
+- Ахманова О.С. Словарь лингвистических терминов. – М., 1966. – С. 60. (terminologik lug'at — "areal lingvistika/dialektografiya" atamalari sinonim ekanligini bildiruvchi manba)
+- Серебренников Б.А. Методы лингвогеографических исследований // Общее языкознание: методы лингвистических исследований. – М., 1973. – С. 120–167.
+- Jo'rayev A. Teoretik asoslar — 1991 (tasdiqlandi, bizdagi #10 bilan mos)
+- Боровков А.К. Ўзбек шева-лаҳжаларини текширишга доир савол-жавоблар анкетаси. – 1944 (tasdiqlandi — bu "anketa" ya'ni so'rovnoma metodining boshlanishi!)
+- Решетов В.В. О диалектологическом атласе узбекского языка // Тезисы докладов II регионального совещания по диалектологии тюркских языков. – Казань, 1958. – Б. 34.
+- Мирзаев М. Бухоро областидаги ўзбек шеваларини ўрганиш учун анкета. – Бухоро, 1955. – Б. 64. (yana bir aniq "anketa" — so'rovnoma namunasi)
+- Алиев А. Ўзбек тилининг Наманган диалекти бўйича материал тўпловчилар учун анкета. – Наманган, 1964. – Б. 86.
+- Алиев А., Назаров Қ.Н. Ўзбек тилининг маҳаллий шевалари бўйича материал тўпловчилар учун методик қўлланма. – Тошкент, 1976. – Б. 34–40.
+- Шоабдурахмонов Ш. Ўзбек тилининг диалектологик атласи // Ўзбек тили ва адабиёти. – 1969. – 3-сон. – Б. 34–40. (tasdiqlandi)
+- Шерматов А. Қуйи Қашқадарё ўзбек шевалари. – Тошкент, 1972. – Б. 34 (bet ko'rsatkichi farqli, umumiy manba tasdiqlandi)
+- **Q. Olloyorov. Areal lingvistika: o'quv-uslubiy qo'llanma. – T.: "Adabiyot uchqunlari", 2020.** — zamonaviy o'zbek tilidagi maxsus "Areal lingvistika" o'quv qo'llanmasi, nazariy asos sifatida juda qo'l keladigan manba!
+- Axmanova O.S. terminologik asosda: areal lingvistika, lingvistik geografiya, arealogiya, dialektografiya atamalari o'rtasidagi munosabat — bu atamalar ayrim olimlarda sinonim (Axmanova, Serebrennikov, Desnitskaya), ayrimlarida farqli (M.A. Borodina: "lingvistik geografiya" = atlas tuzish amaliyoti, "arealogiya" = areal nazariyalar) talqin qilinadi.
+- D.I. Edelman — areal tilshunoslikni "hozirgi tillarning yoyilish hodisasini qadimgi areallar asosida o'rganuvchi soha" sifatida talqin qilgan.
+
+**Muhim nazariy qo'shimcha:** Bartoli asos solgan "ekstensiv taksonomiya" (hududning tashqi, umumiy areal jarayonlarini o'rganish) va "intensiv taksonomiya" (hududning o'ziga xos, taksonomik tarkibiy qismlarini o'rganish) farqlanishi — bu Xorazm o'g'uz/qipchoq/oraliq shevalari tahlilida metodologik ahamiyatga ega bo'lishi mumkin.
