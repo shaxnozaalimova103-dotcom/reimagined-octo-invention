@@ -1,0 +1,250 @@
+# 6-MA'RUZA. SSENARIY TUSHUNCHASI
+=2 soat
+@ Bilim tuzilmalari (strukturalari) haqida umumiy tushuncha.
+@ Ssenariy tushunchasining paydo bo'lishi va ta'riflari.
+@ Ssenariyning tuzilishi: epizodlar, ishtirokchilar, sabab-oqibat zanjiri.
+@ Ssenariyning tilda ifodalanishi. O'zbek tilidan misollar.
+@ Ssenariylarning matnni tushunishdagi o'rni.
+## 1. Bilim tuzilmalari haqida umumiy tushuncha
+Inson ongidagi bilimlar tartibsiz holda emas, balki muayyan tuzilmalar ko'rinishida saqlanadi. Kognitiv fanda bu tuzilmalar **bilim tuzilmalari**, **bilimni reprezentatsiya qilish formatlari** yoki **kognitiv modellar** deb ataladi. Ularning asosiy turlari: konsept, freym, ssenariy, skript, sxema, geshtalt, prototip, propozitsiya.
+Bilim tuzilmalari g'oyasi psixologiyada ingliz olimi F. Bartlett «Eslab qolish» (Remembering, 1932) asarida ilgari surgan **sxema** tushunchasiga borib taqaladi. Bartlett tajribalarida sinaluvchilar o'zlariga notanish madaniyatga oid hikoyani (shimoliy amerikalik hindularning «Arvohlar urushi» afsonasini) qayta so'zlab berishda uni o'z madaniyatidagi tanish sxemalarga moslashtirib o'zgartirganlar. Bu xotira passiv nusxa emas, balki mavjud bilim tuzilmalari asosida qayta tiklanish jarayoni ekanini ko'rsatdi.
+1970-yillarda sun'iy intellekt sohasida kompyuterga matnni «tushuntirish» ehtiyoji tufayli bilim tuzilmalarining aniq modellari ishlab chiqildi: M. Minskiyning freymlari (1974), R. Shenk va R. Abelsonning skriptlari (1977).
+## 2. Ssenariy tushunchasining paydo bo'lishi va ta'riflari
+**Ssenariy** (ingl. scenario, lot. scaena – «sahna») – vaqt bo'yicha ketma-ket rivojlanadigan, sabab-oqibat munosabati bilan bog'langan voqealar, harakatlar va holatlar haqidagi bilim tuzilmasi.
+Kognitiv tilshunoslikda ssenariyga turlicha ta'riflar berilgan:
+- **E.S. Kubryakova va hammualliflar** («Kognitiv terminlarning qisqacha lug'ati»): ssenariy – vaqt bo'yicha rivojlantirilgan freym; u ma'lum vaqt oralig'ida yuz beradigan tipik voqealar ketma-ketligini ifodalaydi.
+- **Z.D. Popova va I.A. Sternin**: ssenariy (skript) – dinamik tarzda taqdim etilgan freym; vaqt ichida yoyilgan, ketma-ket bosqichlar (epizodlar) ko'rinishidagi konsept. Masalan, «sayohat», «tug'ilgan kun», «imtihon».
+- **T. van Deyk** («Til. Bilish. Kommunikatsiya», ruscha nashri 1989): ssenariy – ijtimoiy vaziyatlar haqidagi stereotip bilimlarning tashkil topish shakli bo'lib, u matnni tushunish va tegishli kontekstni tiklashni ta'minlaydi.
+- **Sh. Safarov**: ssenariy – ongda saqlanadigan, harakat va voqealar rivojini ketma-ketlikda aks ettiruvchi bilim qolipi.
+Tadqiqotchilar ssenariy va skript atamalarini goh sinonim sifatida, goh farqlab qo'llaydi. Farqlovchi yondashuvda **ssenariy** umumiyroq tushuncha bo'lib, har qanday ketma-ket rivojlanadigan voqealar modelini (shu jumladan, kamdan-kam yuz beradigan, individual voqealarni ham) qamraydi; **skript** esa qat'iy belgilangan, takrorlanuvchi, stereotip harakatlar ketma-ketligidir (bu haqda keyingi ma'ruzada so'z boradi).
+## 3. Ssenariyning tuzilishi
+Ssenariy quyidagi tarkibiy qismlardan iborat:
+- **Ishtirokchilar (rollar)** – vaziyatda harakat qiluvchi shaxslar (agens, paxiyens, adresat, yordamchi va h.k.).
+- **Rekvizitlar (atributlar)** – vaziyatda qatnashuvchi narsalar, vositalar.
+- **Boshlang'ich shartlar** – ssenariy amalga oshishi uchun zarur bo'lgan sharoit.
+- **Epizodlar (sahnalar)** – vaqt bo'yicha ketma-ket keluvchi bosqichlar.
+- **Natija** – ssenariy yakunida yuzaga keladigan holat.
+- **Sabab-oqibat bog'lanishlari** – epizodlarning bir-biriga bog'liqligi.
+## 4. Ssenariyning tilda ifodalanishi. O'zbek tilidan misollar
+**«To'y» ssenariysi** o'zbek lisoniy ongida quyidagi epizodlar ketma-ketligi sifatida mavjud:
+- Sovchilik (sovchi qo'yish, «kelin ko'rish»).
+- Fotiha to'yi (non sindirish, «oq fotiha»).
+- To'y oldi tadbirlari (sep, «qiz oshi», «chorlar»).
+- Nikoh to'yi (nikoh o'qitish, «kelin tushirish», «yuz ochdi»).
+- To'ydan keyingi marosimlar («kelin salom», «chaqiriq»).
+Bu epizodlar tilda maxsus leksemalar va birikmalar orqali ifodalanadi. «Sovchi», «fotiha», «sep», «kuyov navkar», «yor-yor», «kelin salom» kabi so'zlarning har biri butun ssenariyni yoki uning bir qismini faollashtiradi. Ularning boshqa tillarga tarjima qilinishi qiyin – bu so'zlar o'zbek madaniyatiga xos ssenariylarni ifodalovchi lingvokulturemalardir.
+**«Mehmon kutish» ssenariysi**: mehmonni taklif qilish → tayyorgarlik (uyni tozalash, dasturxon tuzash) → mehmonni kutib olish («Xush kelibsiz!») → to'rga o'tkazish → choy uzatish, dasturxonga taklif → suhbat → osh tortish → fotiha → kuzatib qo'yish. «Mehmon atoyi Xudo», «Mehmonga osh qo'y, oshing bo'lmasa, qosh qo'y» kabi maqollar ssenariyning qadriyatli jihatini ifodalaydi.
+Fe'llar ssenariyni faollashtirishda alohida rol o'ynaydi. Masalan, «sotib olmoq» fe'li savdo ssenariysini (sotuvchi, xaridor, tovar, pul, narx) yodga soladi. Shu sababli «Bozordan olma oldim. Qimmat ekan» gapida «qimmat» so'zi qaysi narsaga nisbatan aytilgani aniq tushuniladi.
+## 5. Ssenariylarning matnni tushunishdagi o'rni
+Matnda hamma narsa so'z bilan ifodalanmaydi: tinglovchi yoki o'quvchi bo'sh qolgan joylarni o'z ongidagi ssenariylar asosida to'ldiradi (inferensiya). Masalan:
+> «Anvar restoranga kirdi. U palov buyurdi. Ketayotib ofitsiantga choychaqa qoldirdi.»
+Bu matnda Anvarning stolga o'tirgani, menyuni ko'rgani, ovqatni yegani va pul to'lagani aytilmagan, biroq o'quvchi buni ssenariy asosida osonlik bilan tiklaydi. Ssenariy bilimi bo'lmagan (masalan, restoran madaniyatidan bexabar) kishi uchun matnni tushunish qiyinlashadi. Shu bois ssenariylar tarjimashunoslik, chet tilini o'qitish, sun'iy intellekt tizimlarini yaratishda muhim ahamiyatga ega.
+## Xulosa
+Ssenariy – vaqt bo'yicha rivojlanuvchi, epizodlardan iborat dinamik bilim tuzilmasi. U inson ongida tipik vaziyatlar haqidagi tajribani tartibga soladi, til birliklarining ma'nosini tushunish va matndagi yashirin axborotni tiklash imkonini beradi. Har bir xalqning milliy-madaniy ssenariylari uning tilida o'ziga xos leksik va frazeologik birliklar orqali aks etadi.
+! bilim tuzilmasi, sxema, ssenariy, epizod, rol, rekvizit, inferensiya, stereotip vaziyat, lingvokulturema.
+? Bilim tuzilmalari deganda nima tushuniladi? F. Bartlett tajribasining mohiyati nimada?
+? Ssenariy tushunchasiga berilgan ta'riflarni qiyoslang.
+? Ssenariy qanday tarkibiy qismlardan iborat?
+? O'zbek madaniyatiga xos ssenariylarga misol keltiring va ularni epizodlarga ajrating.
+? Ssenariyning matnni tushunishdagi o'rnini misollar asosida izohlang.
+
+# 7-MA'RUZA. SKRIPT TUSHUNCHASI
+=2 soat
+@ R. Shenk va R. Abelsonning skriptlar nazariyasi.
+@ Skriptning tuzilishi: rollar, rekvizitlar, kirish shartlari, sahnalar, natijalar.
+@ Skript turlari.
+@ Skript va ssenariy, skript va freym munosabati.
+@ Skriptlarning lisoniy ifodasi va milliy-madaniy xususiyatlari.
+## 1. Skriptlar nazariyasi
+**Skript** (ingl. script – «ssenariy, dastur, qo'lyozma») – muayyan, tez-tez takrorlanib turuvchi stereotip vaziyatda harakatlarning odatiy ketma-ketligini belgilovchi bilim tuzilmasi.
+Skript tushunchasini amerikalik olimlar **Rojer Shenk** va psixolog **Robert Abelson** «Skriptlar, rejalar, maqsadlar va tushunish» (Scripts, Plans, Goals and Understanding, 1977) kitobida ishlab chiqqan. Ular Yel universitetida kompyuter tomonidan oddiy hikoyalarni tushunish dasturlari (SAM – Script Applier Mechanism) ustida ishlashgan. Mualliflarning fikricha, inson kundalik hayotdagi vaziyatlarni tushunishda har safar yangidan fikr yuritmaydi, balki xotirasida saqlangan tayyor «skriptlar»dan foydalanadi.
+> Skript – bu yaxshi tanish vaziyatni belgilovchi, oldindan aniqlangan, stereotip harakatlar ketma-ketligidir (R. Shenk, R. Abelson).
+## 2. Skriptning tuzilishi
+Shenk va Abelson skriptning namunasi sifatida mashhur **«Restoran» skriptini** tahlil qilgan. Uning tarkibi:
+- **Rollar**: mijoz, ofitsiant, oshpaz, kassir, restoran egasi.
+- **Rekvizitlar**: stollar, menyu, taom, hisob qog'ozi, pul, choychaqa.
+- **Kirish shartlari**: mijoz och, mijozda pul bor.
+- **Sahnalar**: 1) kirish (restoranga kirish, stol tanlash, o'tirish); 2) buyurtma berish (menyuni olish, taom tanlash, ofitsiantga aytish); 3) ovqatlanish (oshpaz tayyorlaydi, ofitsiant olib keladi, mijoz yeydi); 4) chiqish (hisobni so'rash, to'lash, choychaqa qoldirish, restorandan chiqish).
+- **Natijalar**: mijoz to'q, mijozning puli kamaygan, restoran egasining daromadi oshgan.
+Skript ichida asosiy harakat yo'nalishi – «yo'l» (track) farqlanadi: masalan, «Restoran» skriptining «qahvaxona», «tez tayyorlanadigan taomlar oshxonasi», «hashamatli restoran» yo'llari mavjud bo'lib, ular sahnalar tarkibi bilan farqlanadi (o'z-o'ziga xizmat ko'rsatishda «ofitsiant» roli bo'lmaydi va h.k.).
+## 3. Skript turlari
+Shenk va Abelson skriptlarning uch turini ajratgan:
+- **Vaziyatli (situatsion) skriptlar** – muayyan joy va ijtimoiy vaziyat bilan bog'liq: restoranda, avtobusda, shifokor qabulida, do'konda.
+- **Shaxsiy skriptlar** – shaxsning o'z maqsadlariga erishish uchun qo'llaydigan harakatlar dasturi (masalan, «xushomadgo'y», «ayg'oqchi» skriptlari); vaziyatning boshqa ishtirokchilari bundan bexabar bo'lishi mumkin.
+- **Instrumental skriptlar** – muayyan vazifani bajarishdagi qat'iy ketma-ket harakatlar: avtomobilni o't oldirish, tuxum qovurish, choy damlash.
+## 4. Skript va ssenariy, skript va freym munosabati
+Skript, ssenariy va freym bir-biri bilan yaqin bo'lgan bilim tuzilmalaridir. Ularni quyidagicha farqlash mumkin:
+- **Freym** – vaziyat yoki ob'ekt haqidagi bilimlarning statik tuzilmasi (vaqt omili muhim emas).
+- **Ssenariy** – vaqt bo'yicha rivojlanuvchi freym; umumiy voqealar modeli.
+- **Skript** – ssenariyning eng qat'iy, stereotip, ko'p takrorlanadigan turi; harakatlar tartibi deyarli o'zgarmaydi.
+Ko'pgina rus tilshunoslari (Z.D. Popova, I.A. Sternin) ssenariy va skriptni sinonim sifatida qo'llaydi. Ingliz tilidagi adabiyotlarda esa «script» atamasi asosan Shenk–Abelson an'anasida, «scenario» atamasi esa ko'proq diskurs tahlilida (A. Sanford va S. Garrod, 1981) qo'llanadi.
+## 5. Skriptlarning lisoniy ifodasi va milliy-madaniy xususiyatlari
+Skriptlar tilda turli vositalar orqali aks etadi:
+- **Fe'llar va fe'l birikmalari**: «navbatga turmoq», «chipta olmoq», «kassaga to'lamoq», «qabulga yozilmoq».
+- **Nutqiy etiket formulalari**: «Xush kelibsiz!», «Nima olasiz?», «Hisobni keltiring», «Rahmat, osh bo'lsin!».
+- **Matnning tuzilishi**: ko'rsatmalar, yo'riqnomalar, retseptlar instrumental skriptlarni bevosita aks ettiradi («Avval suvni qaynatib oling, keyin...»).
+Skriptlar milliy-madaniy o'ziga xoslikka ega. Masalan, **o'zbek choyxonasi skripti** Yevropa restorani skriptidan farq qiladi:
+- Rollar: choyxonachi, oshpaz, gap ahli (doimiy davra a'zolari), mehmonlar.
+- Rekvizitlar: so'ri, ko'rpacha, choynak, piyola, dasturxon, lagan.
+- Sahnalar: kirish va salomlashish → so'riga o'tirish → choy keltirilishi va «qaytarish» (choyni piyolaga quyib, choynakka qaytarish) → choyni kattadan boshlab uzatish → osh tortilishi → fotiha → xizmat haqini to'lash (ko'pincha davraning bir a'zosi yoki «gap» navbatdagi egasi tomonidan).
+O'zbek «choy uzatish» skriptida piyolaga choyni oz quyish hurmat belgisi («Choyni oz quy, hurmatini ko'p qil»), to'la quyish esa «ketishingiz mumkin» degan yashirin ma'noni anglatishi mumkin. Bunday bilimga ega bo'lmagan chet ellik uchun bu holat noto'g'ri talqin qilinadi. Demak, skript bilimi madaniyatlararo muloqotda muhim ahamiyatga ega.
+## Xulosa
+Skript – stereotip vaziyatdagi harakatlarning qat'iy ketma-ketligini aks ettiruvchi bilim tuzilmasi. U R. Shenk va R. Abelson tomonidan sun'iy intellekt sohasida ishlab chiqilgan bo'lib, keyinchalik tilshunoslikda matnni tushunish, nutqiy etiket va madaniyatlararo muloqotni o'rganishda keng qo'llanila boshladi.
+! skript, vaziyatli skript, shaxsiy skript, instrumental skript, rol, rekvizit, kirish sharti, sahna, natija, yo'l (track).
+? Skript tushunchasi kim tomonidan va qaysi asarda ishlab chiqilgan?
+? «Restoran» skriptining tarkibiy qismlarini tavsiflang.
+? Skriptning qanday turlari mavjud? Misollar keltiring.
+? Skript, ssenariy va freym o'rtasidagi farqlarni izohlang.
+? O'zbek madaniyatiga xos skriptlarni tahlil qiling va ularning lisoniy ifodasini aniqlang.
+
+# 8-MA'RUZA. FREYM TUSHUNCHASI
+=2 soat
+@ Freym nazariyasining paydo bo'lishi: M. Minskiy va I. Gofman.
+@ Ch. Fillmorning freym semantikasi.
+@ Freymning tuzilishi: slotlar va terminallar.
+@ Freym turlari.
+@ Freym tahlili va uning o'zbek tilshunosligida qo'llanishi.
+## 1. Freym nazariyasining paydo bo'lishi
+«Freym» (ingl. frame – «ramka, karkas, qolip, tuzilma») atamasi turli fanlarda qo'llanadi. Sun'iy intellekt sohasida uni amerikalik olim **Marvin Minskiy** (1927–2016) «Bilimlarni ifodalash uchun asos» (A Framework for Representing Knowledge, 1974) maqolasida kiritgan (ruscha tarjimasi «Фреймы для представления знаний», 1979).
+> Freym – stereotip vaziyatni ifodalash uchun ma'lumotlar tuzilmasidir. Inson yangi vaziyatga duch kelganda xotiradan tayyor tuzilmani – freymni tanlaydi va uni detallarni o'zgartirish orqali voqelikka moslashtiradi (M. Minskiy).
+Minskiy freymni ikki darajali tuzilma sifatida tasavvur qilgan: yuqori darajalar qat'iy belgilangan va vaziyat uchun doimo to'g'ri bo'lgan ma'lumotlardan, quyi darajalar esa muayyan ma'lumotlar bilan to'ldiriladigan «terminallar» (yacheykalar)dan iborat.
+Sotsiologiyada amerikalik olim **Irving Gofman** «Freym tahlili: tajribani tashkil etish haqida ocherk» (Frame Analysis, 1974) kitobida freymni insonning ijtimoiy voqelikni talqin qilish sxemasi sifatida o'rgangan.
+## 2. Ch. Fillmorning freym semantikasi
+Tilshunoslikda freym nazariyasini amerikalik olim **Charlz Fillmor** (1929–2014) rivojlantirdi. U avval «Kelishik uchun dalillar» (The Case for Case, 1968) maqolasida chuqur kelishiklar (agens, instrument, ob'ekt, joy va h.k.) nazariyasini yaratdi, keyinchalik «Freym semantikasi» (Frame Semantics, 1982) maqolasida bu g'oyani rivojlantirdi.
+Fillmor ta'rifiga ko'ra, freym – bir-biri bilan bog'liq tushunchalar tizimi bo'lib, ulardan birini tushunish uchun butun tizimni tushunish zarur. So'z muayyan freymni faollashtiradi va shu freym fonida tushuniladi.
+Fillmorning mashhur misoli – **«tijorat bitimi» (commercial transaction) freymi**. Uning elementlari: xaridor (buyer), sotuvchi (seller), tovar (goods), pul (money). Turli fe'llar shu freymning turli qismlarini ta'kidlaydi (profillaydi):
+- «sotib olmoq» – xaridor va tovarni markazga qo'yadi;
+- «sotmoq» – sotuvchi va tovarni;
+- «to'lamoq» – xaridor va pulni;
+- «turmoq (narxi)» – tovar va pulni («Bu kitob o'n ming so'm turadi»).
+Fillmorning yana bir misoli – ingliz tilidagi «land» (quruqlik) va «ground» (yer) so'zlari. Ikkalasi ham yer yuzasini bildiradi, biroq «land» dengizga, «ground» esa havoga qarama-qarshi qo'yilgan freymda tushuniladi. Shu sababli «qushning hayotini yerda (on the ground) o'tkazishi» va «dengiz qushining quruqlikda (on land) o'tkazishi» butunlay boshqa ma'nolarni beradi.
+Fillmor rahbarligida 1997-yildan Kaliforniya universitetida (Berkli) **FrameNet** loyihasi amalga oshirilib kelinmoqda – bu ingliz tili leksikasining freymlar asosidagi elektron bazasi.
+## 3. Freymning tuzilishi: slotlar va terminallar
+Freym ierarxik tuzilishga ega:
+- **Freym nomi** – freymni ifodalovchi tayanch so'z (masalan, «Maktab»).
+- **Slotlar (uyachalar)** – freymning tarkibiy qismlari, belgilar (masalan, «o'qituvchi», «o'quvchi», «sinf xonasi», «dars», «baho», «qo'ng'iroq»).
+- **Terminallar (to'ldiruvchilar)** – slotlarni to'ldiruvchi aniq qiymatlar (masalan, «baho» sloti: «a'lo», «yaxshi», «qoniqarli»...).
+- **Standart qiymatlar** (default values) – maxsus ma'lumot bo'lmaganda avtomatik ravishda qabul qilinadigan qiymatlar. Masalan, «xona» freymida «to'rtta devor», «eshik», «shift» standart qiymatlardir.
+Freymlar o'zaro bog'langan holda **freym tarmog'ini** hosil qiladi: bir freymning sloti boshqa freym bo'lishi mumkin (subfreym). Masalan, «Universitet» freymi «Fakultet», «Kafedra», «Imtihon» subfreymlarini o'z ichiga oladi.
+## 4. Freym turlari
+Freymlar turli asoslarga ko'ra tasniflanadi:
+- **Statik va dinamik freymlar**: statik freym ob'ekt yoki vaziyatni tasvirlaydi («Xona», «Uy»), dinamik freym esa voqea rivojini aks ettiradi (ssenariy, skript).
+- **Ob'ekt freymi**, **vaziyat freymi**, **harakat freymi**, **tushuncha freymi**.
+- **Universal va milliy-madaniy freymlar**.
+- N.N. Boldirev **propozitsional freymlar**ni ajratadi: predmet freymi, harakat freymi, egalik freymi, identifikatsiya freymi, o'xshatish freymi.
+## 5. Freym tahlili va uning o'zbek tilshunosligida qo'llanishi
+Freym tahlili quyidagi bosqichlarda amalga oshiriladi:
+- tayanch so'z (freym nomi) ni aniqlash;
+- izohli lug'atlar, ensiklopediyalar, matnlar asosida freym slotlarini ajratish;
+- har bir slotni to'ldiruvchi til birliklarini (leksemalar, frazeologizmlar, paremalar) aniqlash;
+- freymning milliy-madaniy xususiyatlarini ochish.
+Masalan, o'zbek tilidagi **«Bozor» freymi**:
+- Slotlar: sotuvchi, xaridor, tovar, narx, savdo joyi, savdolashish, o'lchov.
+- Terminallar: «dehqon», «chayqovchi», «baqqol» (sotuvchi); «rasta», «do'kon», «peshtaxta» (joy); «arzon», «qimmat», «tekin», «baraka topsin» (narx va savdolashish).
+- Milliy xususiyat: savdolashish – o'zbek bozor madaniyatining ajralmas qismi; «Bozorda savdolashmagan – bozorni bilmagan», «Arzonning sho'rvasi tatimas» kabi maqollar bu freymning qadriyatli komponentini ifodalaydi.
+Freym nazariyasi o'zbek tilshunosligida Sh. Safarov, A. Mamatov va boshqa olimlar ishlarida, shuningdek, ko'plab dissertatsiyalarda («to'y», «mehmondorchilik», «ta'lim», «tibbiyot» freymlari tahliliga bag'ishlangan) qo'llanilgan.
+## Xulosa
+Freym – stereotip vaziyat yoki ob'ekt haqidagi bilimlarni tartibga soluvchi ierarxik tuzilma. M. Minskiy tomonidan sun'iy intellekt sohasida kiritilgan bu tushuncha Ch. Fillmor tomonidan tilshunoslikka tatbiq etilib, so'z ma'nosini u faollashtiradigan bilimlar fonida o'rganish imkonini berdi.
+! freym, slot, terminal, standart qiymat, subfreym, freym semantikasi, profillash, freym tahlili, FrameNet.
+? Freym tushunchasini kim, qachon va qaysi asarda kiritgan?
+? Ch. Fillmorning «tijorat bitimi» freymini tahlil qiling.
+? Freymning tarkibiy qismlari (slot, terminal, standart qiymat)ni izohlang.
+? Freymlarning qanday turlari mavjud?
+? O'zbek tilidagi biror freymni (masalan, «Maktab», «Bozor», «To'y») slotlar va terminallarga ajratib tahlil qiling.
+
+# 9-MA'RUZA. GESHTALT TUSHUNCHASI
+=2 soat
+@ Geshtalt psixologiyasining paydo bo'lishi va asosiy namoyandalari.
+@ Idrokning geshtalt qonunlari.
+@ «Figura va fon» tamoyili.
+@ Lingvistik geshtaltlar (J. Lakoff) va geshtaltning til birliklarida aks etishi.
+@ Geshtalt konsept turi sifatida.
+## 1. Geshtalt psixologiyasining paydo bo'lishi
+«Geshtalt» (nem. Gestalt – «shakl, obraz, yaxlit tuzilma») – qismlarining oddiy yig'indisiga teng bo'lmagan, yaxlit holda idrok etiladigan tuzilma.
+«Geshtalt sifati» tushunchasini avstriyalik faylasuf **Xristian fon Erenfels** «Geshtalt sifatlari haqida» (Über Gestaltqualitäten, 1890) maqolasida kiritgan. U kuy misolida fikrini asoslagan: kuyni boshqa tonallikka o'tkazganda barcha tovushlar o'zgaradi, ammo kuy o'sha kuy bo'lib qolaveradi. Demak, yaxlitlik qismlarga bog'liq bo'lmagan alohida sifatga ega.
+**Geshtalt psixologiyasi** maktabi 1910-yillarda Germaniyada shakllandi. Uning asoschilari:
+- **Maks Verthaymer** (1880–1943) – 1912-yilda «Harakatni ko'rishning eksperimental tadqiqi» maqolasida «fi-fenomen»ni tavsiflagan: ketma-ket yonib-o'chuvchi ikki nuqta harakatlanayotgan bitta nuqta sifatida idrok etiladi. Bu sana geshtalt psixologiyasining tug'ilgan yili hisoblanadi.
+- **Volfgang Köler** (1887–1967) – maymunlarda «insayt» (to'satdan anglash) hodisasini o'rgangan.
+- **Kurt Koffka** (1886–1941) – «Geshtalt psixologiyasi tamoyillari» (1935) asari muallifi.
+Geshtalt psixologiyasining asosiy g'oyasi: **butun qismlar yig'indisidan ortiq** (aniqrog'i, undan farqli); inson olamni alohida elementlar (sezgilar) to'plami sifatida emas, balki yaxlit obrazlar sifatida idrok etadi.
+## 2. Idrokning geshtalt qonunlari
+Geshtalt psixologlari idrokning quyidagi tamoyillarini (qonunlarini) aniqlagan:
+- **Yaqinlik qonuni** – bir-biriga yaqin joylashgan elementlar bir guruh sifatida idrok etiladi.
+- **O'xshashlik qonuni** – shakli, rangi, kattaligi o'xshash elementlar birlashtiriladi.
+- **Yopiqlik (tugallanganlik) qonuni** – ong to'liq bo'lmagan shakllarni tugallangan holda idrok etadi (uzilgan doira – doira sifatida).
+- **Uzluksizlik qonuni** – elementlar silliq chiziq yoki yo'nalish bo'ylab birlashtiriladi.
+- **Pregnantlik («yaxshi shakl») qonuni** – idrok eng sodda, barqaror, simmetrik shaklga intiladi.
+- **Umumiy taqdir qonuni** – bir yo'nalishda harakatlanuvchi elementlar bir guruh sifatida idrok etiladi.
+## 3. «Figura va fon» tamoyili
+Daniyalik psixolog **Edgar Rubin** (1915) idrok maydonida doimo **figura** (diqqat markazidagi, aniq chegaralangan, «oldinga chiqib turgan» qism) va **fon** (orqa plan, aniq shaklga ega bo'lmagan qism) ajralishini ko'rsatgan. Uning mashhur «Rubin vazasi» rasmida tomoshabin goh vazani, goh bir-biriga qarab turgan ikki yuzni ko'radi.
+Bu tamoyil kognitiv tilshunoslikda keng qo'llanadi:
+- **L. Talmi** tilda makoniy munosabatlarni ifodalashda «figura» (harakatlanuvchi yoki joylashuvi aniqlanuvchi ob'ekt) va «fon» (mo'ljal ob'ekt)ni farqlaydi: «Velosiped uy yonida turibdi» gapida velosiped – figura, uy – fon. «Uy velosiped yonida turibdi» gapining g'alati tuyulishi tilda kichik, harakatchan ob'ekt odatda figura, katta va barqaror ob'ekt esa fon sifatida tanlanishini ko'rsatadi.
+- **R. Lenekker** bu tamoyilni «trayektor» va «landmark» atamalari bilan ifodalaydi.
+- Gapda ega va kesim munosabati, aktiv va passiv konstruksiyalar tanlovi ham figura–fon tamoyili bilan izohlanadi: «Ali derazani sindirdi» (Ali – figura) va «Deraza sindirildi» (deraza – figura, harakat bajaruvchisi fonga o'tgan).
+## 4. Lingvistik geshtaltlar
+Tilshunoslikka geshtalt tushunchasini **J. Lakoff** «Lingvistik geshtaltlar» (Linguistic Gestalts, 1977) maqolasida olib kirgan. Uning fikricha, tafakkur, idrok, emotsiya, bilish jarayonlari, til tuzilishi geshtaltlar asosida tashkil topgan; geshtaltlar ham yaxlit, ham tahlil qilinadigan bo'ladi; ularning qismlari yaxlitlik ichidagi vazifasi bilan belgilanadi.
+Lakoff va Jonson «Biz yashaydigan metaforalar» (1980) asarida **tajribaviy geshtaltlar** (experiential gestalts) tushunchasini kiritadi: masalan, «suhbat» – ishtirokchilar, navbat bilan gapirish, mavzu, bosqichlar (boshlanish, rivojlanish, yakun) dan iborat yaxlit geshtalt.
+Til birliklarida geshtalt tamoyilining namoyon bo'lishi:
+- **Frazeologizmlar** – ularning umumiy ma'nosi tarkibidagi so'zlar ma'nolari yig'indisiga teng emas: «tarvuzi qo'ltig'idan tushdi» (umidi puchga chiqdi), «ko'zi ochildi», «og'zi qulog'ida».
+- **Murakkab so'zlar**: «belbog'», «oshqozon», «ko'zoynak» – ma'nosi qismlar yig'indisidan farqli.
+- **Konstruksiyalar** (A. Goldberg): sintaktik qolipning o'zi ma'noga ega.
+- **Matn** – yaxlitlik (integrativlik) uning asosiy belgisi; matn alohida gaplar yig'indisidan iborat emas.
+## 5. Geshtalt konsept turi sifatida
+Z.D. Popova va I.A. Sternin geshtaltni konseptning alohida turi sifatida ajratadi: **geshtalt** – predmet yoki hodisaning hissiy va ratsional elementlari birlashgan yaxlit, bo'linmas obrazi. Masalan, «Samarqand» deganda ko'z oldimizga Registon, ko'k gumbazlar, Amir Temur, «Sayqali ro'yi zamin» (Yer yuzining sayqali) kabi tasavvurlar yaxlit holda keladi. «Bahor», «bayram», «bolalik» kabi konseptlar ham geshtalt tarzida mavjud bo'ladi.
+## Xulosa
+Geshtalt – yaxlit idrok etiladigan, qismlar yig'indisiga teng bo'lmagan tuzilma. Geshtalt psixologiyasining g'oyalari (yaxlitlik, figura va fon, idrok qonunlari) kognitiv tilshunoslikda gap tuzilishi, frazeologiya, matn yaxlitligi va konseptlar tahlilida keng qo'llanmoqda.
+! geshtalt, geshtalt sifati, fi-fenomen, insayt, figura, fon, trayektor, landmark, pregnantlik, lingvistik geshtalt, tajribaviy geshtalt.
+? Geshtalt tushunchasining mazmunini Erenfels misoli asosida izohlang.
+? Geshtalt psixologiyasining asoschilari kimlar va ularning asosiy xizmatlari nimada?
+? Idrokning qaysi geshtalt qonunlarini bilasiz?
+? «Figura va fon» tamoyilining tildagi namoyon bo'lishini misollar bilan ko'rsating.
+? Frazeologizmlarni geshtalt nuqtai nazaridan tahlil qiling.
+
+# 10-MA'RUZA. KATEGORIYA TUSHUNCHASI. KATEGORIYALASHNING TARIXIY VA AN'ANAVIY ILDIZLARI
+=2 soat
+@ Kategoriya va kategoriyalash tushunchalari. Kategoriyalash va konseptualizatsiya.
+@ Klassik (Aristotel) kategoriyalash nazariyasi.
+@ L. Vitgenshteynning «oilaviy o'xshashlik» g'oyasi.
+@ E. Roshning prototiplar nazariyasi va bazaviy daraja.
+@ Tildagi kategoriyalash: leksik va grammatik kategoriyalar.
+## 1. Kategoriya va kategoriyalash
+**Kategoriya** (yun. kategoria – «ko'rsatish, belgilash, hukm») – bir xil belgilarga ega bo'lgan ob'ektlarni birlashtiruvchi guruh; falsafada eng umumiy, fundamental tushunchalar.
+**Kategoriyalash** – ob'ektlarni muayyan belgilar asosida guruhlarga (kategoriyalarga) ajratish, ularni bir sinfga kiritish jarayoni. **Konseptualizatsiya** esa olam haqidagi ma'lumotlarni anglash, konseptlarni hosil qilish jarayoni. E.S. Kubryakova ta'kidlaganidek, konseptualizatsiya minimal mazmun birliklarini (konseptlarni) ajratishga, kategoriyalash esa ularni kattaroq birliklarga (kategoriyalarga) birlashtirishga yo'naltirilgan.
+Kategoriyalash insonning eng asosiy kognitiv qobiliyatlaridan biri: usiz inson cheksiz xilma-xil olamda mo'ljal ololmas edi. J. Lakoff ta'kidlaganidek, «biz ko'radigan, o'ylaydigan va qiladigan har bir narsamiz kategoriyalashga asoslanadi».
+## 2. Klassik (Aristotel) kategoriyalash nazariyasi
+Kategoriyalash haqidagi dastlabki ta'limot qadimgi yunon faylasufi **Aristotel** (mil. av. 384–322) nomi bilan bog'liq. U «Kategoriyalar» asarida borliqning o'nta eng umumiy kategoriyasini ajratgan: mohiyat (substansiya), miqdor, sifat, munosabat, joy, vaqt, holat, egalik, harakat (ta'sir etish) va ta'sirlanish.
+Aristotel g'oyalari Sharqda Forobiy («Ikkinchi muallim» – Aristoteldan keyingi), Ibn Sino asarlarida sharhlangan va rivojlantirilgan. Nemis faylasufi I. Kant «Sof aqlning tanqidi» (1781) asarida aqlning 12 ta kategoriyasini to'rt guruhga (miqdor, sifat, munosabat, modallik) ajratgan.
+**Klassik nazariyaning asosiy qoidalari:**
+- Kategoriya zarur va yetarli belgilar majmui bilan belgilanadi.
+- Kategoriya chegaralari aniq: ob'ekt yoki kategoriyaga kiradi, yoki kirmaydi (uchinchisi yo'q).
+- Kategoriyaning barcha a'zolari teng huquqli: «yaxshiroq» yoki «yomonroq» a'zolar bo'lmaydi.
+Struktur tilshunoslikdagi komponent tahlil (semalarga ajratish) ham shu klassik qarashga asoslangan: masalan, «bo'ydoq» = [+inson], [+erkak], [+voyaga yetgan], [–uylangan].
+## 3. L. Vitgenshteynning «oilaviy o'xshashlik» g'oyasi
+Avstriyalik faylasuf **Lyudvig Vitgenshteyn** (1889–1951) vafotidan keyin nashr etilgan «Falsafiy tadqiqotlar» (1953) asarida klassik nazariyani tanqid qildi. U «o'yin» so'zini tahlil qilib, shaxmat, futbol, karta o'yinlari, bolalarning to'p o'yini kabi barcha o'yinlar uchun umumiy bo'lgan birorta ham belgi topib bo'lmasligini ko'rsatdi: ba'zilarida g'olib bor, ba'zilarida yo'q; ba'zilari mahorat, ba'zilari omadga bog'liq. O'yinlar bir oila a'zolari kabi bir-biriga turli jihatlardan o'xshaydi – buni u **«oilaviy o'xshashlik»** (Familienähnlichkeit) deb atadi.
+## 4. E. Roshning prototiplar nazariyasi
+Amerikalik psixolog **Eleanor Rosh** 1970-yillarda o'tkazgan eksperimentlari asosida **prototiplar nazariyasini** yaratdi («Semantik kategoriyalarning kognitiv reprezentatsiyasi», 1975; «Kategoriyalash tamoyillari», 1978).
+Uning dastlabki tadqiqotlari Yangi Gvineyadagi dani qabilasi bilan bog'liq: bu qabila tilida faqat ikkita asosiy rang nomi («yorug'» va «qorong'i») bo'lishiga qaramay, ular «fokal» (eng tipik) ranglarni oson eslab qolgan.
+Rosh tajribalarida amerikalik talabalardan turli ob'ektlarning kategoriyaga qanchalik «yaxshi namuna» ekanini baholash so'ralgan. Natijada «qush» kategoriyasida chumchuq va qizilto'sh (robin) eng tipik (prototip) a'zolar, tovuq, tuyaqush va pingvin esa periferik a'zolar ekani aniqlangan.
+**Prototiplar nazariyasining asosiy qoidalari:**
+- Kategoriyaning markazida **prototip** – eng yaxshi, eng tipik namuna turadi.
+- Kategoriya a'zolari teng huquqli emas: ular prototipga o'xshashlik darajasiga ko'ra markaz va periferiyaga joylashadi.
+- Kategoriyalar chegarasi noaniq, «loyqa» (fuzzy) bo'lishi mumkin. U. Labov (1973) idishlar bilan o'tkazgan tajribasida «chashka» va «kosa» (cup, bowl) o'rtasidagi chegara idish shakli va qo'llanish vaziyatiga qarab o'zgarishini ko'rsatgan.
+**Kategoriyalashning bazaviy darajasi.** Rosh kategoriyalar ierarxiyasida uch darajani ajratadi:
+- **Yuqori daraja** (superordinat): «mebel», «transport vositasi», «meva».
+- **Bazaviy daraja**: «stul», «avtomobil», «olma».
+- **Quyi daraja** (subordinat): «oshxona stuli», «Nexia», «oq olma».
+Bazaviy daraja kognitiv jihatdan eng muhim: bolalar bu darajadagi so'zlarni birinchi o'zlashtiradi; bu darajadagi nomlar odatda qisqa, ko'p qo'llanadigan bo'ladi; bu darajada ob'ektlar yaxlit obraz sifatida tasavvur qilinadi va ular bilan muayyan harakat dasturi bog'liq (stulga o'tiriladi, «mebel»ning esa yagona tasviri yo'q).
+J. Lakoff «Ayollar, olov va xavfli narsalar» (1987) kitobida prototip nazariyasini rivojlantirib, **radial kategoriyalar** va **idealashtirilgan kognitiv modellar** (IKM) nazariyasini yaratdi. Kitob nomi avstraliyalik dyirbal tilidagi «balan» klassifikatoriga ishora: bu turkumga ayollar, olov va xavfli narsalar kiradi – bu kategoriyalashning madaniyatga bog'liqligini ko'rsatadi.
+## 5. Tildagi kategoriyalash
+Til – kategoriyalash natijalarini mustahkamlovchi asosiy vosita. Tilda kategoriyalash ikki darajada namoyon bo'ladi:
+- **Leksik kategoriyalash** – so'zlar orqali olamdagi narsa va hodisalarni nomlash va tasniflash (giponimik qatorlar, leksik-semantik guruhlar). Masalan, o'zbek tilida «qovun» navlari («handalak», «ich-qizil», «bo'rikalla», «shakarpalak», «qora qosh»...) yoki «ot» rangining nomlari («to'riq», «saman», «qashqa», «jiyron», «bo'z») chuqur kategoriyalashni ko'rsatadi.
+- **Grammatik kategoriyalash** – so'z turkumlari, kelishik, son, zamon, shaxs kabi grammatik kategoriyalar orqali olamning eng umumiy belgilarini tasniflash. Masalan, o'zbek tilidagi «-ibdi», «ekan», «emish» shakllari ma'lumot manbaiga ko'ra kategoriyalashni (evidensiallik) ifodalaydi: «U keldi» (so'zlovchi voqeaga guvoh) – «U kelibdi» (so'zlovchi natijani ko'rib bilgan) – «U kelgan emish» (so'zlovchi boshqalardan eshitgan).
+So'z turkumlarini ham prototip nuqtai nazaridan qarash mumkin: masalan, «ot» turkumining prototipik a'zolari konkret, sanaladigan predmetlarni bildiradi («kitob», «daraxt»), periferik a'zolari esa abstrakt yoki harakat nomlari («o'qish», «baxt»).
+## Xulosa
+Kategoriyalash – insonning olamni tartibga solishdagi asosiy kognitiv jarayoni. Aristotelning klassik nazariyasidan Vitgenshteynning oilaviy o'xshashlik g'oyasi va E. Roshning prototiplar nazariyasigacha bo'lgan rivojlanish kategoriyalar aniq chegarali mantiqiy sinflar emas, balki markaz va periferiyaga ega bo'lgan, inson tajribasi va madaniyatiga bog'liq tuzilmalar ekanini ko'rsatdi.
+! kategoriya, kategoriyalash, konseptualizatsiya, klassik nazariya, oilaviy o'xshashlik, prototip, periferiya, bazaviy daraja, radial kategoriya, idealashtirilgan kognitiv model.
+? Kategoriyalash va konseptualizatsiya qanday farqlanadi?
+? Aristotelning kategoriyalari va klassik nazariyaning asosiy qoidalarini izohlang.
+? L. Vitgenshteyn «o'yin» misolida nimani isbotlagan?
+? E. Roshning prototiplar nazariyasi va bazaviy daraja haqidagi g'oyalarini tushuntiring.
+? O'zbek tilidan leksik va grammatik kategoriyalashga misollar keltiring.

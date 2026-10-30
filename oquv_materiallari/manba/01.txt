@@ -1,0 +1,266 @@
+# 1-MA'RUZA. TILSHUNOSLIKDA ANTROPOSENTRIZMNING SHAKLLANISHI
+=2 soat
+@ Tilshunoslik ilmiy paradigmalarining almashinuvi: qiyosiy-tarixiy, sistem-struktur va antroposentrik paradigmalar.
+@ Antroposentrizmning falsafiy va lingvistik ildizlari: V. fon Gumboldt ta'limoti.
+@ Neogumboldtchilik va Sepir–Uorf gipotezasi.
+@ «Til shaxsi» nazariyasi (Yu.N. Karaulov).
+@ Antroposentrik tilshunoslikning asosiy yo'nalishlari va o'zbek tilshunosligidagi tadqiqotlar.
+## 1. Tilshunoslik ilmiy paradigmalarining almashinuvi
+«Paradigma» atamasi fanga amerikalik fan tarixchisi Tomas Kun tomonidan «Ilmiy inqiloblar strukturasi» (1962) asarida kiritilgan. Kun talqinida paradigma – muayyan davrda ilmiy jamoa tomonidan e'tirof etilgan, muammolarni qo'yish va hal etish uchun namuna bo'lib xizmat qiluvchi nazariy qarashlar, metodlar va qadriyatlar majmui. Bir paradigmadan boshqasiga o'tish «ilmiy inqilob» deb ataladi.
+Tilshunoslik tarixida odatda uchta yirik ilmiy paradigma ajratiladi:
+- **Qiyosiy-tarixiy paradigma** (XIX asr). F. Bopp, R. Rask, Ya. Grimm, A.X. Vostokov asarlari bilan bog'liq. Asosiy e'tibor tillarning qarindoshligi, umumiy bobotilni tiklash va tillarning tarixiy taraqqiyotiga qaratilgan. Til tabiiy organizm sifatida o'rganiladi (A. Shleyxer).
+- **Sistem-struktur paradigma** (XX asrning birinchi yarmi – 1960-yillar). Ferdinand de Sossyurning «Umumiy tilshunoslik kursi» (1916) asosida shakllangan. Til «o'z-o'zida va o'zi uchun» o'rganiladigan belgilar tizimi sifatida qaraladi; til va nutq, sinxroniya va diaxroniya, sintagmatika va paradigmatika farqlanadi. Praga, Kopengagen, Amerika deskriptiv maktablari shu paradigmaga mansub.
+- **Antroposentrik paradigma** (XX asrning so'nggi choragidan hozirgacha). Tadqiqot markaziga til egasi – inson qo'yiladi. Til inson tafakkuri, ongi, madaniyati, ma'naviy-amaliy faoliyati bilan uzviy bog'liq hodisa sifatida o'rganiladi.
+Antroposentrik paradigmaning mohiyatini fransuz tilshunosi Emil Benvenistning «Tilda inson» degan iborasi yaxshi ifodalaydi: u «tilda inson va insonda til» munosabatini o'rganish zarurligini ta'kidlagan. E.S. Kubryakova antroposentrizmni zamonaviy tilshunoslikning yetakchi tamoyillaridan biri sifatida ekspansionizm, funksionalizm va eksplanatorlik (izohlovchilik) bilan bir qatorda ko'rsatadi.
+> Antroposentrizm – bu ilmiy ob'ektlarni, avvalo, ularning inson hayotidagi roli, inson faoliyatidagi vazifasi, inson shaxsining rivojlanishi va kamolotidagi ahamiyatiga qarab o'rganish tamoyilidir (E.S. Kubryakova).
+## 2. Antroposentrizmning falsafiy va lingvistik ildizlari
+Antroposentrizm g'oyasi qadimgi yunon faylasufi Protagorning «Inson – barcha narsalarning mezonidir» degan qarashiga borib taqaladi. Sharq mutafakkirlari – Forobiy, Beruniy, Ibn Sino, Mahmud Koshg'ariy, Alisher Navoiy asarlarida ham til, tafakkur va inson ma'naviyati o'rtasidagi bog'liqlik haqida qimmatli fikrlar mavjud. Masalan, Alisher Navoiy «Muhokamat ul-lug'atayn» (1499) asarida turkiy tilning ma'no nozikliklarini ifodalovchi so'zlarni misol keltirib, til boyligi xalq tafakkuri va madaniyatining ko'zgusi ekanini ko'rsatgan. Mahmud Koshg'ariyning «Devonu lug'otit turk» (1072–1077) asari esa turkiy xalqlarning hayot tarzi, urf-odatlari, dunyoqarashini so'zlar orqali aks ettirgan dastlabki lingvokulturologik manba hisoblanadi.
+Lingvistik antroposentrizmning bevosita asoschisi nemis olimi **Vilgelm fon Gumboldt** (1767–1835) hisoblanadi. Uning asosiy g'oyalari:
+- Til tayyor mahsulot (ergon) emas, balki faoliyat (energeia)dir.
+- Har bir til o'ziga xos «dunyoqarash»ni (Weltansicht) ifodalaydi; tillarning farqi tovush va belgilar farqi emas, balki olamni ko'rishning farqidir.
+- «Xalqning tili – uning ruhi, xalqning ruhi – uning tilidir».
+- Til xalq va olam o'rtasida turadigan oraliq dunyodir.
+Gumboldt g'oyalarini rus olimi A.A. Potebnya (1835–1891) davom ettirib, so'zning «ichki shakli» haqidagi ta'limotni yaratdi. Potebnyaning «Fikr va til» (1862) asari tafakkur va til munosabati masalasiga bag'ishlangan.
+## 3. Neogumboldtchilik va Sepir–Uorf gipotezasi
+XX asrda Gumboldt g'oyalari ikki yo'nalishda rivojlandi:
+- **Nemis neogumboldtchiligi** – Leo Vaysgerber (1899–1985) «tilning olam manzarasi» (sprachliches Weltbild) tushunchasini ilgari surdi. Uning fikricha, til insonning voqelikni idrok etishi va tushunishiga ta'sir qiluvchi «oraliq olam» (Zwischenwelt) hosil qiladi.
+- **Amerika etnolingvistikasi** – F. Boas, E. Sepir (1884–1939) va B.L. Uorf (1897–1941) asarlari. Uorf Amerika hindulari (xopi) tilini ingliz va boshqa Yevropa tillari («o'rtacha standart Yevropa tili» – SAE) bilan qiyoslab, til tuzilishi tafakkurga ta'sir etadi, degan xulosaga keldi.
+**Lingvistik nisbiylik gipotezasi** (Sepir–Uorf gipotezasi) ikki shaklda talqin qilinadi:
+- Qat'iy (kuchli) talqin – lingvistik determinizm: til tafakkurni to'liq belgilaydi.
+- Yumshoq (kuchsiz) talqin – lingvistik nisbiylik: til tafakkur va idrokka muayyan darajada ta'sir ko'rsatadi.
+Zamonaviy tadqiqotlar (masalan, B. Berlin va P. Keyning 1969-yilda e'lon qilingan rang nomlari bo'yicha tadqiqoti) kuchli talqinni tasdiqlamadi: barcha tillarda asosiy rang nomlari muayyan universal tartibda paydo bo'lishi aniqlandi. Biroq kuchsiz talqin – til idrok va xotiraga ta'sir qilishi – ko'plab eksperimentlarda o'z isbotini topmoqda. Masalan, qarindoshlik terminlari: o'zbek tilida «amaki», «tog'a», «amma», «xola» so'zlari qarindoshlik munosabatini otaning yoki onaning tomonidan aniq farqlaydi, ingliz tilida esa bu ma'nolar «uncle» va «aunt» so'zlari bilan umumlashtirib ifodalanadi.
+## 4. «Til shaxsi» nazariyasi
+Antroposentrik tilshunoslikning markaziy tushunchalaridan biri – **til shaxsi** (rus. языковая личность). Bu tushunchani V.V. Vinogradov (1930-yillar) ilk bor qo'llagan bo'lsa, uni nazariy jihatdan Yu.N. Karaulov «Rus tili va til shaxsi» (1987) monografiyasida asoslab berdi. Karaulov ta'rifiga ko'ra, til shaxsi – nutqiy asarlar (matnlar) yaratish va idrok etish qobiliyatiga ega bo'lgan inson; bu matnlar tuzilishining murakkabligi, voqelikni aks ettirishining chuqurligi va aniqligi hamda maqsadga yo'nalganligi bilan farqlanadi.
+Karaulov til shaxsi tuzilishida uch darajani ajratadi:
+- **Verbal-semantik (leksikon) daraja** – oddiy tilni bilish darajasi; so'zlar va grammatik qoidalar zaxirasi.
+- **Lingvokognitiv (tezaurus) daraja** – shaxsning tushunchalar, g'oyalar, konseptlar tizimi; olam manzarasi.
+- **Motivatsion (pragmatikon) daraja** – shaxsning maqsadlari, motivlari, qiziqishlari, kommunikativ ehtiyojlari.
+## 5. Antroposentrik tilshunoslikning yo'nalishlari va o'zbek tilshunosligi
+Antroposentrik paradigma doirasida quyidagi yo'nalishlar shakllandi:
+- **Kognitiv tilshunoslik** – til va bilish (tafakkur) munosabatini o'rganadi.
+- **Lingvokulturologiya** – til va madaniyat munosabatini o'rganadi (V.N. Teliya, V.V. Vorob'yov, V.A. Maslova).
+- **Psixolingvistika** – nutq hosil qilish va idrok etish jarayonlarini o'rganadi (A.A. Leontyev, L.S. Vigotskiy an'analari).
+- **Sotsiolingvistika** – til va jamiyat munosabatini o'rganadi.
+- **Pragmalingvistika** – til birliklarining nutq vaziyatida qo'llanishi, so'zlovchi niyati va ta'sirini o'rganadi (J. Ostin, J. Syorl – nutqiy aktlar nazariyasi).
+- **Etnolingvistika**, **neyrolingvistika**, **gender lingvistikasi** va boshqalar.
+O'zbek tilshunosligida antroposentrik yo'nalishdagi tadqiqotlar XXI asr boshidan faollashdi. Sh. Safarovning «Kognitiv tilshunoslik» (2006) va «Pragmalingvistika» (2008) kitoblari, N. Mahmudovning «Tilning mukammal tadqiqi yo'llarini izlab» (2012) maqolasi, D. Xudoyberganovaning «Matnning antropotsentrik tadqiqi» (2013) monografiyasi, Sh. Usmanovaning lingvokulturologiyaga oid ishlari bu boradagi muhim manbalardir. N. Mahmudov o'z maqolasida til – inson ma'naviy olamining tashuvchisi ekanini ta'kidlab, o'zbek tilshunosligi oldida tilni inson omili bilan bog'liq holda o'rganish vazifasi turganini asoslab bergan.
+## Xulosa
+Antroposentrizm tilshunoslikda tadqiqot ob'ektini kengaytirib, tilni faqat ichki tizim sifatida emas, balki inson tafakkuri, madaniyati va faoliyati bilan bog'liq hodisa sifatida o'rganishga yo'l ochdi. Ushbu paradigma kognitiv tilshunoslik, lingvokulturologiya, psixolingvistika va pragmalingvistika kabi zamonaviy yo'nalishlarning nazariy asosi hisoblanadi.
+! paradigma, antroposentrizm, energeia, ergon, xalq ruhi, lingvistik nisbiylik, til shaxsi, leksikon, tezaurus, pragmatikon, olam manzarasi.
+? Ilmiy paradigma nima? Tilshunoslikda qaysi paradigmalar ajratiladi?
+? Sistem-struktur va antroposentrik paradigmalarning asosiy farqi nimada?
+? V. fon Gumboldtning til haqidagi asosiy g'oyalarini izohlang.
+? Sepir–Uorf gipotezasining kuchli va kuchsiz talqinlarini qiyoslang.
+? Yu.N. Karaulov til shaxsi tuzilishida qaysi darajalarni ajratadi?
+? Antroposentrik tilshunoslikning qaysi yo'nalishlarini bilasiz?
+
+# 2-MA'RUZA. KOGNITIV TILSHUNOSLIKKA KIRISH (1-qism): KOGNITIV FAN VA KOGNITIV TILSHUNOSLIKNING PAYDO BO'LISHI
+=2 soat
+@ «Kognitiv» atamasining mazmuni. Kognitiv fan va uning tarkibi.
+@ «Kognitiv inqilob» va kognitiv tilshunoslikning paydo bo'lish omillari.
+@ Kognitiv tilshunoslikning shakllanish bosqichlari va yetakchi namoyandalari.
+@ Rus va o'zbek tilshunosligida kognitiv yo'nalish.
+## 1. «Kognitiv» atamasi va kognitiv fan
+«Kognitiv» so'zi lotincha **cognitio** – «bilish, tanish, anglash» so'zidan olingan. **Kognitsiya** – insonning olam haqidagi bilimlarni olish, qayta ishlash, saqlash va undan foydalanish jarayonlari majmui; u idrok, diqqat, xotira, tasavvur, tafakkur va nutqni o'z ichiga oladi.
+**Kognitiv fan** (kognitologiya, cognitive science) – inson ongida bilimlarning qanday tuzilishi, saqlanishi va qayta ishlanishini fanlararo asosda o'rganuvchi soha. Amerikalik psixolog Govard Gardner «Aqlning yangi fani: kognitiv inqilob tarixi» (1985) kitobida kognitiv fanni olti fan – falsafa, psixologiya, tilshunoslik, sun'iy intellekt (informatika), neyrobiologiya (neyrofan) va antropologiyaning kesishmasi sifatida tasvirlagan («kognitiv olti burchak»).
+## 2. «Kognitiv inqilob» va kognitiv tilshunoslikning paydo bo'lish omillari
+XX asrning birinchi yarmida psixologiyada **bixeviorizm** (J. Uotson, B. Skinner) hukmron edi: inson xatti-harakati «stimul – reaksiya» sxemasi orqali tushuntirilib, ongning ichki jarayonlari ilmiy o'rganish ob'ekti emas deb hisoblanardi. 1950-yillarda bu qarashga qarshi «kognitiv inqilob» yuz berdi. Uning ramziy sanasi sifatida 1956-yil 11-sentyabrda Massachusets texnologiya institutida (MIT) o'tkazilgan axborot nazariyasi bo'yicha simpozium tilga olinadi; unda N. Xomskiy, J. Miller, A. Nyuell va G. Saymon ma'ruzalar qilgan. Shu yili J. Millerning «Sehrli raqam yetti, plyus-minus ikki» maqolasi e'lon qilinib, qisqa muddatli xotira hajmi haqidagi mashhur xulosa ilgari surildi.
+Tilshunoslikdagi burilish **Noam Xomskiy** nomi bilan bog'liq. Uning «Sintaktik strukturalar» (1957) kitobi va B. Skinnerning «Verbal xulq» kitobiga yozgan taqrizi (1959) tilni inson ongining tug'ma qobiliyati (til qobiliyati, language faculty) sifatida o'rganishni boshlab berdi. Biroq Xomskiyning generativ grammatikasi sintaksisni ma'nodan mustaqil, avtonom tizim deb hisoblagan.
+1970-yillarda Xomskiyning shogirdlari va izdoshlari orasidan «generativ semantika» yo'nalishi (J. Lakoff, J. Ross, J. Makkouli) ajralib chiqdi. Ular ma'noni tilning markaziy hodisasi deb bildilar. Aynan shu muhitda **kognitiv tilshunoslik** shakllandi. Uning paydo bo'lishiga quyidagi omillar sabab bo'ldi:
+- generativ grammatikadagi «ma'nodan ajratilgan sintaksis» g'oyasidan qoniqmaslik;
+- kognitiv psixologiya yutuqlari (E. Roshning prototiplar nazariyasi, geshtalt psixologiyasi);
+- sun'iy intellekt sohasida bilimlarni modellashtirish ehtiyoji (M. Minskiy freymlari, R. Shenk skriptlari);
+- semantikada ensiklopedik bilimlarni hisobga olish zarurati (Ch. Fillmor freym semantikasi).
+## 3. Kognitiv tilshunoslikning shakllanish bosqichlari va namoyandalari
+Kognitiv tilshunoslikning asosiy tamoyillarini belgilab bergan ishlar quyidagilar:
+- **J. Lakoff va M. Jonson** «Biz yashaydigan metaforalar» (Metaphors We Live By, 1980) – konseptual metafora nazariyasi.
+- **J. Lakoff** «Ayollar, olov va xavfli narsalar» (Women, Fire, and Dangerous Things, 1987) – kategoriyalash va prototip nazariyasi, idealashtirilgan kognitiv modellar.
+- **R. Lenekker** «Kognitiv grammatika asoslari» (Foundations of Cognitive Grammar, 1-jild 1987, 2-jild 1991).
+- **L. Talmi** «Kognitiv semantikaga qarab» (Toward a Cognitive Semantics, 2000) – makon, harakat, kuch dinamikasi konseptualizatsiyasi.
+- **Ch. Fillmor** – freym semantikasi (1975, 1982).
+- **J. Fokonye** – mental makonlar nazariyasi (1985), M. Terner bilan birga konseptual integratsiya (blending) nazariyasi (2002).
+Kognitiv tilshunoslik mustaqil yo'nalish sifatida 1989-yil bahorida Germaniyaning Duysburg shahrida (R. Dirven tashabbusi bilan) o'tkazilgan xalqaro simpoziumda rasman e'tirof etildi: unda Xalqaro kognitiv tilshunoslik assotsiatsiyasi (ICLA) tashkil topdi va 1990-yildan «Cognitive Linguistics» jurnali (muharrir D. Gerarts) nashr etila boshladi.
+Kognitiv tilshunoslikning asosiy tamoyillari:
+- Til – insonning umumiy kognitiv qobiliyatlarining bir qismi; u alohida, avtonom «modul» emas.
+- Grammatika konseptualizatsiyadir: grammatik shakllar ham ma'noga ega.
+- Til haqidagi bilim tildan foydalanish jarayonida shakllanadi (usage-based – qo'llanishga asoslangan yondashuv).
+- Ma'no inson tajribasiga, tana tajribasiga asoslanadi (embodiment – tanalashganlik g'oyasi).
+## 4. Rus va o'zbek tilshunosligida kognitiv yo'nalish
+Rus tilshunosligida kognitiv yo'nalishning shakllanishida E.S. Kubryakova (1927–2013) alohida o'rin tutadi. Uning tashabbusi bilan V.Z. Dem'yankov, Yu.G. Pankrats, L.G. Luzina hammualliflikda tayyorlangan «Kognitiv terminlarning qisqacha lug'ati» (1996) yo'nalishning terminologik asosini yaratdi. N.N. Boldirev (Tambov kognitiv maktabi), Z.D. Popova va I.A. Sternin (Voronej maktabi), V.A. Maslova, A.P. Babushkin, Yu.S. Stepanov, A. Vejbitskaya, D.S. Lixachyov kabi olimlar konsept nazariyasini ishlab chiqdilar.
+O'zbek tilshunosligida kognitiv yo'nalishning asoschilaridan biri Sh. Safarovdir. Uning «Kognitiv tilshunoslik» (Jizzax: Sangzor, 2006) o'quv qo'llanmasi o'zbek tilida ushbu sohaga oid ilk yirik asar hisoblanadi. Keyinchalik N. Mahmudov, A. Mamatov, D. Xudoyberganova, O. Yusupov, Sh. Usmanova, M. Qurbonova kabi olimlarning tadqiqotlari, shuningdek, ko'plab nomzodlik va doktorlik dissertatsiyalari (konseptlar, freymlar, metaforalar, lingvokulturemalar tahliliga bag'ishlangan) yuzaga keldi.
+## Xulosa
+Kognitiv tilshunoslik XX asrning 70–80-yillarida kognitiv fan bag'rida shakllanib, tilni inson bilish faoliyatining ajralmas qismi sifatida o'rganuvchi yo'nalishga aylandi. U generativ grammatikaga muqobil sifatida ma'noni, inson tajribasini va konseptualizatsiyani tadqiqot markaziga qo'ydi.
+! kognitsiya, kognitiv fan, kognitiv inqilob, bixeviorizm, generativ grammatika, konseptual metafora, kognitiv grammatika, tanalashganlik, qo'llanishga asoslangan yondashuv.
+? «Kognitiv» atamasining etimologiyasi va mazmunini izohlang.
+? Kognitiv fan qaysi fanlarning kesishmasida paydo bo'lgan?
+? «Kognitiv inqilob» deganda nima tushuniladi? Unda N. Xomskiyning o'rni qanday?
+? Kognitiv tilshunoslikning shakllanishiga ta'sir ko'rsatgan asosiy asarlarni sanang.
+? Kognitiv tilshunoslikning asosiy tamoyillari nimalardan iborat?
+? O'zbek tilshunosligida kognitiv yo'nalishdagi qaysi tadqiqotlarni bilasiz?
+
+# 3-MA'RUZA. KOGNITIV TILSHUNOSLIKKA KIRISH (2-qism): TILNING INSON VA JAMIYAT HAYOTIDAGI O'RNI
+=2 soat
+@ Til – inson mohiyatini belgilovchi omil.
+@ Tilning vazifalari: kommunikativ, kognitiv, kumulyativ va boshqa vazifalar.
+@ Til va tafakkur munosabati.
+@ Til va jamiyat. O'zbekistonda davlat tili siyosati.
+## 1. Til – inson mohiyatini belgilovchi omil
+Til insonni boshqa tirik mavjudotlardan ajratib turuvchi eng muhim belgilardan biridir. Hayvonlarda ham signal tizimlari mavjud (asalarilarning «raqsi», delfinlar va primatlarning tovush signallari), biroq ular inson tilidan tubdan farq qiladi. Amerikalik tilshunos Ch. Xokket (1960) inson tilining «dizayn belgilari»ni ajratgan bo'lib, ulardan eng muhimlari:
+- **Ikki tomonlama tuzilish** (duality of patterning) – cheklangan miqdordagi ma'nosiz birliklar (fonemalar)dan cheksiz miqdorda ma'noli birliklar hosil qilish.
+- **Unumdorlik (produktivlik)** – avval eshitilmagan yangi gaplarni tuzish va tushunish imkoniyati.
+- **Ko'chirilganlik** (displacement) – hozir va shu yerda bo'lmagan narsalar, o'tmish va kelajak, xayoliy olamlar haqida gapira olish.
+- **Ixtiyoriylik (arbitrarlik)** – belgi shakli va mazmuni o'rtasida tabiiy bog'lanishning yo'qligi.
+- **Madaniy uzatilish** – til biologik yo'l bilan emas, balki ta'lim va muloqot orqali o'zlashtiriladi.
+Inson olamni til orqali anglaydi, tasniflaydi va baholaydi. Shu ma'noda til bilish quroli, bilimlarni saqlovchi va uzatuvchi vosita, shaxsning ijtimoiylashuvi vositasidir.
+## 2. Tilning vazifalari
+Tilshunoslikda tilning vazifalari turlicha tasniflanadi. Eng asosiylari:
+- **Kommunikativ vazifa** – til kishilar o'rtasidagi aloqa vositasi.
+- **Kognitiv (gnoseologik, bilish) vazifa** – til tafakkurni shakllantirish va ifodalash, olamni bilish vositasi.
+- **Kumulyativ vazifa** – til xalq tajribasi va bilimlarini to'plash, saqlash va avloddan avlodga uzatish vositasi (E.M. Vereshchagin va V.G. Kostomarov).
+- **Ekspressiv (emotiv) vazifa** – so'zlovchining his-tuyg'ulari va munosabatini ifodalash.
+- **Etnik (identifikatsion) vazifa** – til xalqni birlashtiruvchi va uni boshqa xalqlardan ajratib turuvchi belgi.
+Rus-amerikalik tilshunos Roman Yakobson «Lingvistika va poetika» (1960) maqolasida kommunikativ akt omillariga (so'zlovchi, tinglovchi, xabar, kontekst, kod, aloqa kanali) mos ravishda olti vazifani ajratgan: emotiv, konativ (murojaat), referentiv, fatik (aloqani o'rnatish va saqlash), metalingvistik va poetik vazifalar.
+Kognitiv tilshunoslik uchun tilning **kognitiv vazifasi** alohida ahamiyatga ega. Kognitiv nuqtai nazardan til bilimlarni kodlash, saqlash va uzatishning asosiy vositasi bo'lib, bilimlar til birliklari orqali «ob'ektivlashadi» (verballashuv).
+## 3. Til va tafakkur munosabati
+Til va tafakkur munosabati masalasida tarixan uch asosiy qarash mavjud:
+- **Til va tafakkurning aynanligi** – til va tafakkur bir narsa (bixevioristlar: «tafakkur – ichki nutq»).
+- **Til va tafakkurning to'liq ajralganligi** – tafakkur tildan mustaqil (ba'zi ratsionalistik qarashlar).
+- **Dialektik birlik** – til va tafakkur o'zaro bog'liq, biroq aynan bir narsa emas. Bu qarash zamonaviy fanda keng tarqalgan.
+Psixolog L.S. Vigotskiy «Tafakkur va nutq» (1934) asarida tafakkur va nutq turli genetik ildizlarga ega ekanini, bolaning taxminan ikki yoshida ular kesishib, «nutqiy tafakkur» va «intellektual nutq» paydo bo'lishini ko'rsatgan. Kognitiv tilshunoslikda tafakkur birliklari (konseptlar) va til birliklari (so'zlar, gaplar) farqlanadi: konsept til birligi orqali ifodalanishi mumkin, biroq u bilan aynan emas.
+## 4. Til va jamiyat. O'zbekistonda davlat tili siyosati
+Til ijtimoiy hodisa: u jamiyatda paydo bo'ladi, rivojlanadi va jamiyat bilan birga yashaydi. Jamiyatdagi o'zgarishlar (texnika taraqqiyoti, siyosiy va iqtisodiy islohotlar, globallashuv) birinchi navbatda tilning lug'at tarkibida aks etadi. Sotsiolingvistika tilning ijtimoiy tabaqalanishi (adabiy til, shevalar, jargonlar, professional leksika), ikki tillilik va ko'p tillilik, til siyosati masalalarini o'rganadi.
+O'zbekistonda til siyosatining huquqiy asoslari:
+- 1989-yil 21-oktyabrda «O'zbekiston SSRning Davlat tili haqida»gi qonun qabul qilindi va o'zbek tiliga davlat tili maqomi berildi.
+- 1992-yilda qabul qilingan O'zbekiston Respublikasi Konstitutsiyasining 4-moddasida O'zbekiston Respublikasining davlat tili o'zbek tili ekani mustahkamlandi; bu qoida 2023-yilda qabul qilingan yangi tahrirdagi Konstitutsiyada ham saqlangan.
+- 1995-yil 21-dekabrda «Davlat tili haqida»gi qonunning yangi tahriri qabul qilindi.
+- O'zbekiston Respublikasi Prezidentining 2019-yil 21-oktyabrdagi PF-5850-son Farmoni bilan «O'zbek tilining davlat tili sifatidagi nufuzi va mavqeini tubdan oshirish chora-tadbirlari» belgilandi, 21-oktyabr «O'zbek tili bayrami kuni» deb e'lon qilindi.
+- Mazkur Farmon asosida Vazirlar Mahkamasi huzurida Davlat tilini rivojlantirish departamenti tashkil etildi.
+## Xulosa
+Til inson mohiyatini belgilovchi, uning tafakkuri, madaniyati va ijtimoiy hayotini ta'minlovchi asosiy vositadir. Kognitiv tilshunoslik tilning kognitiv va kumulyativ vazifalariga alohida e'tibor qaratib, til birliklarida inson bilimlari qanday aks etishini o'rganadi.
+! til vazifalari, kommunikativ vazifa, kognitiv vazifa, kumulyativ vazifa, verballashuv, nutqiy tafakkur, davlat tili, til siyosati.
+? Ch. Xokket inson tilining qaysi «dizayn belgilari»ni ajratgan?
+? Tilning asosiy vazifalarini sanab, ularni misollar bilan izohlang.
+? R. Yakobson ajratgan olti vazifani kommunikativ akt omillari bilan bog'lang.
+? L.S. Vigotskiyning tafakkur va nutq munosabati haqidagi qarashlarini izohlang.
+? O'zbekistonda davlat tili siyosatining asosiy huquqiy hujjatlarini sanang.
+
+# 4-MA'RUZA. KOGNITIV TILSHUNOSLIKNING PREDMETI VA VAZIFALARI. TAFAKKURNING LISONIY VA NOLISONIY TURLARI
+=2 soat
+@ Kognitiv tilshunoslikning ob'ekti va predmeti.
+@ Kognitiv tilshunoslikning vazifalari va metodlari.
+@ Kognitiv tilshunoslikning asosiy yo'nalishlari.
+@ Tafakkur turlari. Lisoniy va nolisoniy tafakkur.
+@ Universal predmet kodi va «mentalez» gipotezasi.
+## 1. Kognitiv tilshunoslikning ob'ekti va predmeti
+Kognitiv tilshunoslikning **ob'ekti** – til, ammo u bilish (kognitsiya) jarayonlari bilan bog'liq holda, inson ongida bilimlarni ifodalovchi va uzatuvchi tizim sifatida olinadi.
+Kognitiv tilshunoslikning **predmeti** – til birliklarining inson bilish faoliyatidagi o'rni; bilimlarning til orqali ifodalanishi (verballashuvi); konseptualizatsiya va kategoriyalash jarayonlari; konseptlar va ularning til vositalari orqali reprezentatsiyasi.
+E.S. Kubryakova ta'rifiga ko'ra, kognitiv tilshunoslik – «diqqat markazida til umumiy kognitiv mexanizm, axborotni kodlash va o'zgartirishda ishtirok etuvchi kognitiv qurol sifatida turgan» yo'nalishdir. Z.D. Popova va I.A. Sternin esa kognitiv tilshunoslikni «til ma'nolarini tadqiq qilish orqali konseptosferani o'rganuvchi» soha sifatida belgilaydi.
+## 2. Kognitiv tilshunoslikning vazifalari va metodlari
+Kognitiv tilshunoslikning asosiy vazifalari:
+- inson ongidagi bilim tuzilmalari (konsept, freym, ssenariy, skript, geshtalt, sxema) va ularning tilda ifodalanishini aniqlash;
+- konseptualizatsiya va kategoriyalash jarayonlarining lisoniy mexanizmlarini ochish;
+- til birliklari ma'nosining shakllanishida inson tajribasining rolini aniqlash;
+- milliy konseptosfera va olamning lisoniy manzarasini tavsiflash;
+- metafora, metonimiya kabi kognitiv mexanizmlarning tafakkurdagi o'rnini o'rganish;
+- nutq hosil qilish va tushunish jarayonlarini modellashtirish.
+Kognitiv tilshunoslikda qo'llanadigan asosiy metodlar:
+- **Konseptual tahlil** – konseptning tarkibi va tuzilishini til birliklari (so'zlar, frazeologizmlar, paremiyalar, matnlar) asosida aniqlash.
+- **Freym tahlili** – bilimlarni slot va terminallardan iborat tuzilma sifatida tavsiflash.
+- **Kognitiv-semantik tahlil** (Popova–Sternin metodikasi) – leksik birliklar semantikasini tahlil qilish orqali konseptning kognitiv belgilarini aniqlash.
+- **Konseptual metafora tahlili** – manba va maqsad sohalari o'rtasidagi moslashuvlarni aniqlash.
+- **Assotsiativ eksperiment** – respondentlarning so'z-stimulga bergan reaksiyalari asosida konseptning ongdagi mazmunini aniqlash.
+- **Korpus metodlari** – katta matn bazalarida til birliklarining qo'llanishini statistik tahlil qilish.
+## 3. Kognitiv tilshunoslikning asosiy yo'nalishlari
+- **Kognitiv semantika** (J. Lakoff, L. Talmi, M. Jonson) – ma'noning konseptual tuzilishi, metafora, kategoriyalash.
+- **Kognitiv grammatika** (R. Lenekker) – grammatik birliklarning konseptual mohiyati.
+- **Konstruksion grammatika** (Ch. Fillmor, A. Goldberg, U. Kroft) – til konstruksiyalar (shakl va ma'no juftliklari) tizimi sifatida.
+- **Lingvokognitiv konseptologiya** (Yu.S. Stepanov, Z.D. Popova, I.A. Sternin, V.I. Karasik) – konseptlarni tavsiflash.
+- **Kognitiv diskurs tahlili** (T. van Deyk) – matn va diskursni tushunish jarayonlari.
+## 4. Tafakkur turlari. Lisoniy va nolisoniy tafakkur
+**Tafakkur** – voqelikni umumlashtirib va bilvosita aks ettiruvchi, narsa va hodisalar o'rtasidagi muhim bog'lanishlarni ochib beruvchi oliy bilish jarayoni. Psixologiyada tafakkurning genetik jihatdan uch turi farqlanadi:
+- **Ko'rgazmali-harakatli tafakkur** – predmetlar bilan amaliy harakatlar orqali masalani yechish (go'daklar, shuningdek, kattalarda texnik vazifalarni bajarishda).
+- **Ko'rgazmali-obrazli tafakkur** – obrazlar, tasavvurlar asosida fikrlash (rassom, me'mor, konstruktor tafakkuri).
+- **So'z-mantiqiy (abstrakt) tafakkur** – tushunchalar, hukm va xulosalar yordamida til vositasida fikrlash.
+Kognitiv tilshunoslikda tafakkurning til bilan munosabatiga ko'ra ikki turi farqlanadi:
+- **Lisoniy (verbal) tafakkur** – til birliklari yordamida amalga oshadigan tafakkur; mantiqiy-tushunchaviy fikrlash, ichki nutq.
+- **Nolisoniy (noverbal) tafakkur** – obrazlar, sxemalar, harakat dasturlari, sezgilar asosidagi tafakkur.
+Nolisoniy tafakkur mavjudligini tasdiqlovchi dalillar:
+- Afaziya (nutq buzilishi) bilan og'rigan bemorlar ko'p hollarda mantiqiy masalalarni, shaxmat o'yinini, matematik amallarni bajara oladi.
+- Til o'zlashtirilmagan go'daklar va ba'zi hayvonlar (masalan, primatlar) amaliy masalalarni hal qila oladi.
+- Ijodkor shaxslarning o'zini kuzatish natijalari. A. Eynshteyn matematik J. Adamarga yozgan maktubida (1945) o'z tafakkurida so'zlar sezilarli rol o'ynamasligini, fikrlash ko'proq «ko'rinishli va harakatli» obrazlar asosida kechishini yozgan.
+- Ko'pincha «fikr bor, uni ifodalovchi so'z topilmaydi» holati («tilning uchida turibdi» fenomeni).
+## 5. Universal predmet kodi va «mentalez» gipotezasi
+Rus psixologi N.I. Jinkin (1893–1979) tafakkur maxsus **universal predmet kodi** (UPK) asosida amalga oshadi, degan farazni ilgari surgan. UPK – nutqiy-tovush shakliga ega bo'lmagan, obrazlar, sxemalar va tasavvurlardan iborat «ichki kod» bo'lib, u barcha tillar sohiblari uchun umumiy hisoblanadi. Nutq hosil qilishda fikr UPKdan muayyan tilga o'tkaziladi, nutqni idrok etishda esa aksincha.
+Amerikalik faylasuf J. Fodor «Tafakkur tili» (The Language of Thought, 1975) asarida, keyinroq S. Pinker «Til instinkti» (The Language Instinct, 1994) kitobida shunga o'xshash g'oyani **«mentalez»** (mentalese – «tafakkur tili») atamasi bilan ifodalagan.
+Z.D. Popova va I.A. Sternin ta'kidlaganidek, tafakkur birliklari – konseptlar – UPK birliklari sifatida mavjud bo'ladi, til esa ularni ifodalash (verballashtirish) va boshqalarga yetkazish vositasi vazifasini bajaradi.
+## Xulosa
+Kognitiv tilshunoslik tilni bilimlarni ifodalovchi, saqlovchi va uzatuvchi tizim sifatida o'rganadi. Tafakkur til bilan uzviy bog'liq bo'lsa-da, faqat lisoniy shakl bilan cheklanmaydi: inson ongida obrazli, sxematik, nolisoniy bilimlar ham mavjud bo'lib, til ularni muayyan darajada ob'ektivlashtiradi.
+! kognitiv tilshunoslik ob'ekti va predmeti, konseptualizatsiya, kategoriyalash, konseptual tahlil, assotsiativ eksperiment, lisoniy tafakkur, nolisoniy tafakkur, universal predmet kodi, mentalez.
+? Kognitiv tilshunoslikning ob'ekti va predmetini farqlang.
+? Kognitiv tilshunoslikning asosiy vazifalarini sanang.
+? Kognitiv tilshunoslikda qanday tahlil metodlari qo'llanadi?
+? Psixologiyada tafakkurning qanday turlari farqlanadi?
+? Nolisoniy tafakkur mavjudligini qanday dalillar tasdiqlaydi?
+? N.I. Jinkinning universal predmet kodi haqidagi g'oyasini izohlang.
+
+# 5-MA'RUZA. KONSEPT TAFAKKUR BIRLIGI SIFATIDA. KONSEPT, TUSHUNCHA, OBRAZ VA LISONIY MA'NO
+=2 soat
+@ «Konsept» atamasining tarixi va ta'riflari.
+@ Konseptga yondashuvlar: lingvokognitiv va lingvokulturologik yondashuvlar.
+@ Konsept, tushuncha, obraz va lisoniy ma'no munosabati.
+@ Konseptning tuzilishi va turlari.
+@ Konseptning til vositalarida ifodalanishi.
+## 1. «Konsept» atamasining tarixi va ta'riflari
+«Konsept» so'zi lotincha **conceptus** – «tushuncha, fikr», so'zma-so'z «homila, urug'» (concipere – «tug'ilmoq, qabul qilmoq» fe'lidan) ma'nosini bildiradi. O'rta asrlar falsafasida (P. Abelyar) bu atama faol qo'llangan.
+Tilshunoslikda «konsept» atamasini ilk bor rus faylasufi S.A. Askoldov-Alekseyev «Konsept va so'z» (1928) maqolasida qo'llagan. U konseptni shunday ta'riflagan:
+> Konsept – tafakkur jarayonida biz uchun bir turdagi narsalarning noaniq ko'p sonini o'rnini bosuvchi fikriy hosiladir (S.A. Askoldov).
+Atama 1990-yillarda keng tarqaldi. Turli olimlar konseptga quyidagicha ta'rif bergan:
+- **D.S. Lixachyov** («Rus tilining konseptosferasi», 1993): konsept – so'z ma'nosining «algebraik ifodasi»; inson konsept orqali so'z ma'nosini to'liq anglamasdan, uni o'z bilimi va tajribasiga qarab talqin qiladi.
+- **Yu.S. Stepanov** («Konstantalar: rus madaniyati lug'ati», 1997): konsept – inson ongidagi madaniyatning «quyuqlashgan bir laxtasi»; madaniyat inson ongiga konsept shaklida kiradi va inson madaniyatga konsept orqali ta'sir qiladi.
+- **E.S. Kubryakova** («Kognitiv terminlarning qisqacha lug'ati», 1996): konsept – xotiraning, mental leksikonning, konseptual tizim va miya tilining, inson psixikasida aks etgan butun olam manzarasining operativ mazmuniy birligi.
+- **Z.D. Popova, I.A. Sternin**: konsept – insonning bilish faoliyati natijasi bo'lgan, ob'ekt haqidagi ensiklopedik axborotni o'z ichiga olgan, ijtimoiy ong tomonidan talqin etilgan va baholangan diskret ruhiy hosila; universal predmet kodining birligi.
+- **Sh. Safarov**: konsept – inson ongida voqelik haqidagi bilimlarning umumlashgan, tizimlashgan holda saqlanadigan mental birligi.
+## 2. Konseptga yondashuvlar
+Zamonaviy tilshunoslikda konseptga asosan ikki yondashuv mavjud:
+- **Lingvokognitiv yondashuv** (E.S. Kubryakova, N.N. Boldirev, Z.D. Popova, I.A. Sternin) – konsept individual ongdagi bilim birligi sifatida qaraladi, uning bilish jarayonidagi o'rni va tuzilishi o'rganiladi. Yo'nalish: individual ongdan madaniyatga.
+- **Lingvokulturologik yondashuv** (Yu.S. Stepanov, V.I. Karasik, S.G. Vorkachev, V.A. Maslova) – konsept madaniyat birligi, milliy-madaniy qadriyatlarni mujassamlashtirgan hosila sifatida qaraladi. Yo'nalish: madaniyatdan individual ongga.
+V.I. Karasik va G.G. Slishkin lingvokulturologik konsept tarkibida uch komponentni ajratadi: **tushunchaviy** (faktik, ma'lumot beruvchi), **obrazli** (tasavvur, metaforik) va **qadriyatli** (baholovchi) komponentlar.
+## 3. Konsept, tushuncha, obraz va lisoniy ma'no munosabati
+Konsept – umumlashma hosila bo'lib, uning asosida tushuncha, obraz va lisoniy ma'no yotadi. Ularning farqlari quyidagicha:
+- **Tushuncha** – narsa va hodisalarning muhim, farqlovchi belgilarini mantiqiy umumlashtiruvchi tafakkur shakli. Masalan, «uy – kishilar yashashi uchun mo'ljallangan bino». Tushuncha mantiq va falsafa kategoriyasi bo'lib, ratsional jihatga ega.
+- **Obraz** – narsa yoki hodisaning sezgi a'zolari orqali idrok etilgan, ongda gavdalangan hissiy-ko'rgazmali tasviri. Masalan, «uy» so'zini eshitganda ko'z oldimizga keladigan muayyan tasavvur (hovli, ayvon, deraza va h.k.).
+- **Lisoniy ma'no** – so'z yoki boshqa til birligining tilda mustahkamlangan, lug'atlarda qayd etiladigan mazmuni; u konseptning til tizimida ifodalangan qismidir.
+- **Konsept** – tushunchadan ko'ra kengroq: u tushunchaviy mazmun bilan birga obrazlar, assotsiatsiyalar, baholar, emotsiyalar, madaniy ma'lumotlarni ham qamraydi. Masalan, o'zbek madaniyatidagi «uy» konseptida «oila», «tinchlik», «xonadon sharafi», «ostona», «mehmonxona», «dasturxon» kabi belgilar ham mavjud: «Uyning ko'rki – bola», «O'z uyim – o'lan to'shagim».
+Z.D. Popova va I.A. Sternin ta'kidlaganidek, so'z ma'nosi konseptning faqat bir qismini ifodalaydi; konseptning to'liq mazmunini ochish uchun uni ifodalovchi barcha til birliklari (sinonimlar, frazeologizmlar, maqollar, matnlar) va eksperimental ma'lumotlarni o'rganish lozim.
+## 4. Konseptning tuzilishi va turlari
+**Yu.S. Stepanov** bo'yicha konsept tarkibida uch qatlam mavjud:
+- asosiy, aktual belgi (konseptni qo'llovchi barcha kishilar uchun tanish);
+- qo'shimcha, «passiv» belgilar (muayyan ijtimoiy guruhlar uchun dolzarb);
+- ichki shakl (etimologik belgi) – odatda anglanmaydi, so'zning tashqi shaklida muhrlangan.
+**Z.D. Popova va I.A. Sternin** bo'yicha konseptning tuzilishi:
+- **Obraz** – sezgi a'zolari orqali olingan perseptiv va metaforik obrazlar;
+- **Axborot mazmuni** – konseptning asosiy, farqlovchi belgilari;
+- **Interpretatsiya maydoni** – baholovchi, ensiklopedik, utilitar, me'yoriy, ijtimoiy-madaniy, paremiologik zonalar.
+Konsept maydon tuzilishiga ega: **yadro** (eng aniq, barchaga tanish belgilar) va **periferiya** (yadroga yaqin, uzoq va eng uzoq periferiya).
+Popova va Sternin tasnifiga ko'ra, mazmuniy tuzilishiga qarab konseptlar quyidagi turlarga bo'linadi: **tasavvur** (konkret obraz), **sxema** (umumlashgan fazoviy-grafik tasvir), **gipernim** (tushuncha), **freym**, **ssenariy (skript)**, **insayt** (narsaning ichki tuzilishi, vazifasi haqidagi bilim), **kaleydoskopik konsept** (turli freym va ssenariylar majmui, masalan, «vijdon», «sevgi»).
+Konseptlar boshqa jihatdan ham tasniflanadi:
+- **Universal konseptlar** (vaqt, makon, hayot, o'lim) va **milliy-o'ziga xos konseptlar** (o'zbek tilida «mahalla», «hashar», «andisha», «oqibat»).
+- **Individual**, **guruhiy**, **milliy** va **umuminsoniy** konseptlar.
+- **Konkret** («non», «uy») va **abstrakt** («vijdon», «baxt») konseptlar.
+## 5. Konseptning til vositalarida ifodalanishi
+Konsept tilda turli vositalar yordamida **verballashadi** (reprezentatsiya qilinadi):
+- leksemalar va ularning sinonimlari (vatan – yurt – el – diyor – o'lka);
+- so'z birikmalari va erkin sintaktik qurilmalar;
+- frazeologizmlar («yuragi keng», «qo'li ochiq»);
+- maqol va matallar («Vatanni sevmoq – iymondandir», «Bulbul chamanni sevar, odam – Vatanni»);
+- badiiy, publitsistik, ilmiy matnlar.
+Konsept bitta so'z ifodalaydigan tushunchadan ancha kengdir. Masalan, «non» konsepti o'zbek madaniyatida muqaddaslik, rizq, mehnat, hurmat belgilarini qamraydi: nonni oyoq ostiga tashlamaslik, nonni teskari qo'ymaslik, sovchilikda «non sindirish» marosimi, «Non – ulug'», «Nonni hurmat qilgan – ulug'likka yetadi» kabi maqollar fikrimizning dalilidir.
+## Xulosa
+Konsept – kognitiv tilshunoslikning markaziy tushunchasi bo'lib, u inson ongidagi bilim, tasavvur, baho va madaniy ma'lumotlarni mujassamlashtirgan tafakkur birligidir. Konsept tushuncha, obraz va lisoniy ma'noni umumlashtiradi, ammo ulardan kengroq va murakkabroq hisoblanadi.
+! konsept, konseptosfera, tushuncha, obraz, lisoniy ma'no, yadro va periferiya, verballashuv, lingvokognitiv yondashuv, lingvokulturologik yondashuv.
+? «Konsept» atamasining etimologiyasini va ilk qo'llanishini izohlang.
+? Konseptga oid D.S. Lixachyov, Yu.S. Stepanov, E.S. Kubryakova ta'riflarini qiyoslang.
+? Lingvokognitiv va lingvokulturologik yondashuvlarning farqi nimada?
+? Konsept, tushuncha, obraz va lisoniy ma'noning o'zaro munosabatini misollar bilan tushuntiring.
+? Popova–Sternin modeli bo'yicha konsept tuzilishini tavsiflang.
+? O'zbek tiliga xos milliy konseptlarga misollar keltiring va ularning verballashuv vositalarini aniqlang.
