@@ -1,0 +1,384 @@
+# 6-AMALIY MASHG'ULOT. TANIQLI TILSHUNOS, FAYLASUF, PSIXOLOG OLIMLARNING KONSEPTGA BERGAN IZOHLARI (2-qism): PSIXOLOG VA PSIXOLINGVISTLAR TALQINI. KONSEPT TURLARI
+M Konseptga psixologik va psixolingvistik yondashuvlarni (L.S. Vigotskiy, A.A. Zalevskaya, R.M. Frumkina) lingvistik yondashuvlar bilan qiyoslash; A.P. Babushkin tasnifi asosida konsept turlarini aniqlash; assotsiativ eksperiment o'tkazish va natijalarini tahlil qilish ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Psixolingvistik va lingvistik ta'riflarni qiyoslang.
+A.A. Zalevskaya konseptni «individ bilish va kommunikativ faoliyatida o'z-o'zidan (spontan) faoliyat ko'rsatuvchi, dinamik xarakterga ega bazaviy perseptiv-kognitiv-affektiv hosila» deb ta'riflaydi. Bu ta'rifni Z.D. Popova va I.A. Sternin ta'rifi bilan quyidagi mezonlar bo'yicha qiyoslang: konsept qayerda mavjud (individ ongida yoki jamoa ongida); emotsiya (affekt)ning o'rni; konseptni o'rganish manbai (til birliklari yoki eksperiment).
+N **Namuna (1-mezon):** Zalevskaya uchun konsept **individ** ongidagi hosila: har bir insonning konsepti uning shaxsiy tajribasiga bog'liq va doimo o'zgarib turadi. Popova va Sternin esa individual konseptlar bilan birga **guruhiy va milliy** konseptlarni ajratadi, ya'ni ularni jamoa ongida ham mavjud deb biladi. Demak, psixolingvistik yondashuv individga, lingvokognitiv yondashuv esa individ va jamoaga yo'naltirilgan.
+T 2-topshiriq. Konsept turlarini A.P. Babushkin tasnifi asosida aniqlang.
+Babushkin (1996) konseptlarning quyidagi turlarini ajratadi: **tasavvur** (mental tasvir), **sxema**, **gipernim** (tushuncha), **freym**, **ssenariy**, **insayt**, **kaleydoskopik konsept**. Quyidagi so'zlar ifodalagan konseptlarning turini aniqlang: «anor», «zina», «mebel», «bozor», «imtihon», «soat», «vijdon», «daraxt», «transport», «to'y», «qaychi», «muhabbat».
+N **Namuna:** «Anor» – **tasavvur** (mental tasvir): ongda konkret, ko'rgazmali obraz (qizil, yumaloq, donalari ko'p meva) sifatida mavjud. «Soat» – **insayt**: konsept predmetning ichki tuzilishi va vazifasi haqidagi bilimdan iborat (vaqtni o'lchaydi, mexanizmi bor). «Vijdon» – **kaleydoskopik konsept**: u turli freym va ssenariylar («vijdon azobi», «vijdonan ishlash», «vijdonsizlik») majmui sifatida mavjud.
+T 3-topshiriq. «Baxt» so'zi bo'yicha guruhda erkin assotsiativ eksperiment o'tkazing.
+Har bir talaba «baxt» so'zini eshitganda xayoliga kelgan birinchi so'zni yozadi. Natijalarni chastotasi bo'yicha tartiblang, yadro va periferiyani aniqlang.
+N **Namuna (shartli ma'lumotlar, 20 respondent):**
+| Reaksiya | Soni | Zona
+| oila | 6 | yadro
+| sog'liq | 4 | yadro
+| farzand | 3 | yaqin periferiya
+| tinchlik | 3 | yaqin periferiya
+| sevgi | 2 | uzoq periferiya
+| omad, pul | 1 tadan | eng uzoq periferiya
+N **Namuna xulosa:** Respondentlar ongida «baxt» konseptining yadrosini **oila va sog'liq** tashkil etadi. Bu o'zbek madaniyatida jamoaviy va oilaviy qadriyatlarning ustuvorligini ko'rsatadi. Moddiy boylik («pul») periferiyada joylashgan.
+## II. Keys-stadi
+T Keys: «Bolaning "dada"si».
+Bir yarim yoshli bola ko'chada ko'rgan barcha soqolli erkaklarni «dada» deb ataydi. Ikki yoshga to'lganda u bu so'zni faqat otasiga nisbatan qo'llay boshlaydi.
+Topshiriqlar:
+- L.S. Vigotskiyning tushunchalar rivojlanishi nazariyasi (sinkretlar – komplekslar – tushunchalar) asosida holatni izohlang.
+- Bu jarayonni kategoriyalash va prototip nazariyasi bilan bog'lang.
+- Konsept bola ongida qanday rivojlanadi?
+N **Namuna javob (1-savol):** Vigotskiy fikricha, bola dastlab so'z ma'nosini **sinkretik**, ya'ni tasodifiy, tashqi taassurotlar asosida bog'langan holda o'zlashtiradi. Keyin **kompleks** bosqich keladi: bunda narsalar konkret belgilar asosida birlashtiriladi («soqolli», «erkak»). Bola bu so'zni «otam» degan aniq ma'noda faqat keyinroq qo'llay boshlaydi. Haqiqiy tushunchalar esa (masalan, «ota» – qarindoshlik munosabati) maktab yoshida shakllanadi.
+## III. Kazuslar
+T 1-kazus. Tarjimon «andisha» so'zini ingliz tiliga tarjima qila olmayapti: «modesty», «tact», «consideration» so'zlarining hech biri ma'noni to'liq bermaydi. A. Vejbitskayaning semantik primitivlar (universal ma'nolar) metodi yordamida «andisha» konseptini izohlang.
+N **Namuna yechim.** Vejbitskaya barcha tillarda mavjud bo'lgan universal ma'nolardan (MEN, SEN, KIMDIR, NIMADIR, YAXSHI, YOMON, O'YLAMOQ, BILMOQ, ISTAMOQ, HIS QILMOQ, AYTMOQ...) foydalanib so'zlarni izohlashni taklif qiladi. «Andisha»ning izohi:
+N – kishi shunday o'ylaydi: «Agar men buni aytsam yoki qilsam, boshqa kishi o'zini yomon his qilishi mumkin.
+N – Odamlar men haqimda yomon o'ylashi mumkin.
+N – Men buni istamayman.
+N – Shuning uchun men buni aytmayman (qilmayman).»
+N – Odamlar bunday kishi haqida yaxshi o'ylaydi.
+N Bu izoh tarjimonga «andisha» konseptining asosiy mazmunini boshqa tilda tushuntirish imkonini beradi.
+T 2-kazus. Bir tadqiqotchi: «Konseptni faqat eksperiment orqali o'rganish mumkin, lug'at va matnlar sun'iy manbalar», deb hisoblaydi. Boshqasi: «Eksperiment ishonchsiz, faqat matnlarni o'rganish kerak», deydi. Qaysi yondashuv to'g'ri?
+N **Namuna yechim (yo'nalish):** R.M. Frumkina ham ta'kidlaganidek, tilshunos va psixologning konseptual tahlili bir-birini to'ldiradi. Matnlar konseptning jamoa ongida mustahkamlangan qismini, eksperiment esa uning hozirgi tirik holatini ko'rsatadi...
+## IV. Testlar
+Q Konseptni «bazaviy perseptiv-kognitiv-affektiv hosila» deb ta'riflagan psixolingvist kim?
+o A) A.A. Zalevskaya
+o B) R.M. Frumkina
+o C) Yu.S. Stepanov
+o D) N.N. Boldirev
+Q A.P. Babushkin tasnifida predmetning ichki tuzilishi va vazifasi haqidagi bilimdan iborat konsept qanday ataladi?
+o A) Sxema
+o B) Insayt
+o C) Freym
+o D) Gipernim
+Q «Mebel», «transport», «meva» so'zlari ifodalagan konseptlar qaysi turga mansub?
+o A) Tasavvur
+o B) Ssenariy
+o C) Gipernim
+o D) Kaleydoskopik konsept
+Q L.S. Vigotskiy nazariyasida tushuncha rivojlanishining birinchi bosqichi qaysi?
+o A) Kompleks
+o B) Sinkret
+o C) Psevdotushuncha
+o D) Ilmiy tushuncha
+Q Semantik primitivlar (universal ma'nolar) nazariyasi qaysi olimga tegishli?
+o A) A. Vejbitskaya
+o B) E. Rosh
+o C) Ch. Fillmor
+o D) R. Lenekker
+Q Assotsiativ eksperimentda eng ko'p takrorlangan reaksiyalar konseptning qaysi qismini ko'rsatadi?
+o A) Periferiyasini
+o B) Yadrosini
+o C) Ichki shaklini
+o D) Etimologiyasini
+K 1–A; 2–B; 3–C; 4–B; 5–A; 6–B.
+## Nazariy savollar
+? Konseptga psixolingvistik yondashuvning o'ziga xos jihatlari nimada?
+? A.A. Zalevskaya va R.M. Frumkinaning konsept haqidagi qarashlarini izohlang.
+? A.P. Babushkin ajratgan konsept turlarini misollar bilan tavsiflang.
+? L.S. Vigotskiyning tushunchalar rivojlanishi nazariyasi konsept nazariyasi uchun qanday ahamiyatga ega?
+? Assotsiativ eksperiment konseptni o'rganishda qanday imkoniyat beradi?
+L 1,19,B1,F1,Z1,27,9,42
+
+# 7-AMALIY MASHG'ULOT. SSENARIY TUSHUNCHASI VA UNING TARKIBIDA SLOTLAR
+M Ssenariyni epizodlarga ajratish, uning slotlarini (ishtirokchilar, joy, vaqt, rekvizitlar, boshlang'ich shart, epizodlar, natija) aniqlash va to'ldirish; matndagi yashirin axborotni ssenariy bilimlari asosida tiklash ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Ssenariy slotlarini aniqlang va to'ldiring.
+«Navro'z bayrami», «Shifokor qabuli» va «Hasharga chiqish» ssenariylaridan birini tanlab, quyidagi jadval asosida tahlil qiling.
+| Slot | «Imtihon» ssenariysi (namuna)
+| Ishtirokchilar (rollar) | talaba, o'qituvchi (imtihon oluvchi), komissiya a'zolari
+| Joy | auditoriya, imtihon xonasi
+| Vaqt | sessiya davri, belgilangan kun va soat
+| Rekvizitlar | bilet, javob varag'i, reyting daftarchasi (elektron tizim), qalam
+| Boshlang'ich shartlar | talaba fanni o'qigan, joriy nazoratlardan o'tgan, imtihonga ruxsat olgan
+| Epizodlar | 1) tayyorgarlik; 2) xonaga kirish; 3) bilet olish; 4) tayyorlanish; 5) javob berish; 6) baholash; 7) natijani e'lon qilish
+| Natija | baho qo'yildi; talaba keyingi kursga o'tadi yoki qayta topshiradi
+| Lisoniy ifodalar | «bilet tortmoq», «imtihondan yiqilmoq», «a'loga topshirmoq», «shpargalka», «qayta topshirish»
+N **Namuna izoh:** «Imtihon» ssenariysida epizodlar qat'iy ketma-ketlikda joylashgan: bilet olmasdan javob berish mumkin emas. «Imtihondan yiqilmoq» iborasi ssenariyning salbiy natijasini, «bilet tortmoq» esa uchinchi epizodni ifodalaydi. Demak, so'z va iboralar ssenariyning alohida slotlarini faollashtiradi.
+T 2-topshiriq. Matnda tushirib qoldirilgan epizodlarni tiklang.
+Matn: «Dilnoza Samarqandga sayohatga otlandi. Registonni ko'rib, hayratda qoldi. Kechqurun mehmonxonaga qaytib, dugonasiga suratlarni yubordi.» Matnda aytilmagan, lekin o'quvchi ssenariy asosida tiklaydigan epizodlarni aniqlang.
+N **Namuna (boshqa matn):** «Akmal aptekaga kirdi. Retseptni ko'rsatdi. Dorini olib, uyiga qaytdi.» Tiklanadigan epizodlar: Akmal kasal bo'lgan yoki uning yaqini kasal; avval shifokorga borgan (retsept shu yerdan olingan); dorixonachi dorini topib bergan; Akmal pul to'lagan. Bu epizodlar «dorixonada dori olish» ssenariysining standart qiymatlari bo'lgani uchun matnda tushirib qoldirilgan.
+T 3-topshiriq. Ssenariyni faollashtiruvchi so'zlarni aniqlang.
+Quyidagi so'z va iboralar qaysi ssenariyni va uning qaysi epizodini faollashtiradi: «beshik to'yi», «chilla», «sunnat to'yi», «kelin salom», «yuz ochdi», «hashar», «qozon to'nkardi», «yetti kunlik», «sumalak sayli».
+N **Namuna:** «Yuz ochdi» – **nikoh to'yi** ssenariysining to'ydan keyingi epizodini faollashtiradi: kelinning yuzidagi pardani qaynona-qaynota yoki hurmatli keksa ayol ochadi, kelinga duo va sovg'alar beriladi. So'zning o'zi butun ssenariyni (to'y) va uning aniq bir epizodini (kelinning yangi oilaga qabul qilinishi) yodga soladi.
+## II. Keys-stadi
+T Keys: «Chet ellik mehmon o'zbek to'yida».
+Germaniyalik talaba o'zbek do'stining to'yiga taklif qilindi. U taklifnomada «soat 18:00» deb yozilganini ko'rib, aynan shu vaqtda keldi. Zalda hali hech kim yo'q edi. Keyinroq u stolga qo'yilgan ko'p taomlarni ko'rib, «Bu – asosiy ovqat» deb o'yladi va to'yib oldi. Ammo keyin osh tortildi. Kelin va kuyov kirib kelganda hamma o'rnidan turdi, mehmon esa nima uchun bunday qilinganini tushunmadi.
+Topshiriqlar:
+- Mehmonning ongidagi «to'y» ssenariysi bilan o'zbek to'yi ssenariysi qaysi slotlarda farq qilgan?
+- Ssenariy bilimining yetishmasligi qanday kommunikativ qiyinchiliklarga olib keldi?
+- Mehmon uchun qisqa «madaniy yo'riqnoma» tuzing.
+N **Namuna javob (1-savol qismi):** Farqlar **«Vaqt»** slotida (taklifnomadagi vaqt va mehmonlar yig'ilishining haqiqiy vaqti o'rtasida farq bor), **«Epizodlar ketma-ketligi»** slotida (avval yengil taomlar, keyin issiq ovqat, so'ngra osh) va **«Rollar»** slotida (kelin-kuyovni o'rnidan turib kutib olish – hurmat belgisi) kuzatiladi.
+## III. Kazuslar
+T 1-kazus. F. Bartlett tajribasini takrorlang. Guruhdagi bir talabaga notanish madaniyatga oid qisqa hikoyani (masalan, yapon choy marosimi haqidagi matnni) o'qib bering. U hikoyani ikkinchi talabaga so'zlab bersin, ikkinchisi uchinchisiga va hokazo. Oxirgi talaba hikoyani yozma bayon qilsin. Asl matn bilan qiyoslang.
+N **Namuna xulosa:** Odatda hikoya qisqaradi, notanish detallar tushib qoladi yoki tanish narsalarga almashtiriladi. Masalan, «matcha» o'rniga «ko'k choy», «tatami» o'rniga «gilam» yoki «ko'rpacha» deyiladi. Bu inson yangi axborotni o'z ongidagi tayyor ssenariylarga moslashtirib eslab qolishini tasdiqlaydi.
+T 2-kazus. Sun'iy intellekt dasturiga «Anvar choyxonaga kirdi. U osh buyurdi.» degan matn berildi va «Anvar oshni yedimi?» deb so'raldi. Dastur «Matnda bu haqda ma'lumot yo'q» deb javob berdi. Dasturning «xatosi» nimada?
+N **Namuna yechim (yo'nalish):** Dasturda «choyxonada ovqatlanish» ssenariysi yo'q yoki faollashmagan; shuning uchun u standart qiymatlar asosida inferensiya qila olmagan...
+## IV. Testlar
+Q Ssenariy E.S. Kubryakova lug'atida qanday ta'riflanadi?
+o A) Statik freym
+o B) Vaqt bo'yicha rivojlantirilgan freym
+o C) Konkret obraz
+o D) Mantiqiy tushuncha
+Q Ssenariyning vaqt bo'yicha ketma-ket keluvchi bosqichlari qanday ataladi?
+o A) Slotlar
+o B) Epizodlar
+o C) Terminallar
+o D) Rekvizitlar
+Q Xotira mavjud sxemalar asosida qayta tiklanishini tajribada ko'rsatgan olim kim?
+o A) F. Bartlett
+o B) M. Minskiy
+o C) R. Shenk
+o D) Ch. Fillmor
+Q Matnda aytilmagan axborotni ssenariy asosida tiklash jarayoni qanday ataladi?
+o A) Kategoriyalash
+o B) Inferensiya
+o C) Profillash
+o D) Verballashuv
+Q «Til. Bilish. Kommunikatsiya» kitobi (ruscha nashri 1989) muallifi kim?
+o A) T. van Deyk
+o B) J. Lakoff
+o C) U. Labov
+o D) R. Lenekker
+Q «Bilet tortmoq» iborasi qaysi ssenariyning epizodini faollashtiradi?
+o A) To'y
+o B) Imtihon
+o C) Sayohat
+o D) Bozor
+K 1–B; 2–B; 3–A; 4–B; 5–A; 6–B.
+## Nazariy savollar
+? Ssenariy tushunchasiga berilgan ta'riflarni qiyoslang.
+? Ssenariy tarkibidagi slotlarni sanab, ularni izohlang.
+? Ssenariy va freym qanday farqlanadi?
+? Ssenariylarning matnni tushunishdagi o'rni nimada?
+? Milliy-madaniy ssenariylar madaniyatlararo muloqotga qanday ta'sir qiladi?
+L 1,9,7,24,BT1,39,13,10
+
+# 8-AMALIY MASHG'ULOT. KOGNITIV TILSHUNOSLIKNING ASOSIY TUSHUNCHALARIDAN BO'LGAN SKRIPT VA ME'YORIY KETMA-KETLIK
+M Skriptning me'yoriy (normativ) harakatlar ketma-ketligi ekanini amaliy materialda ko'rsatish; skript turlarini farqlash; me'yorning buzilishi va uning lisoniy ifodasini tahlil qilish; nutqiy etiket formulalarini skript sahnalari bilan bog'lash ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Instrumental skriptning me'yoriy ketma-ketligini tiklang.
+«Palov damlash» skriptining aralashtirib berilgan bosqichlarini to'g'ri tartibga keltiring: guruchni solish; go'shtni qovurish; qozonni qizdirib, yog'ni dog'lash; zirvakka suv quyish va ziravor solish; piyozni solish; guruchni dimlash; sabzini solish; suv bug'langach guruchni yig'ib, qopqoqni yopish.
+N **Namuna («Choy damlash» skripti):** 1) choynakni qaynoq suv bilan chayish; 2) choy solish; 3) qaynoq suvni yarmigacha quyish; 4) qopqoqni yopib, dam yedirish; 5) choynakni to'ldirish; 6) choyni piyolaga quyib, choynakka uch marta «qaytarish»; 7) piyolaga quyib uzatish. **Izoh:** bu ketma-ketlik me'yoriy: 6-bosqichsiz choy «xom» hisoblanadi, 1-bosqich esa ko'pincha tushirib qoldiriladi. Demak, skriptda **majburiy** va **ixtiyoriy** bosqichlar farqlanadi.
+T 2-topshiriq. Skript turini aniqlang (vaziyatli, shaxsiy, instrumental).
+- avtobusda yo'l haqini to'lash;
+- telefon orqali taksi chaqirish;
+- ishga joylashish uchun suhbatdan o'tish;
+- xushomad qilib, rahbardan ta'til so'rash;
+- telefonni zaryadlash;
+- kutubxonadan kitob olish;
+- kir yuvish mashinasini ishga tushirish.
+N **Namuna:** «Xushomad qilib, rahbardan ta'til so'rash» – **shaxsiy skript**. Uni shaxs o'z maqsadiga erishish uchun qo'llaydi; vaziyatning boshqa ishtirokchisi (rahbar) uning asl maqsadini oxirigacha bilmasligi mumkin. Skript me'yori: maqtov → umumiy suhbat → muammoni aytish → iltimos.
+T 3-topshiriq. Matnlarda skript me'yori qayerda buzilganini aniqlang va bu buzilish qanday effekt berganini izohlang.
+Matn 1: «Mijoz restoranga kirdi, darhol hisobni so'radi, keyin menyuni varaqlay boshladi.»
+Matn 2: «Afandi to'yga eski to'nda bordi, uni hech kim to'rga taklif qilmadi. Ertasi kuni yangi to'n kiyib bordi, uni to'rga o'tkazishdi. Afandi palovni to'nining yengiga sola boshladi: "Ye, to'nim, ye, hurmat senga ekan!"»
+N **Namuna (Matn 2):** «To'yda mehmonni kutib olish» skriptida mehmonning kiyimi emas, shaxsi hurmat qilinishi kerak (me'yor). Mezbonlar me'yorni buzib, kiyimga qarab muomala qilgan. Afandi esa javoban «ovqatlanish» sahnasini buzib, ovqatni to'nga «yediradi». Me'yorning ataylab buzilishi hajviy effekt yaratadi va xalqning ikkiyuzlamachilikni qoralovchi bahosini ifodalaydi. Bu latifa tinglovchida skript haqidagi bilim bo'lgandagina tushuniladi.
+T 4-topshiriq. «Do'kondan xarid qilish» skriptining har bir sahnasiga mos nutqiy etiket formulalarini yozing.
+N **Namuna:** 1-sahna «Kirish»: «Assalomu alaykum!» – «Va alaykum assalom, keling!». 2-sahna «Tanlash»: «Mana bu qancha turadi?», «Boshqa rangi bormi?». 3-sahna «To'lash»: «Kartadan o'tkazsam bo'ladimi?». 4-sahna «Chiqish»: «Rahmat, baraka toping!» – «Yana keling!».
+## II. Keys-stadi
+T Keys: «Chat-bot uchun skript».
+Kompaniya taksi buyurtmalarini qabul qiluvchi o'zbek tilidagi chat-bot yaratmoqchi. Dasturchilar R. Shenk va R. Abelsonning skriptlar nazariyasidan foydalanishni rejalashtirdi.
+Topshiriqlar:
+- «Taksi chaqirish» skriptining rollari, rekvizitlari, kirish shartlari, sahnalari va natijalarini aniqlang.
+- Har bir sahna uchun chat-bot beradigan savollar va foydalanuvchining kutilayotgan javoblari namunalarini yozing.
+- Skriptdan chetga chiqish holatlarini (masalan, foydalanuvchi manzilni bilmaydi) va ularga javobni rejalashtiring.
+N **Namuna javob (1-savol qismi):** Rollar: mijoz, haydovchi, dispetcher (bot). Rekvizitlar: avtomobil, ilova, manzil, xarita. Kirish shartlari: mijozda borish ehtiyoji va to'lov imkoniyati bor. Sahnalar: 1) buyurtma (manzilni aniqlash, tarifni tanlash); 2) kutish (avtomobil ma'lumotlari, yetib kelish vaqti); 3) safar; 4) to'lov va baholash. Natija: mijoz manzilga yetdi, to'lov amalga oshdi.
+## III. Kazuslar
+T 1-kazus. Yevropalik mehmon o'zbek xonadonida choy ichayotganda uy egasi uning piyolasiga choyni oz-ozdan quyib turdi. Mehmon o'zini «hurmatsizlikka uchragandek» his qildi va «Nega menga choyni to'la quymaysiz?» deb so'radi. Vaziyatni skript nazariyasi asosida izohlang.
+N **Namuna yechim:** O'zbek «choy uzatish» skriptida choyni oz quyish hurmat belgisidir: uy egasi mehmonga qayta-qayta xizmat qilishni, ya'ni uni uzoqroq olib qolishni istaydi («Choyni oz quy, hurmatini ko'p qil»). To'la quyish esa ba'zan «ketishingiz mumkin» degan ishora sifatida tushuniladi. Mehmon esa o'z madaniyatidagi skriptga tayanib, to'la stakanni saxiylik belgisi deb biladi. Ziddiyat ikki madaniyatdagi skript me'yorlarining farqidan kelib chiqqan.
+T 2-kazus. Yangi ishga kirgan xodim birinchi kuni majlisga kech qoldi va «Salom!» deb, ruxsat so'ramasdan kirib, bo'sh joyga o'tirdi. Hamkasblari unga norozi qarashdi. Xodim qaysi skript me'yorini buzdi?
+N **Namuna yechim (yo'nalish):** «Majlisga kechikib kirish» skriptida me'yoriy harakatlar: eshikni taqillatish → «Kechirasiz, mumkinmi?» deb ruxsat so'rash → rahbarning ishorasini kutish → jim o'tirish...
+## IV. Testlar
+Q «Skriptlar, rejalar, maqsadlar va tushunish» (1977) kitobining mualliflari kimlar?
+o A) J. Lakoff, M. Jonson
+o B) R. Shenk, R. Abelson
+o C) M. Minskiy, I. Gofman
+o D) E. Rosh, B. Lloyd
+Q «Restoran» skriptida mijozning och bo'lishi va pulga ega bo'lishi qaysi komponentga kiradi?
+o A) Natija
+o B) Kirish shartlari
+o C) Sahna
+o D) Rekvizit
+Q Telefonni zaryadlash qaysi skript turiga misol bo'ladi?
+o A) Vaziyatli
+o B) Shaxsiy
+o C) Instrumental
+o D) Kaleydoskopik
+Q Skript ichidagi variantlar (masalan, qahvaxona, tez ovqatlanish shoxobchasi) qanday ataladi?
+o A) Yo'l (track)
+o B) Slot
+o C) Prototip
+o D) Fon
+Q Skript boshqa bilim tuzilmalaridan nimasi bilan ajralib turadi?
+o A) Statikligi bilan
+o B) Harakatlarning qat'iy, stereotip ketma-ketligi bilan
+o C) Faqat obrazdan iboratligi bilan
+o D) Vaqt omiliga bog'liq emasligi bilan
+Q Shenk va Abelson yaratgan matnni tushunuvchi kompyuter dasturi qanday nomlangan?
+o A) ELIZA
+o B) SAM
+o C) FrameNet
+o D) WordNet
+K 1–B; 2–B; 3–C; 4–A; 5–B; 6–B.
+## Nazariy savollar
+? Skript tushunchasi kim tomonidan va qanday maqsadda ishlab chiqilgan?
+? Skriptning tarkibiy qismlarini izohlang.
+? Skriptning qanday turlari mavjud?
+? Skriptdagi me'yoriy ketma-ketlik va uning buzilishi qanday lisoniy effekt beradi?
+? Skript bilimlarining madaniyatlararo muloqotdagi ahamiyatini tushuntiring.
+L 1,9,7,39,24,13,15,10
+
+# 9-AMALIY MASHG'ULOT. GESHTALT TUSHUNCHASI VA YAXLITLIK
+M Geshtaltning asosiy belgisi – yaxlitlik tamoyilini til birliklari (frazeologizmlar, qo'shma so'zlar, matn) misolida aniqlash; «figura va fon» tamoyilini gaplar tahlilida qo'llash; geshtalt qonunlarining til hodisalaridagi ko'rinishlarini topish ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Frazeologizmlarni geshtalt sifatida tahlil qiling.
+Har bir frazeologizm uchun: 1) tarkibidagi so'zlarning ma'nolari yig'indisini; 2) butunning (frazeologizmning) ma'nosini; 3) ular o'rtasidagi farqni yozing: «qo'li ochiq», «og'zi qulog'ida», «boshi qotdi», «ko'zi ochildi», «tili qisiq», «yuragi tars yorildi».
+N **Namuna («tarvuzi qo'ltig'idan tushdi»):**
+N 1) **Qismlar yig'indisi:** kishi qo'ltig'ida ko'tarib ketayotgan tarvuzini tushirib yubordi.
+N 2) **Butunning ma'nosi:** umidi puchga chiqdi, hafsalasi pir bo'ldi.
+N 3) **Farq:** frazeologik ma'no qismlar ma'nosidan bevosita kelib chiqmaydi; u butun obrazdan (tarvuzning tushib, yorilishi – kutilgan narsaning birdan yo'qolishi) hosil bo'ladi. Bu geshtaltning asosiy tamoyili – «butun qismlar yig'indisiga teng emas» – ekanini ko'rsatadi.
+T 2-topshiriq. Gaplarda figura va fonni aniqlang. So'zlarning o'rni almashtirilganda gap tabiiy bo'lib qoladimi?
+- «Mushuk stol tagida yotibdi.»
+- «Qayiq ko'prik ostidan o'tdi.»
+- «Samolyot shahar ustida uchmoqda.»
+- «Ali Valiga o'xshaydi.»
+N **Namuna:** «Mashina daraxt yonida turibdi.» Figura – **mashina** (kichikroq, harakatchan ob'ekt); fon – **daraxt** (barqaror mo'ljal). O'rin almashtirilsa: «Daraxt mashina yonida turibdi» – grammatik jihatdan to'g'ri, ammo g'alati eshitiladi, chunki tilda barqaror ob'ekt odatda fon vazifasini bajaradi (L. Talmi).
+T 3-topshiriq. Geshtalt qonunlarining til hodisalaridagi ko'rinishini toping.
+Yopiqlik, yaqinlik, o'xshashlik va uzluksizlik qonunlariga o'zbek tilidan misollar keltiring.
+N **Namuna (yopiqlik qonuni):** Dialogdagi elliptik gaplar: «– Qayerga ketyapsan? – Universitetga.» Ikkinchi gapda ega va kesim yo'q, ammo tinglovchi uni to'liq gap sifatida idrok etadi («Men universitetga ketyapman»). Ong «uzilgan doira»ni to'ldirgani kabi to'liq bo'lmagan gapni ham to'ldiradi.
+T 4-topshiriq. Geshtalt konseptni tavsiflang.
+«Navro'z», «Toshkent» yoki «bolalik» konseptlaridan birini tanlang. Ushbu so'zni eshitganda ongda yaxlit holda paydo bo'ladigan obrazlar, hislar va baholarni yozing.
+N **Namuna («Samarqand»):** Registon maydoni, ko'k gumbazlar, Amir Temur maqbarasi, Samarqand noni, «Sayqali ro'yi zamin» iborasi, tarixiylik va ulug'vorlik hissi. Bu belgilar alohida-alohida emas, balki bitta yaxlit obraz sifatida idrok etiladi. Shuning uchun «Samarqand» konsepti **geshtalt** turiga mansub.
+## II. Keys-stadi
+T Keys: «Rubin vazasi va lisoniy ko'p ma'nolilik».
+E. Rubin rasmida tomoshabin goh vazani, goh ikki yuzni ko'radi, lekin ikkalasini bir vaqtda ko'ra olmaydi. Tilda ham shunday holatlar uchraydi: «Qizning rasmi» (qiz chizgan rasm yoki qizni tasvirlagan rasm); «Ota-onaning tashvishi» (ota-ona chekayotgan tashvish yoki ota-ona haqidagi tashvish); «Uchta talabaning kitobi».
+Topshiriqlar:
+- Har bir birikmaning mumkin bo'lgan talqinlarini aniqlang.
+- Ko'p ma'nolilik qanday qilib Rubin vazasiga o'xshaydi?
+- Kontekst «figura»ni qanday tanlashga yordam beradi?
+N **Namuna javob (2-savol):** Rubin vazasida bir xil chiziqlar ikki xil yaxlit shaklni hosil qiladi. «Qizning rasmi» birikmasida ham bir xil so'zlar ikki xil yaxlit ma'noni beradi. Idrok kabi tushunish ham bir vaqtda faqat bitta talqinni «figura» sifatida tanlaydi, ikkinchisi «fon»da qoladi. Kontekst esa qaysi talqin figura bo'lishini belgilaydi: «Qizning rasmi ko'rgazmada birinchi o'rinni oldi» (qiz chizgan rasm).
+## III. Kazuslar
+T 1-kazus. Quyidagi gaplar aralashtirib berilgan. Ularni yaxlit matnga aylantiring va qaysi vositalar sizga yordam berganini aniqlang: «Shuning uchun uni "sayqali ro'yi zamin" deb atashgan.» «Samarqand – dunyoning eng qadimiy shaharlaridan biri.» «Uning yoshi 2750 yildan oshadi.» «Shahar o'zining me'moriy obidalari bilan mashhur.»
+N **Namuna yechim:** To'g'ri tartib: 2 – 3 – 4 – 1. Yordam bergan vositalar: olmoshlar («uning», «uni» – oldingi gapdagi «Samarqand»ga ishora), bog'lovchi vosita («shuning uchun» – xulosa, shu sababli oxirida keladi), mavzu–rema rivoji (umumiy ma'lumotdan xususiyga). Matn alohida gaplar yig'indisi emas, balki yaxlitlik (geshtalt) bo'lib, uning qismlari butun ichidagi vazifasiga ko'ra tartiblanadi.
+T 2-kazus. Talaba «Qo'shma so'zlar ham geshtaltmi?» deb so'radi. «Belbog'», «oshqozon», «ko'zoynak», «kungaboqar» so'zlari misolida javob bering.
+N **Namuna yechim (yo'nalish):** «Kungaboqar» – qismlar ma'nosidan qisman motivlangan («kunga qaraydigan o'simlik»), lekin so'z ma'nosi aniq o'simlik turini bildiradi; «oshqozon» esa endi «ovqat solinadigan qozon» deb tushunilmaydi...
+## IV. Testlar
+Q «Geshtalt sifati» tushunchasini kim kiritgan?
+o A) M. Verthaymer
+o B) X. fon Erenfels
+o C) K. Koffka
+o D) E. Rubin
+Q Geshtalt psixologiyasining tug'ilgan yili sifatida qaysi sana qabul qilingan?
+o A) 1890
+o B) 1912
+o C) 1935
+o D) 1977
+Q «Lingvistik geshtaltlar» (1977) maqolasining muallifi kim?
+o A) J. Lakoff
+o B) L. Talmi
+o C) R. Lenekker
+o D) Ch. Fillmor
+Q Idrok to'liq bo'lmagan shakllarni tugallangan holda qabul qilishi qaysi qonun bilan izohlanadi?
+o A) Yaqinlik
+o B) O'xshashlik
+o C) Yopiqlik
+o D) Umumiy taqdir
+Q «Velosiped uy yonida turibdi» gapida figura qaysi so'z?
+o A) uy
+o B) velosiped
+o C) yonida
+o D) turibdi
+Q Z.D. Popova va I.A. Sternin bo'yicha geshtalt qanday konsept?
+o A) Faqat mantiqiy tushuncha
+o B) Hissiy va ratsional elementlar birlashgan yaxlit obraz
+o C) Harakatlar ketma-ketligi
+o D) Slotlardan iborat tuzilma
+K 1–B; 2–B; 3–A; 4–C; 5–B; 6–B.
+## Nazariy savollar
+? Geshtalt tushunchasining mazmunini izohlang.
+? Geshtalt psixologiyasining asosiy namoyandalari va ularning xizmatlarini tavsiflang.
+? Idrokning geshtalt qonunlarini sanab, ularni izohlang.
+? «Figura va fon» tamoyilining tilshunoslikdagi talqinini tushuntiring.
+? Frazeologizm va matnning yaxlitligi geshtalt bilan qanday bog'liq?
+L 1,9,G1,G2,36,33,13,7
+
+# 10-AMALIY MASHG'ULOT. FREYM VA UNING OLTITA KOGNITIV BO'LAGI
+M Freymni olti kognitiv bo'lak modeli asosida tahlil qilish; gaplarda va matnlarda freym bo'laklarini aniqlash; Ch. Fillmorning «tijorat bitimi» freymi misolida profillash hodisasini o'rganish; freymning milliy-madaniy xususiyatlarini aniqlash ko'nikmasini shakllantirish.
+Ushbu mashg'ulotda freym tahlilining amaliy modeli sifatida uning olti kognitiv bo'lagi olinadi. Har bir bo'lak freym ifodalagan vaziyat haqidagi bitta asosiy savolga javob beradi. Bu bo'laklar Ch. Fillmorning «chuqur kelishiklar» (agens, ob'ekt, lokativ, instrument va boshqalar) nazariyasi bilan bog'liq:
+- **1. KIM?** – sub'ekt, harakat bajaruvchisi, ishtirokchilar (agens);
+- **2. NIMA?** – harakat yoki holat va uning ob'ekti (predikat, ob'ekt);
+- **3. QAYERDA?** – joy, makon (lokativ);
+- **4. QACHON?** – vaqt (temporativ);
+- **5. QANDAY? NIMA BILAN?** – usul, vosita (instrument);
+- **6. NIMA UCHUN?** – sabab, maqsad, natija.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Freymni olti kognitiv bo'lak asosida to'ldiring.
+«Bozor», «Sayohat» va «Davolanish» freymlaridan birini tanlang va jadvalni to'ldiring.
+| Kognitiv bo'lak | «Dars» freymi (namuna) | Lisoniy ifodalar
+| KIM? | o'qituvchi, talabalar, guruh sardori | «domla», «ustoz», «talaba», «tinglovchi»
+| NIMA? | ma'ruza o'qish, tushuntirish, savol-javob, topshiriq bajarish | «dars o'tmoq», «tushuntirmoq», «javob bermoq»
+| QAYERDA? | auditoriya, sinf xonasi, onlayn platforma | «auditoriya», «doska», «parta»
+| QACHON? | jadval bo'yicha, juftlik (80 daqiqa), semestr | «birinchi para», «tanaffus», «qo'ng'iroq»
+| QANDAY? NIMA BILAN? | taqdimot, darslik, doska, interfaol metodlar | «slayd», «konspekt», «klaster»
+| NIMA UCHUN? | bilim va ko'nikma berish, baholash | «o'zlashtirish», «baho», «reyting»
+N **Namuna izoh:** «Dars» freymining **standart qiymatlari** (masalan, «auditoriyada», «o'qituvchi tushuntiradi») tilda ko'pincha aytilmaydi. «Ertaga darsga boraman» gapida faqat «QACHON?» bo'lagi aytilgan, qolganlari esa tinglovchi ongida freym orqali avtomatik tiklanadi.
+T 2-topshiriq. Gaplarda freymning kognitiv bo'laklarini aniqlang.
+- «Bahorda dehqonlar dalada traktor bilan yer haydashdi, chunki ekish mavsumi yaqinlashgan edi.»
+- «Kecha onam bozordan arzonroq bo'lgani uchun naqd pulga ikki kilo olma sotib oldi.»
+- «Shifokor bemorni ertalab klinikada sinchiklab ko'rikdan o'tkazdi.»
+N **Namuna:** «Ertalab (QACHON?) talabalar (KIM?) auditoriyada (QAYERDA?) imtihon uchun (NIMA UCHUN?) testni (NIMA?) kompyuterda (NIMA BILAN?) topshirishdi.» – bu gapda «Imtihon» freymining barcha olti bo'lagi verballashgan. Odatda gaplarda bo'laklarning bir qismi aytiladi, qolganlari kontekstdan tiklanadi.
+T 3-topshiriq. «Tijorat bitimi» freymida fe'llarning profillashini aniqlang.
+Freym elementlari: xaridor, sotuvchi, tovar, pul. Har bir fe'l qaysi elementlarni markazga qo'yishini aniqlang: «sotib olmoq», «to'lamoq», «turmoq (narxi)», «qimmatlashmoq», «savdolashmoq», «qarzga olmoq».
+N **Namuna («sotmoq»):** «Dehqon (sotuvchi) bozorda qovunni (tovar) o'n ming so'mga (pul) sotdi.» Fe'l **sotuvchi va tovarni** markazga qo'yadi; xaridor ko'rsatilmasligi ham mumkin. Qiyoslang: «Men (xaridor) qovunni (tovar) sotib oldim» – bu yerda markazda xaridor turadi. Bitta vaziyat (freym) turli fe'llar orqali turli nuqtai nazardan ifodalanadi.
+T 4-topshiriq. Freymning milliy xususiyatini aniqlang.
+«Mehmondorchilik» freymining olti bo'lagini o'zbek va ingliz (yoki rus) madaniyatlarida qiyoslang.
+N **Namuna (KIM? va QACHON? bo'laklari):** O'zbek madaniyatida «KIM?» bo'lagiga nafaqat taklif qilingan mehmon, balki kutilmaganda kelgan kishi ham kiradi («Mehmon kelar eshikdan, rizqi kelar teshikdan»). «QACHON?» bo'lagi ham ko'pincha erkin: mehmon oldindan xabar bermasdan kelishi mumkin. Ingliz madaniyatida esa tashrif odatda oldindan kelishiladi va vaqt aniq belgilanadi.
+## II. Keys-stadi
+T Keys: «FrameNet – freymlar bazasi».
+Kaliforniya universitetida (Berkli) Ch. Fillmor rahbarligida yaratilgan FrameNet bazasida ingliz tilidagi so'zlar freymlar bo'yicha tasniflangan. Masalan, «buy» fe'li «Commerce_buy» freymiga kiradi. Uning asosiy elementlari – Buyer (xaridor) va Goods (tovar), qo'shimcha elementlari esa Seller (sotuvchi), Money (pul), Place (joy), Time (vaqt), Purpose (maqsad) va boshqalar.
+Topshiriqlar:
+- FrameNet saytida (framenet.icsi.berkeley.edu) «Commerce_buy» freymini toping va uning elementlarini olti kognitiv bo'lak bilan solishtiring.
+- O'zbek tilida «sotib olmoq», «xarid qilmoq», «olmoq» fe'llari uchun shunday freym tavsifini tuzing.
+- O'zbek tili uchun FrameNet kabi baza yaratishning qanday ahamiyati bo'lishi mumkin?
+N **Namuna javob (1-savol qismi):** Buyer → KIM?; Goods → NIMA?; Place → QAYERDA?; Time → QACHON?; Money va Means → QANDAY? NIMA BILAN?; Purpose → NIMA UCHUN? Demak, FrameNet elementlari olti kognitiv bo'lak modeliga mos keladi, lekin ular nisbatan batafsilroq.
+## III. Kazuslar
+T 1-kazus. Bir voqea haqida ikki xil sarlavha berildi: «Benzin narxi oshdi» va «Yoqilg'i sotuvchilari benzin narxini oshirdi». I. Gofman va Ch. Fillmor freym nazariyasi asosida sarlavhalarni tahlil qiling. Ular o'quvchida qanday turli tasavvur uyg'otadi?
+N **Namuna yechim:** Ikkala sarlavha ham bir freymni («narxning o'zgarishi») faollashtiradi, ammo bo'laklarni turlicha profillaydi. Birinchi sarlavhada «KIM?» bo'lagi bo'sh: narx o'z-o'zidan o'zgargandek tasvirlanadi va javobgarlik ko'rsatilmaydi. Ikkinchisida «KIM?» bo'lagi to'ldirilgan: aniq sub'ekt va uning javobgarligi ko'rsatilgan. Shunday qilib, ommaviy axborot vositalari freym bo'laklarini tanlash orqali o'quvchining voqeaga munosabatini shakllantiradi (Gofman bo'yicha «freymlash»).
+T 2-kazus. Talaba «Freymning bo'laklari har doim oltita bo'lishi shart» deb hisoblaydi. Bu fikr to'g'rimi?
+N **Namuna yechim (yo'nalish):** Olti bo'lak modeli – tahlil uchun qulay umumlashma. Haqiqiy freymlarda slotlar soni ko'proq bo'lishi mumkin (masalan, «tijorat bitimi»da sotuvchi va xaridor alohida rollar); ba'zi freymlarda esa ayrim bo'laklar ahamiyatsiz bo'ladi...
+## IV. Testlar
+Q Freym tushunchasini sun'iy intellekt sohasiga kiritgan olim kim?
+o A) Ch. Fillmor
+o B) M. Minskiy
+o C) R. Shenk
+o D) I. Gofman
+Q Freymning to'ldiriladigan tarkibiy qismlari qanday ataladi?
+o A) Epizodlar
+o B) Slotlar
+o C) Prototiplar
+o D) Geshtaltlar
+Q Ch. Fillmorning «Kelishik uchun dalillar» maqolasi qachon e'lon qilingan?
+o A) 1958
+o B) 1968
+o C) 1982
+o D) 1997
+Q «Bu kitob o'n ming so'm turadi» gapida «tijorat bitimi» freymining qaysi elementlari profillangan?
+o A) Xaridor va sotuvchi
+o B) Tovar va pul
+o C) Sotuvchi va pul
+o D) Xaridor va tovar
+Q Freymning «QAYERDA?» bo'lagi Fillmorning qaysi chuqur kelishigiga mos keladi?
+o A) Agens
+o B) Instrument
+o C) Lokativ
+o D) Ob'ekt
+Q «Freym tahlili» (1974) kitobining muallifi, sotsiolog kim?
+o A) I. Gofman
+o B) T. van Deyk
+o C) E. Sepir
+o D) U. Labov
+K 1–B; 2–B; 3–B; 4–B; 5–C; 6–A.
+## Nazariy savollar
+? Freym tushunchasining paydo bo'lishi va rivojlanish tarixini izohlang.
+? Freymning olti kognitiv bo'lagini sanab, ularni Fillmorning chuqur kelishiklari bilan bog'lang.
+? Slot, terminal va standart qiymat tushunchalarini izohlang.
+? «Tijorat bitimi» freymi misolida profillash hodisasini tushuntiring.
+? Freymning milliy-madaniy xususiyatlari qanday namoyon bo'ladi?
+L 1,9,12,23,38,7,13,46

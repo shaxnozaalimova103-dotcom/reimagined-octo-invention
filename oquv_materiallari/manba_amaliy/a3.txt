@@ -1,0 +1,398 @@
+# 11-AMALIY MASHG'ULOT. KATEGORIYA TUSHUNCHASINI ILMIY ADABIYOTLAR ASOSIDA TALQIN QILISH
+M Aristotel, L. Vitgenshteyn, E. Rosh va J. Lakoff asarlarida kategoriya va kategoriyalash tushunchalarining talqinini qiyoslash; prototip va bazaviy daraja tushunchalarini eksperiment va o'zbek tili materiali asosida amalda qo'llash ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Aristotel kategoriyalarini gap tahlilida qo'llang.
+Aristotelning o'n kategoriyasi: mohiyat, miqdor, sifat, munosabat, joy, vaqt, holat, egalik, harakat (ta'sir etish), ta'sirlanish. Quyidagi gapdagi so'zlarni kategoriyalarga ajrating: «Kecha kutubxonada o'tirgan ikki bilimdon talaba o'z daftarlarini olib, ustozidan yoshroq bo'lgan dotsent bilan bahslashdi va undan tanbeh oldi.»
+N **Namuna:** «talaba» – **mohiyat** (kim?); «ikki» – **miqdor**; «bilimdon» – **sifat**; «ustozidan yoshroq» – **munosabat**; «kutubxonada» – **joy**; «kecha» – **vaqt**; «o'tirgan» – **holat**; «daftarlarini olib» – **egalik**; «bahslashdi» – **harakat**; «tanbeh oldi» – **ta'sirlanish**. Aristotelning o'zi ham kategoriyalarni shunday misollar orqali izohlagan: «odam» (mohiyat), «ikki tirsak uzunlikda» (miqdor), «oq» (sifat), «Likeyda» (joy), «kecha» (vaqt), «yotibdi» (holat), «etik kiygan» (egalik), «kesmoq» (harakat), «kesilmoq» (ta'sirlanish).
+T 2-topshiriq. Prototipni aniqlash bo'yicha eksperiment o'tkazing.
+«Meva», «mebel», «transport vositasi» va «kasb» kategoriyalaridan birini tanlang. Guruh a'zolari kategoriyaning 8 ta a'zosini 1 dan 7 gacha bo'lgan shkalada baholasin (1 – eng yaxshi namuna, 7 – kategoriyaga deyarli kirmaydi). O'rtacha ballni hisoblang.
+N **Namuna («qush» kategoriyasi, shartli natijalar):**
+| A'zo | O'rtacha ball | Zona
+| chumchuq | 1,2 | prototip (markaz)
+| musicha | 1,5 | markaz
+| burgut | 2,1 | markazga yaqin
+| tovuq | 4,3 | periferiya
+| tuyaqush | 5,6 | periferiya
+| pingvin | 5,9 | uzoq periferiya
+| ko'rshapalak | 6,8 | kategoriyaga kirmaydi (ammo ba'zan adashtiriladi)
+N **Namuna xulosa:** Kategoriya a'zolari teng emas. Prototip – kichik, ucha oladigan, sayraydigan qush. Tuyaqush va pingvin uchmagani uchun periferiyada joylashgan. Ko'rshapalakning baholanishi esa kategoriya chegaralarining «loyqa» ekanini ko'rsatadi.
+T 3-topshiriq. Kategoriyalarning uch darajali ierarxiyasini tuzing va bazaviy darajani aniqlang.
+«Kiyim», «idish», «hayvon», «musiqa asbobi» kategoriyalari uchun yuqori, bazaviy va quyi darajalarni yozing.
+N **Namuna:** O'simlik (yuqori daraja) → **daraxt** (bazaviy daraja) → o'rik, yong'oq, terak (quyi daraja). **Izoh:** bazaviy darajadagi «daraxt» so'zi qisqa, bolalar tomonidan erta o'zlashtiriladi va yaxlit obrazga ega: daraxtni chizish mumkin, «o'simlik»ni esa yagona obraz bilan chizib bo'lmaydi.
+T 4-topshiriq. «O'yin» kategoriyasidagi oilaviy o'xshashlikni aniqlang.
+Jadvalni to'ldiring va barcha o'yinlar uchun umumiy bo'lgan bitta belgi bor-yo'qligini aniqlang.
+| O'yin | G'olib bormi? | Raqib bormi? | Mahorat kerakmi? | Omad rol o'ynaydimi? | Jismoniy harakat bormi?
+| shaxmat | + | + | + | – | –
+| ko'pkari | ... | ... | ... | ... | ...
+| quvlashmachoq | ... | ... | ... | ... | ...
+| loto | ... | ... | ... | ... | ...
+| kompyuter o'yini | ... | ... | ... | ... | ...
+| qo'g'irchoq o'ynash | ... | ... | ... | ... | ...
+N **Namuna xulosa:** Shaxmatda g'olib, raqib va mahorat bor, lekin omad deyarli rol o'ynamaydi. Qo'g'irchoq o'ynashda esa g'olib ham, raqib ham yo'q. Barcha o'yinlar uchun umumiy bo'lgan birorta belgi topilmaydi: ular bir-biri bilan turli belgilar orqali «zanjir» kabi bog'langan. Bu L. Vitgenshteynning **oilaviy o'xshashlik** g'oyasini tasdiqlaydi.
+## II. Keys-stadi
+T Keys: «Piyola, kosa yoki chashka?»
+U. Labov (1973) idishlarning shakli (balandligi va kengligi nisbati), dastasi bor-yo'qligi va ichiga nima solingani (qahva, sho'rva, gul) o'zgarganda odamlar ularni turlicha nomlashini aniqlagan. O'zbek tilida ham «piyola», «kosa», «chashka», «krujka», «stakan», «tovoq» kabi so'zlar mavjud.
+Topshiriqlar:
+- Har bir idish nomining farqlovchi belgilarini (shakli, dastasi, materiali, vazifasi) aniqlang.
+- Qanday holatda bitta idishni ham «piyola», ham «kosa» deyish mumkin?
+- Bu holat klassik kategoriyalash nazariyasini qo'llab-quvvatlaydimi yoki inkor etadimi?
+N **Namuna javob (2-savol):** Kattaroq piyolaga sho'rva quyilsa, uni ko'pchilik «kosa» deb ataydi. Kichik kosaga choy quyilsa, «piyola» deyishi mumkin. Demak, nomlash faqat idish shakliga emas, balki uning **vazifasi va vaziyatga** ham bog'liq. Kategoriya chegarasi qat'iy emas – bu klassik nazariyani inkor etib, prototip nazariyasini tasdiqlaydi.
+## III. Kazuslar
+T 1-kazus. Do'stlar bahslashmoqda: «Pomidor – meva, chunki botanikada uning ichida urug'i bor!» – «Yo'q, pomidor – sabzavot, uni salatga solamiz, kompot qilmaymiz!» Kim haq? Javobingizni kategoriyalash nazariyalari asosida asoslang.
+N **Namuna yechim:** Ikkalasi ham o'z nuqtai nazaridan haq. Botanika **ilmiy kategoriyalash**dan foydalanadi: u zarur va yetarli belgilarga (urug'li meva) asoslanadi, ya'ni klassik nazariyaga yaqin. Kundalik til esa **xalq (naiv) kategoriyalashi**ga tayanadi: unda asosiy mezon – narsaning inson hayotidagi vazifasi (shirin, desertga – meva; salatga, ovqatga – sabzavot). Qiziq fakt: 1893-yilda AQSh Oliy sudi «Niks Heddenga qarshi» (Nix v. Hedden) ishida bojxona maqsadlari uchun pomidorni kundalik tushunchaga ko'ra **sabzavot** deb topgan. Bu kategoriyalashning inson faoliyati va maqsadiga bog'liqligini ko'rsatadi.
+T 2-kazus. Talaba: «Kit – baliq, chunki u suvda yashaydi va suzadi», deydi. Biolog esa kit sutemizuvchi ekanini aytadi. O'zbek tilidagi «kit balig'i» birikmasi nimadan dalolat beradi?
+N **Namuna yechim (yo'nalish):** «Kit balig'i» birikmasi tilda xalq kategoriyalashi natijasi mustahkamlanib qolganini ko'rsatadi: kit «suvda yashaydi, suzadi» degan perseptiv belgilar asosida «baliq» kategoriyasining periferik a'zosi sifatida qabul qilingan...
+## IV. Testlar
+Q Aristotel «Kategoriyalar» asarida nechta kategoriyani ajratgan?
+o A) 4 ta
+o B) 10 ta
+o C) 12 ta
+o D) 7 ta
+Q I. Kant aqlning nechta kategoriyasini ajratgan?
+o A) 10 ta
+o B) 12 ta
+o C) 6 ta
+o D) 4 ta
+Q «Oilaviy o'xshashlik» g'oyasi qaysi asarda ilgari surilgan?
+o A) «Mantiqiy-falsafiy traktat»
+o B) «Falsafiy tadqiqotlar»
+o C) «Sof aqlning tanqidi»
+o D) «Kategoriyalar»
+Q Prototiplar nazariyasining asoschisi kim?
+o A) E. Rosh
+o B) U. Labov
+o C) J. Lakoff
+o D) B. Berlin
+Q «Mebel – stul – oshxona stuli» qatorida bazaviy daraja qaysi?
+o A) mebel
+o B) stul
+o C) oshxona stuli
+o D) bazaviy daraja yo'q
+Q J. Lakoffning «Ayollar, olov va xavfli narsalar» kitobi nomi qaysi til materialiga ishora qiladi?
+o A) Xopi tili
+o B) Dyirbal tili
+o C) Dani tili
+o D) Yapon tili
+K 1–B; 2–B; 3–B; 4–A; 5–B; 6–B.
+## Nazariy savollar
+? Kategoriya va kategoriyalash tushunchalarini izohlang.
+? Klassik kategoriyalash nazariyasining asosiy qoidalarini tushuntiring.
+? L. Vitgenshteynning «oilaviy o'xshashlik» g'oyasi klassik nazariyani qanday tanqid qiladi?
+? E. Roshning prototip va bazaviy daraja haqidagi g'oyalarini izohlang.
+? J. Lakoffning radial kategoriyalar va idealashtirilgan kognitiv modellar nazariyasini tushuntiring.
+L 1,26,34,40,9,12,15,14
+
+# 12-AMALIY MASHG'ULOT. TIL VA MADANIYAT MUNOSABATI
+M Lingvokulturemalar, madaniyat etalonlari, presedent birliklar va lakunalarni o'zbek tili materialida aniqlash va izohlash; til birliklarining madaniy mazmunini boshqa tillar bilan qiyoslash; madaniyatlararo muloqotdagi muammolarni lingvokulturologik tahlil qilish ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Lingvokulturemalarni izohlang.
+Har bir so'zning lisoniy ma'nosini va madaniy fonini (u bilan bog'liq urf-odatlar, marosimlar, qadriyatlar) yozing: «do'ppi», «beshik», «hashar», «gap» (davra), «ko'pkari», «atlas», «tandir».
+N **Namuna («sumalak»):**
+N – **Lisoniy ma'no:** undirilgan bug'doy shirasi va un qo'shib, uzoq qaynatib tayyorlanadigan quyuq shirin taom.
+N – **Madaniy fon:** Navro'z bayramining ramzi; asosan ayollar tomonidan tun bo'yi qozon atrofida qo'shiq aytib («Sumalak qaynar, biz kapgir solamiz...») tayyorlanadi; qozon tubiga tosh yoki yong'oq solinadi va u kimga chiqsa, niyati ijobat bo'ladi, deb ishoniladi; sumalak qo'shnilarga ulashiladi – bu jamoaviylik va baraka g'oyasini ifodalaydi.
+N – **Xulosa:** so'z orqasida butun marosim va qadriyatlar tizimi turadi. Shuning uchun u **lingvokulturema** hisoblanadi.
+T 2-topshiriq. Madaniyat etalonlarini qiyoslang.
+O'xshatishlarni o'zbek, rus va ingliz tillarida qiyoslang va farqlarni izohlang.
+| Sifat | O'zbek tili | Rus tili | Ingliz tili
+| ayyorlik | tulkiday ayyor | хитрый как лиса | as sly as a fox
+| jasorat | ... | ... | ...
+| yuvoshlik | ... | ... | ...
+| go'zallik | ... | ... | ...
+| mehnatkashlik | ... | ... | ...
+| ahmoqlik | ... | ... | ...
+N **Namuna izoh:** «Ayyorlik» etaloni uch tilda bir xil (tulki). Bu universal madaniy etalon bo'lib, hayvonni kuzatish tajribasiga asoslangan. «Go'zallik» etalonida esa farq bor: o'zbek tilida «oyday go'zal», «sarvqomat»; ingliz tilida «as pretty as a picture» («rasmdek chiroyli»). Bu madaniy etalonlarning milliy xususiyatini ko'rsatadi.
+T 3-topshiriq. Presedent birliklarni aniqlang va ularning manbasini ko'rsating.
+«Alpomishday botir», «Afandichasiga ish tutdi», «Majnun bo'lib qoldi», «Hotamtoy saxiyligi», «Farhoddek mehnat qilmoq», «Ilm olish – igna bilan quduq qazish».
+N **Namuna:** «Farhoddek mehnat qilmoq» – **presedent ism** asosidagi ibora. Manbasi: Alisher Navoiyning «Farhod va Shirin» dostoni (shuningdek, xalq og'zaki ijodidagi rivoyatlar). Unda Farhod Shirin uchun tog'ni qazib, ariq chiqaradi. Ibora «og'ir, matonatli, fidokorona mehnat» ma'nosini bildiradi va o'quvchi bu syujetni bilgandagina to'liq tushuniladi.
+T 4-topshiriq. Ekvivalentsiz leksikani tarjima qilish usullarini tanlang.
+«Mahalla», «hashar», «chopon», «sandal», «so'ri», «nikoh to'yi» so'zlarini ingliz tiliga tarjima qiling. Har bir holatda qanday usul (transliteratsiya, tasviriy tarjima, kalka, izoh) qo'llanganini ko'rsating.
+N **Namuna («mahalla»):** Transliteratsiya va izoh: «mahalla (a traditional Uzbek neighbourhood community with its own self-governing council)». Faqat «neighbourhood» deb tarjima qilish yetarli emas, chunki unda o'zaro yordam, marosimlarni birgalikda o'tkazish, oqsoqollar kengashi kabi madaniy komponentlar yo'qoladi.
+## II. Keys-stadi
+T Keys: «Madaniyat aysbergi».
+Antropolog E. Xoll madaniyatni aysbergga o'xshatgan: uning kichik qismi suv ustida ko'rinadi (taomlar, kiyimlar, bayramlar, til), katta qismi esa suv ostida yashiringan (qadriyatlar, vaqtga munosabat, shaxsiy masofa, muloqot uslubi, oila haqidagi tasavvurlar).
+Topshiriqlar:
+- O'zbek madaniyati «aysbergi»ni chizing: suv ustida va suv ostida qolgan qatlamlarga kamida 6 tadan element yozing.
+- Har bir yashirin qatlam elementi tilda qanday ifodalanishini ko'rsating (maqol, ibora, nutqiy etiket).
+- Chet ellik uchun qaysi qatlamni tushunish qiyinroq? Nima uchun?
+N **Namuna javob (2-savol qismi):** Yashirin qatlam: **kattalarga hurmat**. Tildagi ifodasi: «siz»ning keng qo'llanishi; kattalarga «aka», «opa», «ota», «xola» deb murojaat qilish; «Kattaga hurmatda, kichikka izzatda bo'l» maqoli; davrada so'zni kattaga berish odati. Yashirin qatlam: **vaqtga munosabat**. Tildagi ifodasi: «Shoshgan qiz erga yolchimas», «Sabr tagi – sariq oltin».
+## III. Kazuslar
+T 1-kazus. Ingliz tilida so'zlashuvchi xorijlik mehmon o'zbek tanishiga kichik yordam ko'rsatdi. Tanishi unga: «Rahmat, baraka toping, umringiz uzoq bo'lsin, ota-onangizga rahmat!» dedi. Mehmon hayron bo'lib: «Nega bunchalik ko'p minnatdorchilik? Men oddiy ish qildim-ku», dedi. Vaziyatni izohlang.
+N **Namuna yechim:** O'zbek nutqiy etiketida minnatdorchilik ko'pincha **duo-olqish** shaklida ifodalanadi va bu odatiy, me'yoriy holat hisoblanadi. Bunday ifoda faqat yordam uchun emas, balki shaxsning oilasi va kelajagiga ham yaxshi tilak bildirishni o'z ichiga oladi. Ingliz madaniyatida esa minnatdorchilik qisqa («Thanks a lot!») va kamroq emotsional bo'ladi. Mehmon o'z madaniyati me'yori asosida bu ifodani «haddan tashqari» deb baholagan. Bu **pragmatik farq** – lingvokulturologik bilimlarning yetishmasligi bilan bog'liq.
+T 2-kazus. Rus tilidagi «Белая ворона» va o'zbek tilidagi «oq qarg'a» iboralari tashqi ko'rinishdan bir xil. Ular ma'no va qo'llanish jihatidan to'liq mos keladimi? Tekshiring va xulosa chiqaring.
+N **Namuna yechim (yo'nalish):** Ruscha ibora «boshqalardan keskin farq qiladigan, jamoaga mos kelmaydigan kishi» ma'nosini bildiradi. O'zbek tilida «oq qarg'a» birikmasi kamroq qo'llanadi va ko'pincha «juda kamyob narsa» ma'nosida kalka sifatida uchraydi...
+## IV. Testlar
+Q «Lingvokulturema» atamasini kiritgan olim kim?
+o A) V.V. Vorob'yov
+o B) V.N. Teliya
+o C) V.A. Maslova
+o D) Yu.S. Stepanov
+Q Frazeologizmlarning madaniy konnotatsiyasini o'rgangan olim kim?
+o A) V.N. Teliya
+o B) E.M. Vereshchagin
+o C) S.G. Ter-Minasova
+o D) D.B. Gudkov
+Q «Til va madaniyat» (1973) kitobining mualliflari kimlar?
+o A) E.M. Vereshchagin, V.G. Kostomarov
+o B) Z.D. Popova, I.A. Sternin
+o C) V.V. Krasnix, D.B. Gudkov
+o D) A. Kroeber, K. Klakxon
+Q Madaniyatni «aysberg»ga qiyoslagan olim kim?
+o A) E. Xoll
+o B) F. Boas
+o C) E. Sepir
+o D) A. Vejbitskaya
+Q «Ko'ngil», «yurak», «jigar» so'zlari madaniyatning qaysi kodiga mansub?
+o A) Zoomorf
+o B) Somatik
+o C) Vegetativ
+o D) Vaqtiy
+Q Bir tilda nomlangan tushunchaning boshqa tilda nomlanmay qolishi qanday ataladi?
+o A) Lakuna
+o B) Kalka
+o C) Konnotatsiya
+o D) Presedent
+K 1–A; 2–A; 3–A; 4–A; 5–B; 6–A.
+## Nazariy savollar
+? Til va madaniyat munosabati haqidagi asosiy qarashlarni izohlang.
+? Lingvokulturologiyaning predmeti va vazifalari nimadan iborat?
+? Lingvokulturema, madaniy konnotatsiya va madaniyat etaloni tushunchalarini izohlang.
+? Presedent birliklarning qanday turlari mavjud?
+? Ekvivalentsiz leksika va lakunalarni tarjima qilish usullarini tavsiflang.
+L 5,6,11,28,29,31,30,22
+
+# 13-AMALIY MASHG'ULOT. TIL HODISALARINING KOGNITIV TAHLILI VA UNING KO'RINISHLARI
+M Kognitiv tahlilning asosiy ko'rinishlari – konseptual metafora tahlili, metonimiya tahlili, tasvir sxemalari tahlili, polisemiyaning radial tahlili va semantik-kognitiv (konseptual) tahlilni o'zbek tili materialida amalda qo'llash ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Konseptual metaforalarni aniqlang: manba soha, maqsad soha va proyeksiyani ko'rsating.
+- «U hayotining eng og'ir davrini bosib o'tdi.»
+- «Bahs qizib ketdi, raqiblar bir-birining dalillariga hujum qilishdi.»
+- «Uning g'azabi alangalandi.»
+- «Kayfiyatim tushib ketdi.»
+- «Bu fikr miyamga sig'maydi.»
+- «Yoshligimni bekorga sarfladim.»
+N **Namuna:** «Ko'p vaqtimni behuda sarfladim, endi uni tejayman.» Konseptual metafora: **VAQT – PUL (QIMMATLI RESURS)**. Manba soha – pul (konkret, hisoblanadigan, tugaydigan). Maqsad soha – vaqt (mavhum). Proyeksiya: pulni sarflash → vaqtni sarflash; pulni tejash → vaqtni tejash; pulning yetishmasligi → «vaqtim yo'q». Metafora orqali vaqt o'lchanadigan va tugaydigan resurs sifatida tushuniladi.
+T 2-topshiriq. Metonimiya modellarini aniqlang.
+- «Butun stadion o'rnidan turib qarsak chaldi.»
+- «Men Qodiriyni qayta o'qib chiqdim.»
+- «Toshkent Moskva bilan muzokara olib bormoqda.»
+- «Bir kosa ichib, tetiklashdi.»
+- «Oq xalatlilar kechayu kunduz bemorlar yonida bo'lishdi.»
+- «Uyda olti jon yashaydi.»
+N **Namuna:** «Butun stadion o'rnidan turdi» – **JOY – ODAMLAR UCHUN** metonimiyasi. Stadion (joy) unda o'tirgan tomoshabinlar o'rnida qo'llangan. Metonimiya bitta soha («sport tadbiri») ichida amal qiladi va eng ko'zga tashlanadigan elementni (stadion) tanlaydi.
+T 3-topshiriq. Ko'makchi va ravishlarning makoniy va mavhum ma'nolarini tasvir sxemalari asosida tahlil qiling.
+«ichida», «ustida», «ostida», «orqasida», «oldida», «sari» so'zlari uchun bittadan makoniy va mavhum ma'noli misol tuzing va tasvir sxemasini aniqlang.
+N **Namuna («ichida»):** Makoniy ma'no: «Kitob sumka ichida» – **IDISH** sxemasi (ichkari – chegara – tashqari). Mavhum ma'no: «U qarzlar ichida qoldi», «Gapning ichida gap bor». Bu yerda vaziyat yoki gap ham «idish» sifatida tasavvur qilinadi: inson undan «chiqa olmaydi» yoki uning ichida yashirin narsa bo'ladi.
+T 4-topshiriq. Ko'p ma'noli so'zni radial kategoriya sifatida tahlil qiling.
+«Ko'z», «yuz», «oyoq», «til» so'zlaridan birini tanlang. Markaziy ma'noni va undan hosil bo'lgan ma'nolarni aniqlang hamda har bir ma'no qaysi mexanizm (metafora, metonimiya) orqali hosil bo'lganini ko'rsating.
+N **Namuna («bosh»):** Markaziy ma'no – tananing yuqori qismi. Metafora (YUQORI QISM): «tog' boshi». Metafora (BOSHLANISH): «yil boshi», «ko'cha boshi». Metafora (RAHBAR): «oila boshi». Metonimiya (DONA): «bir bosh piyoz», «yuz bosh qo'y». Barcha ma'nolar markaziy ma'no bilan inson tanasi tajribasi orqali bog'langan: bosh – tananing eng yuqori, oldingi va muhim qismi.
+T 5-topshiriq. «Sabr» konseptining semantik-kognitiv tahlilini bajaring.
+Z.D. Popova va I.A. Sternin metodikasi bosqichlariga tayaning: izohli lug'atdagi ma'no; sinonimlar; so'z yasash uyasi; frazeologizmlar; maqollar; badiiy matnlardan misollar; kognitiv belgilar; yadro va periferiya.
+N **Namuna (tahlil boshlanishi):** Lug'aviy ma'no: «Qiyinchilik, og'riq, ozorlarga chidash, bardosh; shoshilmay kutish qobiliyati». Sinonimlar: «toqat», «bardosh», «chidam». So'z yasash uyasi: «sabrli», «sabrsiz», «sabrsizlik», «sabr-toqat». Maqollar: «Sabr tagi – sariq oltin», «Sabr qilsang, g'o'radan holva bitar». Kognitiv belgilar: «sabr – qiyinchilikka chidash», «sabr – kelajakda mukofot keltiradi» (oltin, holva metaforalari), «sabr – ma'naviy fazilat». Yadro: «chidam, bardosh»; periferiya: «oxiri yaxshilik bilan tugaydigan kutish».
+## II. Keys-stadi
+T Keys: «Ommaviy axborot vositalaridagi metaforalar».
+Iqtisodiy va siyosiy matnlarda quyidagi ifodalar ko'p uchraydi: «sog'lom iqtisodiyot», «inflyatsiyaning isitmasi», «iqtisodiyotni davolash», «korrupsiyaga qarshi kurash», «jinoyatchilikka qarshi urush», «islohotlar yo'li», «taraqqiyot yo'lidan bormoq».
+Topshiriqlar:
+- Ifodalarni konseptual metaforalar bo'yicha guruhlang.
+- Har bir metafora o'quvchi ongida qanday tasavvur va baho uyg'otadi?
+- Bir xil hodisani boshqa metafora orqali ifodalab ko'ring va farqni izohlang.
+N **Namuna javob (1-savol):** **IQTISODIYOT – ORGANIZM**: «sog'lom iqtisodiyot», «inflyatsiyaning isitmasi», «iqtisodiyotni davolash». **IJTIMOIY MUAMMOGA QARSHI CHORA – URUSH**: «korrupsiyaga qarshi kurash», «jinoyatchilikka qarshi urush». **TARAQQIYOT – YO'L**: «islohotlar yo'li», «taraqqiyot yo'lidan bormoq». Masalan, «organizm» metaforasi iqtisodiy muammoni «kasallik» sifatida, hukumatni esa «shifokor» sifatida tasavvur qilishga undaydi.
+## III. Kazuslar
+T 1-kazus. Tadqiqotchi: «"Stol oyog'i", "choynak burni" kabi ifodalar o'lik metaforalardir, ular endi tafakkurga hech qanday ta'sir qilmaydi, shuning uchun ularni kognitiv tahlil qilish ma'nosiz», deb hisoblaydi. Unga e'tiroz bildiring.
+N **Namuna yechim:** Bu ifodalar haqiqatan ham obrazliligini yo'qotgan va so'zlovchi tomonidan metafora sifatida anglanmaydi. Ammo kognitiv tilshunoslik uchun ular muhim dalil: ular **INSON TANASI – PREDMET** (antropomorfizm) degan keng tarqalgan konseptual modelning tilda mustahkamlanib qolgan izi. Inson olamni o'z tanasi orqali o'lchaydi («tog' etagi», «daryo og'zi», «ko'cha boshi»). «O'lik» metaforalarning ko'pligi aynan shu modelning tafakkurdagi chuqur ildizini ko'rsatadi.
+T 2-kazus. Ikki talaba «Vatan» konseptini tahlil qildi. Birinchisi faqat 3 ta maqol asosida xulosa chiqardi. Ikkinchisi lug'at, 40 ta maqol va ibora, 15 ta she'r va 50 respondent bilan assotsiativ eksperimentdan foydalandi. Qaysi tadqiqot ishonchliroq va nima uchun?
+N **Namuna yechim (yo'nalish):** Ikkinchi tadqiqot ishonchliroq, chunki unda materialning **reprezentativligi** ta'minlangan va turli manbalar (lisoniy, matnli, eksperimental) bir-birini tekshirgan...
+## IV. Testlar
+Q «Biz yashaydigan metaforalar» (1980) kitobining mualliflari kimlar?
+o A) J. Lakoff, M. Jonson
+o B) J. Fokonye, M. Terner
+o C) R. Lenekker, L. Talmi
+o D) E. Rosh, U. Labov
+Q «Kayfiyati ko'tarildi» ifodasi qaysi turdagi metaforaga misol?
+o A) Strukturaviy
+o B) Orientatsion
+o C) Ontologik
+o D) O'lik
+Q «Navoiyni o'qidim» qaysi metonimiya modeliga mos keladi?
+o A) Idish – ichidagi uchun
+o B) Muallif – asar uchun
+o C) Joy – muassasa uchun
+o D) Qism – butun uchun
+Q Tasvir sxemalari tushunchasini kiritgan olim kim?
+o A) M. Jonson
+o B) Ch. Fillmor
+o C) A. Goldberg
+o D) R. Shenk
+Q Polisemiyaning markaziy ma'no va undan tarmoqlangan ma'nolar sifatida tahlil qilinishi qanday ataladi?
+o A) Komponent tahlil
+o B) Radial kategoriya tahlili
+o C) Distributiv tahlil
+o D) Transformatsion tahlil
+Q Konseptual metaforada mavhum, tushuniladigan soha qanday ataladi?
+o A) Manba soha
+o B) Maqsad soha
+o C) Baza
+o D) Fon
+K 1–A; 2–B; 3–B; 4–A; 5–B; 6–B.
+## Nazariy savollar
+? Kognitiv tahlilning asosiy ko'rinishlarini sanab, ularni tavsiflang.
+? Konseptual metafora nazariyasining mohiyatini va metafora turlarini izohlang.
+? Konseptual metafora va metonimiyaning farqini tushuntiring.
+? Tasvir sxemalarining til birliklari ma'nosidagi o'rni nimada?
+? Semantik-kognitiv tahlil bosqichlarini tavsiflang.
+L 1,25,33,37,35,43,9,13
+
+# 14-AMALIY MASHG'ULOT. ZAMONAVIY LINGVISTIKANING TAYANCH ATAMALARI VA ULARNING ILMIY IZOHLARI (1-qism)
+M Kognitiv tilshunoslik va antroposentrik lingvistikaning tayanch atamalarini o'zlashtirish; atamalarni ta'riflar bilan moslashtirish, mazmuniy guruhlarga ajratish, ularning rus va ingliz tillaridagi muqobillarini aniqlash; ilmiy matnda atamalarni to'g'ri qo'llash ko'nikmasini shakllantirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Atamalarni ta'riflar bilan moslashtiring.
+Atamalar: 1) konseptualizatsiya; 2) verballashuv; 3) mental leksikon; 4) inferensiya; 5) tanalashganlik; 6) konseptosfera; 7) tezaurus; 8) propozitsiya.
+Ta'riflar: A) konseptning til birliklari orqali ifodalanishi; B) inson ongidagi so'zlar va ular haqidagi bilimlar tizimi; C) mavjud bilim asosida aniq aytilmagan axborotni chiqarish; D) olam haqidagi axborotni anglash va konseptlar shaklida shakllantirish jarayoni; E) tafakkur va ma'noning inson tanasi tajribasiga asoslanishi; F) xalq yoki shaxs konseptlarining yaxlit tizimi; G) predikat va argumentlardan iborat mantiqiy-semantik tuzilma; H) shaxs yoki jamoa ongidagi tushunchalar va ularning munosabatlari tizimi.
+N **Namuna:** 1 – D. «Konseptualizatsiya» – olam haqidagi axborotni anglash va ongda konseptlar shaklida shakllantirish jarayoni. E.S. Kubryakova uni kategoriyalash bilan qiyoslab, konseptualizatsiya minimal mazmun birliklarini ajratishga yo'naltirilganini ta'kidlaydi.
+T 2-topshiriq. Uch tilli terminologik lug'at tuzing.
+| O'zbek tilida | Rus tilida | Ingliz tilida | Qisqa izoh
+| konsept | концепт | concept | ongdagi bilim, tasavvur va baholarni mujassamlashtirgan tafakkur birligi
+| freym | ... | ... | ...
+| ssenariy | ... | ... | ...
+| kategoriyalash | ... | ... | ...
+| lisoniy olam manzarasi | ... | ... | ...
+| til shaxsi | ... | ... | ...
+| tasvir sxemasi | ... | ... | ...
+| prototip | ... | ... | ...
+| konseptual metafora | ... | ... | ...
+| bazaviy daraja | ... | ... | ...
+N **Namuna izoh:** «Konsept» atamasi uch tilda ham lotincha «conceptus» asosida shakllangan. Ammo ingliz tilidagi «concept» so'zi ko'pincha oddiy «tushuncha» ma'nosida ham qo'llanadi. Rus va o'zbek tilshunosligida esa «konsept» va «tushuncha» (понятие) atamalari farqlanadi. Lug'at tuzishda bunday farqlarni izohda ko'rsatish lozim.
+T 3-topshiriq. Atamalarni mazmuniy guruhlarga ajrating.
+Atamalar: kognitsiya, freym, olam manzarasi, kategoriyalash, skript, mentalitet, inferensiya, geshtalt, konseptosfera, verballashuv, prototip, til shaxsi, sxema, reprezentatsiya, tezaurus. Guruhlar: 1) bilish jarayonlari; 2) bilim tuzilmalari; 3) olam manzarasi va shaxs.
+N **Namuna:** «Kategoriyalash» – **bilish jarayonlari** guruhiga kiradi, chunki u ob'ektlarni guruhlarga birlashtirish jarayonini bildiradi. «Freym» esa **bilim tuzilmalari** guruhiga kiradi, chunki u jarayon emas, balki ongda saqlanadigan tuzilma (natija)dir.
+T 4-topshiriq. «Konsept» atamasi atrofida klaster (mental xarita) tuzing.
+Markazga «konsept» atamasini yozing. Undan chiquvchi tarmoqlarga: turlari, tuzilishi, ifodalanish vositalari, tadqiqot metodlari, yaqin atamalar va olimlarni joylashtiring.
+N **Namuna (bitta tarmoq):** KONSEPT → **Tuzilishi** → yadro / yaqin periferiya / uzoq periferiya; obraz / axborot mazmuni / interpretatsiya maydoni (Popova–Sternin); asosiy belgi / passiv belgilar / ichki shakl (Stepanov); tushunchaviy / obrazli / qadriyatli komponentlar (Karasik).
+## II. Keys-stadi
+T Keys: «Terminologik noaniqlik».
+Kognitiv tilshunoslikka oid o'zbek tilidagi ilmiy ishlarda bir tushuncha turli atamalar bilan nomlanadi: «antropotsentrik» – «antroposentrik»; «lisoniy olam manzarasi» – «olamning lisoniy manzarasi» – «til manzarasi»; «ssenariy» – «skript»; «konsept» – «tushuncha»; «verbalizatsiya» – «verballashuv» – «so'zlashtirish».
+Topshiriqlar:
+- Har bir juftlikda atamalar sinonimmi yoki ular turli tushunchalarni bildiradimi?
+- Atamashunoslik talablari (bir ma'nolilik, tizimlilik, qisqalik, milliy til qonuniyatlariga moslik) asosida qaysi variantni tavsiya etasiz?
+- O'zbek kognitiv terminologiyasini unifikatsiya qilish bo'yicha takliflaringizni yozing.
+N **Namuna javob (1-savol qismi):** «Konsept» – «tushuncha» juftligi sinonim emas: tushuncha mantiqiy kategoriya bo'lib, narsaning muhim belgilarini ifodalaydi; konsept esa ularga qo'shimcha ravishda obrazlar, baholar va madaniy ma'lumotlarni ham qamraydi. Shuning uchun «konsept»ni «tushuncha» deb tarjima qilish xatodir. «Ssenariy» – «skript» juftligi esa ko'p olimlar tomonidan sinonim sifatida qo'llanadi, lekin farqlovchi yondashuvda skript ssenariyning stereotip turi hisoblanadi.
+## III. Kazuslar
+T 1-kazus. Talaba maqolasidan parcha: «Ushbu ishda "non" freymi o'rganildi. Freym – bu so'zning lug'aviy ma'nosi. Uning prototipi "non" so'zining etimologiyasidir. Tadqiqot natijasida "non" konseptining skripti, ya'ni uning obrazi aniqlandi.» Parchadagi atamashunoslik xatolarini toping va tuzating.
+N **Namuna yechim (birinchi xato):** «Freym – bu so'zning lug'aviy ma'nosi» – noto'g'ri. Freym – stereotip vaziyat yoki ob'ekt haqidagi bilimlarning slot va terminallardan iborat tuzilmasi; u lug'aviy ma'nodan kengroq va ensiklopedik bilimlarni ham qamraydi. To'g'ri ifoda: «Freym – "non" bilan bog'liq vaziyat (non yopish, non sindirish, dasturxon) haqidagi bilimlar tuzilmasi.» Qolgan xatolarni o'zingiz toping va tuzating: prototip va etimologiya, skript va obraz atamalari.
+## IV. Testlar
+Q Olam haqidagi axborotni anglash va konseptlarni shakllantirish jarayoni qanday ataladi?
+o A) Kategoriyalash
+o B) Konseptualizatsiya
+o C) Verballashuv
+o D) Inferensiya
+Q «Deklarativ bilim» nima haqidagi bilim?
+o A) «Qanday?» – ko'nikmalar haqidagi
+o B) «Nima?» – faktlar haqidagi
+o C) «Qachon?» – vaqt haqidagi
+o D) «Nima uchun?» – sabablar haqidagi
+Q Velosiped haydashni bilish bilimning qaysi turiga kiradi?
+o A) Deklarativ
+o B) Protsedural
+o C) Ensiklopedik
+o D) Lisoniy
+Q «Konseptosfera» atamasini kiritgan olim kim?
+o A) D.S. Lixachyov
+o B) Yu.S. Stepanov
+o C) N.D. Arutyunova
+o D) Yu.N. Karaulov
+Q «Konsept» atamasining ingliz tilidagi muqobili qaysi?
+o A) notion
+o B) concept
+o C) frame
+o D) schema
+Q Lenekker nazariyasida «tirsak» tushunchasi «qo'l» fonida tushuniladi. Bu fon qanday ataladi?
+o A) Kognitiv soha (domain)
+o B) Prototip
+o C) Skript
+o D) Lakuna
+K 1–B; 2–B; 3–B; 4–A; 5–B; 6–A.
+## Nazariy savollar
+? Kognitiv tilshunoslik terminologiyasining shakllanishiga qaysi lug'atlar va asarlar xizmat qilgan?
+? Bilish jarayonlari bilan bog'liq atamalarni izohlang.
+? Bilim tuzilmalari bilan bog'liq atamalarni qiyoslang.
+? Olam manzarasi bilan bog'liq atamalarni tavsiflang.
+? O'zbek kognitiv terminologiyasidagi asosiy muammolar nimalardan iborat?
+L 1,5,7,9,8,13,14,18
+
+# 15-AMALIY MASHG'ULOT. ZAMONAVIY LINGVISTIKANING TAYANCH ATAMALARI VA ULARNING ILMIY IZOHLARI (2-qism)
+M Kognitiv semantika, kognitiv grammatika, pragmatika va lingvokulturologiyaning tayanch atamalarini (profil va baza, trayektor va landmark, konstruallanish, mental makon, konseptual integratsiya, presuppozitsiya, implikatura va boshqalar) matn tahlilida qo'llash; fan bo'yicha bilimlarni umumlashtirish.
+## I. Amaliy topshiriqlar
+T 1-topshiriq. Profil va bazani aniqlang.
+«Tirsak», «gipotenuza», «dushanba», «jiyan», «tog' cho'qqisi», «oyning to'lin payti» so'zlari uchun profil va bazani ko'rsating.
+N **Namuna («gipotenuza»):** **Profil** – to'g'ri burchak qarshisidagi tomon (so'z bevosita ifodalaydigan qism). **Baza** – to'g'ri burchakli uchburchak (fon). Bazasiz profil tushunilmaydi: to'g'ri burchakli uchburchak tushunchasini bilmagan kishi «gipotenuza»ni ham tushunmaydi (R. Lenekker).
+T 2-topshiriq. Trayektor va landmarkni aniqlang, bitta vaziyatning turlicha konstruallanishini ko'rsating.
+- «Lampa stol ustida osilib turibdi.»
+- «Bola ko'prikdan o'tib ketdi.»
+- «Ali Validan oldinda yugurmoqda.» – «Vali Alidan orqada yugurmoqda.»
+N **Namuna:** «Samolyot bulutlar ustidan uchib o'tdi.» **Trayektor** – samolyot (harakatlanuvchi, diqqat markazidagi ob'ekt); **landmark** – bulutlar (mo'ljal). Konstruallanish: «Bulutlar samolyot ostida qoldi» – bir xil vaziyat, lekin diqqat markazi boshqa ob'ektga ko'chirilgan va gap yo'lovchi nuqtai nazaridan tuzilgan.
+T 3-topshiriq. Presuppozitsiya va implikaturani aniqlang.
+- «Akmal yana imtihondan yiqildi.»
+- «Siz derazani yopa olasizmi?»
+- «Ukam chekishni tashladi.»
+- «– Ertaga kinoga boramizmi? – Ertaga imtihonim bor.»
+- «Endi yangi formulada – yanada samaraliroq!» (reklama)
+N **Namuna:** «Akmal yana imtihondan yiqildi.» **Presuppozitsiya:** Akmal ilgari ham imtihondan yiqilgan («yana» so'zi shuni bildiradi). Gapni inkor qilsak ham («Akmal yana yiqilmadi»), bu ma'lumot saqlanadi. **Implikatura** (vaziyatga qarab): so'zlovchi Akmalning o'qishga jiddiy qaramayotganidan noroziligini bildirmoqda.
+T 4-topshiriq. Konseptual integratsiya (blending) asosida ma'noning qanday paydo bo'lishini izohlang.
+- «Kompyuterimga virus yuqdi.»
+- «Uning ko'ngli – vayrona.»
+- «Bu muharrir – qaychi.»
+N **Namuna («Bu jarroh – qassob»):** 1-kirish makoni – **jarrohlik** (jarroh, bemor, skalpel, maqsad – davolash). 2-kirish makoni – **qassoblik** (qassob, go'sht, pichoq, maqsad – go'shtni bo'laklash). Umumiy makon – o'tkir asbob bilan tanani kesuvchi shaxs. **Aralash makon:** jarroh bemorni qassob go'shtga qanday munosabatda bo'lsa, shunday kesadi. **Yangi (emergent) ma'no:** «jarroh qo'pol va malakasiz». Bu ma'no hech bir kirish makonida alohida mavjud emas edi (J. Fokonye, M. Terner).
+T 5-topshiriq. «Atama-diktant».
+O'qituvchi atamaning ta'rifini o'qiydi, talabalar atamani yozadi (15 ta atama). So'ng talabalar daftarlarini almashib, o'zaro tekshiradi.
+N **Namuna:** O'qituvchi: «Gapning ma'nosini to'g'ri tushunish uchun zarur bo'lgan, so'zlovchi va tinglovchiga ma'lum deb hisoblanadigan bilim.» Talaba yozadi: **presuppozitsiya**.
+## II. Keys-stadi
+T Keys: «Reklama matnining kognitiv tahlili».
+Reklama matnlari: «Endi yanada mazali!», «Ota-bobolarimiz retsepti asosida», «Har bir oilaning ishonchli tanlovi», «Sizning tishlaringiz uchun himoya qalqoni».
+Topshiriqlar:
+- Har bir matndagi presuppozitsiya va implikaturani aniqlang.
+- Qaysi konseptual metaforalar va madaniy qadriyatlar (lingvokulturologik atamalar yordamida) ishlatilgan?
+- Reklama qanday qilib tinglovchi ongiga ta'sir qilishini kognitiv atamalar yordamida tushuntiring.
+N **Namuna javob («Endi yanada mazali!»):** **Presuppozitsiya:** mahsulot avval ham mazali bo'lgan («yanada» so'zi) – bu iste'molchining e'tirozini oldindan bartaraf qiladi. **Implikatura:** «mahsulot yangilangan, uni yana sotib olib ko'ring». «Ota-bobolarimiz retsepti asosida» matnida esa **qadriyatli komponent** – an'anaga hurmat ishlatilgan. Bu o'zbek madaniyatida yuqori baholanadigan qadriyat bo'lib, u mahsulotga ishonch uyg'otadi.
+## III. Kazuslar
+T 1-kazus. Seminarda bir talaba shunday dedi: «Kognitiv tilshunoslik atamalari – shunchaki modaga ergashish. "Konsept" – bu eski "tushuncha", "freym" – oddiy "vaziyat", "konstruallanish" – "nuqtai nazar". Yangi atamalarning hech qanday keragi yo'q.» Unga ilmiy asoslangan javob bering.
+N **Namuna yechim:** Yangi atama yangi tushunchani yoki eski hodisaga yangicha qarashni aks ettirganda o'zini oqlaydi. «Konsept» tushunchadan kengroq: u obraz, baho va madaniy axborotni ham qamraydi. «Freym» oddiy vaziyat emas: u vaziyat haqidagi bilimning ierarxik tuzilmasi bo'lib, slotlar, terminallar va standart qiymatlarga ega; bu tushunchalar sun'iy intellekt va matn tahlilida aniq qo'llanadi. «Konstruallanish» esa nuqtai nazar bilan birga diqqatni taqsimlash, profillash va batafsillik darajasini ham qamraydi. Ammo talaba fikrida ham jon bor: atamani tushunchaviy zaruratsiz, faqat «zamonaviy» ko'rinish uchun qo'llash xatodir.
+T 2-kazus. Talaba yakuniy nazorat uchun «Kognitiv tilshunoslikning 30 ta tayanch atamasi» mavzusida lug'at tayyorladi, lekin unda ta'riflar manbasiz va misollarsiz berilgan. Ishni qanday takomillashtirish mumkin?
+N **Namuna yechim (yo'nalish):** Har bir atamaga: 1) etimologiya; 2) muallif yoki manba (masalan, «freym – M. Minskiy, 1974»); 3) aniq ta'rif; 4) o'zbek tilidan misol; 5) rus va ingliz tillaridagi muqobil; 6) yaqin atamalarga havola qo'shilishi lozim...
+## IV. Testlar
+Q Til birligi ifodalaydigan va diqqat markaziga qo'yilgan konsept qismi qanday ataladi?
+o A) Baza
+o B) Profil
+o C) Landmark
+o D) Fon
+Q Mental makonlar nazariyasining muallifi kim?
+o A) J. Fokonye
+o B) R. Lenekker
+o C) L. Talmi
+o D) A. Goldberg
+Q «Ukam chekishni tashladi» gapining presuppozitsiyasi qaysi?
+o A) Ukam hech qachon chekmagan
+o B) Ukam avval chekkan
+o C) Ukam sport bilan shug'ullanadi
+o D) Ukam kasal bo'lgan
+Q Implikatura nazariyasi qaysi olim nomi bilan bog'liq?
+o A) P. Grays
+o B) J. Syorl
+o C) N. Xomskiy
+o D) E. Benvenist
+Q «Diskurs – hayotga cho'mgan nutq» degan ta'rif kimga tegishli?
+o A) N.D. Arutyunova
+o B) T. van Deyk
+o C) Yu.S. Stepanov
+o D) E.S. Kubryakova
+Q «Biz qanday fikrlaymiz» (2002) kitobida qaysi nazariya ishlab chiqilgan?
+o A) Prototiplar nazariyasi
+o B) Konseptual integratsiya (blending) nazariyasi
+o C) Freym semantikasi
+o D) Nutqiy aktlar nazariyasi
+K 1–B; 2–A; 3–B; 4–A; 5–A; 6–B.
+## Nazariy savollar
+? Profil va baza, trayektor va landmark tushunchalarini misollar bilan izohlang.
+? Konstruallanish nima va u tilda qanday namoyon bo'ladi?
+? Mental makonlar va konseptual integratsiya nazariyasining mohiyatini tushuntiring.
+? Presuppozitsiya va implikaturaning farqi nimada?
+? Kognitiv tilshunoslik atamalarining zamonaviy lingvistikadagi ahamiyatini baholang.
+L 1,5,7,41,35,36,28,29
