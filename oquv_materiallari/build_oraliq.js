@@ -141,3 +141,27 @@ const doc = new Document({
   }],
 });
 Packer.toBuffer(doc).then((buf) => { fs.writeFileSync(OUT, buf); console.log("Yozildi:", OUT); });
+
+// Biletlar: har bir biletda I bo'limdagi bitta nazariy savol
+const TICKETS_OUT = path.join(__dirname, "Oraliq_nazorat_biletlar.docx");
+const tBox = { style: BorderStyle.SINGLE, size: 8, color: "1F4E79", space: 6 };
+const tPara = (children, { first, last, align = AlignmentType.CENTER, after = 40 } = {}) => new Paragraph({
+  border: { top: first ? tBox : undefined, bottom: last ? tBox : undefined, left: tBox, right: tBox },
+  alignment: align, keepNext: !last, keepLines: true, spacing: { after: last ? 360 : after }, children,
+});
+const tickets = theory.flatMap((q, i) => [
+  tPara([new TextRun({ text: "________________________________ universiteti", size: 22 })], { first: true }),
+  tPara(runs("«Kognitiv tilshunoslik» fanidan oraliq nazorat", { bold: true, size: 24 })),
+  tPara([new TextRun({ text: `BILET № ${i + 1}`, bold: true, size: 28, color: "1F3864" })], { after: 120 }),
+  tPara(runs(`Savol: ${q}`), { align: AlignmentType.JUSTIFIED, after: 200 }),
+  tPara(runs("Kafedra mudiri: ________________          Fan o'qituvchisi: ________________", { size: 22 }), { last: true }),
+]);
+const ticketDoc = new Document({
+  title: typo("Kognitiv tilshunoslik: oraliq nazorat biletlari"),
+  styles: { default: { document: { run: { font: FONT, size: 28 }, paragraph: { spacing: { line: 276 } } } } },
+  sections: [{
+    properties: { page: { margin: { top: 851, bottom: 851, left: 1418, right: 851 } } },
+    children: tickets,
+  }],
+});
+Packer.toBuffer(ticketDoc).then((buf) => { fs.writeFileSync(TICKETS_OUT, buf); console.log("Yozildi:", TICKETS_OUT); });
