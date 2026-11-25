@@ -170,3 +170,25 @@ const ticketDoc = new Document({
   }],
 });
 Packer.toBuffer(ticketDoc).then((buf) => { fs.writeFileSync(TICKETS_OUT, buf); console.log("Yozildi:", TICKETS_OUT); });
+
+// Oraliq nazorat savollari ro'yxati (biletlardagi savollar asosida)
+const QUESTIONS_OUT = path.join(__dirname, "Oraliq_nazorat_savollari.docx");
+const questionsDoc = new Document({
+  title: typo("Kognitiv tilshunoslik: oraliq nazorat savollari"),
+  styles: { default: { document: { run: { font: FONT, size: 28 }, paragraph: { spacing: { line: 360 } } } } },
+  numbering: { config: [numCfg("q", 709, 425)] },
+  sections: [{
+    properties: { page: { margin: { top: 1134, bottom: 1134, left: 1701, right: 850 } } },
+    children: [
+      new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 120 },
+        children: runs("“Kognitiv tilshunoslik” fanidan", { bold: true }) }),
+      new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 360 },
+        children: runs("ORALIQ NAZORAT SAVOLLARI", { bold: true }) }),
+      ...ticketQuestions.map((q) => new Paragraph({ numbering: { reference: "q", level: 0 },
+        alignment: AlignmentType.LEFT, spacing: { after: 60 }, children: runs(q) })),
+      new Paragraph({ spacing: { before: 480 }, tabStops: [{ type: "left", position: 1600 }, { type: "left", position: 4900 }],
+        children: [new TextRun({ text: typo("\tTuzuvchi\tprof. Z.Do'simov"), bold: true })] }),
+    ],
+  }],
+});
+Packer.toBuffer(questionsDoc).then((buf) => { fs.writeFileSync(QUESTIONS_OUT, buf); console.log("Yozildi:", QUESTIONS_OUT); });
