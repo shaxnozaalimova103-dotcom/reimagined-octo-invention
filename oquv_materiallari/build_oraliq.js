@@ -154,7 +154,7 @@ const tickets = ticketQuestions.flatMap((q, i) => [
   tPara(runs("“Kognitiv tilshunoslik” fanidan oraliq nazorat uchun", { bold: true })),
   tPara([new TextRun({ text: `${i + 1}-BILET`, bold: true })]),
   tPara(runs(`1. ${q}`), { alignment: AlignmentType.JUSTIFIED, indent: { firstLine: 567 }, spacing: { after: 200 } }),
-  tPara([new TextRun({ text: "\tTuzuvchi\tdots. Sh.M.Alimova", bold: true })], {
+  tPara([new TextRun({ text: typo("\tTuzuvchi\tprof. Z.Do'simov"), bold: true })], {
     alignment: AlignmentType.LEFT, tabStops: [{ type: "left", position: 1600 }, { type: "left", position: 4900 }],
     keepNext: false, spacing: { after: 0 },
     border: { bottom: { style: BorderStyle.DASHED, size: 6, color: "808080", space: 12 } },
