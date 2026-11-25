@@ -146,21 +146,24 @@ Packer.toBuffer(doc).then((buf) => { fs.writeFileSync(OUT, buf); console.log("Yo
 const TICKETS_OUT = path.join(__dirname, "Oraliq_nazorat_biletlar.docx");
 const ticketQuestions = fs.readFileSync(path.join(__dirname, "manba_oraliq", "biletlar.txt"), "utf8")
   .split("\n").filter((l) => l.startsWith("? ")).map((l) => l.slice(2).trim());
-const tBox = { style: BorderStyle.SINGLE, size: 8, color: "1F4E79", space: 6 };
-const tPara = (children, { first, last, align = AlignmentType.CENTER, after = 40 } = {}) => new Paragraph({
-  border: { top: first ? tBox : undefined, bottom: last ? tBox : undefined, left: tBox, right: tBox },
-  alignment: align, keepNext: !last, keepLines: true, spacing: { after: last ? 360 : after }, children,
+// Namuna shakli: sarlavha, «N-BILET», raqamlangan savol, «Tuzuvchi» qatori, biletlar orasida uzuq chiziq
+const tPara = (children, opts = {}) => new Paragraph({
+  alignment: AlignmentType.CENTER, keepNext: true, keepLines: true, spacing: { after: 120 }, children, ...opts,
 });
 const tickets = ticketQuestions.flatMap((q, i) => [
-  tPara([new TextRun({ text: "________________________________ universiteti", size: 22 })], { first: true }),
-  tPara(runs("«Kognitiv tilshunoslik» fanidan oraliq nazorat", { bold: true, size: 24 })),
-  tPara([new TextRun({ text: `BILET № ${i + 1}`, bold: true, size: 28, color: "1F3864" })], { after: 120 }),
-  tPara(runs(`Savol: ${q}`), { align: AlignmentType.JUSTIFIED, after: 200 }),
-  tPara(runs("Kafedra mudiri: ________________          Fan o'qituvchisi: ________________", { size: 22 }), { last: true }),
+  tPara(runs("“Kognitiv tilshunoslik” fanidan oraliq nazorat uchun", { bold: true })),
+  tPara([new TextRun({ text: `${i + 1}-BILET`, bold: true })]),
+  tPara(runs(`1. ${q}`), { alignment: AlignmentType.JUSTIFIED, indent: { firstLine: 567 }, spacing: { after: 200 } }),
+  tPara([new TextRun({ text: "\tTuzuvchi\tdots. Sh.M.Alimova", bold: true })], {
+    alignment: AlignmentType.LEFT, tabStops: [{ type: "left", position: 1600 }, { type: "left", position: 4900 }],
+    keepNext: false, spacing: { after: 0 },
+    border: { bottom: { style: BorderStyle.DASHED, size: 6, color: "808080", space: 12 } },
+  }),
+  new Paragraph({ spacing: { after: 240 }, children: [] }),
 ]);
 const ticketDoc = new Document({
   title: typo("Kognitiv tilshunoslik: oraliq nazorat biletlari"),
-  styles: { default: { document: { run: { font: FONT, size: 28 }, paragraph: { spacing: { line: 276 } } } } },
+  styles: { default: { document: { run: { font: FONT, size: 28 }, paragraph: { spacing: { line: 360 } } } } },
   sections: [{
     properties: { page: { margin: { top: 851, bottom: 851, left: 1418, right: 851 } } },
     children: tickets,
